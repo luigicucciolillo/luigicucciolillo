@@ -1,11 +1,8 @@
 # Courses
 ## Started
-- Introduction to Cloud Infrastructure Technologies (LFS151)
-theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
-- Introduction to DevOps and Site Reliability Engineering (LFS162)
-theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
-- Introduction to Kubernetes (LFS158)
-theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+- Introduction to Cloud Infrastructure Technologies (LFS151) - theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
+- Introduction to DevOps and Site Reliability Engineering (LFS162) - theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
+- Introduction to Kubernetes (LFS158) - heLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 
 ## Completed
 - DevOps with Docker - April 2025
@@ -14,8 +11,7 @@ theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/i
   Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/Full%20stack%20development%20-%20Nuclio%20digital%20school)
 
 # Workshop
-- Aprende a analizar datos con IA generativa - April 2025
-   Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa)
+- Aprende a analizar datos con IA generativa - April 2025 - Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa)
 
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
