@@ -13,6 +13,9 @@
 # Workshop
 - Aprende a analizar datos con IA generativa - April 2025 - Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa)
 
+# Waiting
+- DevOps with kubernetes - start in june 
+  University of Helsinki <br> [more here](https://devopswithkubernetes.com/)
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
