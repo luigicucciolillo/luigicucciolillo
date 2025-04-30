@@ -8,7 +8,7 @@
 - DevOps with Docker                                                 - April 2025      - University of Helsinki - [More here](https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University)
 - Full Stack Web Development Course                                  - January 2025    - Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/Full%20stack%20development%20-%20Nuclio%20digital%20school)
 
-# Workshop
+## Workshop
 - Aprende a analizar datos con IA generativa                         - April 2025      - Nuclio digistal School - [more here](https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa)
 
 # Waiting
