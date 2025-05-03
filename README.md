@@ -23,8 +23,8 @@
     <tr>
       <td>Aprende a analizar datos con IA generativa - Workshop</td>
       <td>April 2025</td>
-      <td>Nuclio digistal School</td>
-      <td><a href="[https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University](https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa)" target="_blank">More here</a></td>
+      <td>Nuclio Digital School</td>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">More here</a></td>
     </tr>
     <tr>
       <td>DevOps with Docker</td>
