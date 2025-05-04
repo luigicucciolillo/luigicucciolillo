@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td>Aprende a analizar datos con IA generativa - Workshop</td>
-      <td>04/2025</td>
+      <td>04/25</td>
       <td>Nuclio Digital School</td>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">link</a></td>
       <td>Completed</td>
