@@ -12,6 +12,9 @@
     .large-text {
       font-size: 24px;
     }
+    p {
+      font-size: 10px;
+    }
   </style>
 </head>
 <body>
@@ -28,7 +31,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>Introduction to Cloud Infrastructure Technologies (LFS151)</td>
+      <td>
+        <p>This paragraph has larger text.
+        Introduction to Cloud Infrastructure Technologies (LFS151)
+      </p>
+      </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
       <td><a href="https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">link</a></td>
