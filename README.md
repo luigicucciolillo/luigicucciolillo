@@ -87,11 +87,6 @@
 💬¹ = DevOps with kubernetes starts in june
 💬² = Stopped to follow others. to complete
 </sub>
-## Waiting
-
-
-
-- DevOps with kubernetes                                             - start in june   - University of Helsinki  [more here](https://devopswithkubernetes.com/)
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
