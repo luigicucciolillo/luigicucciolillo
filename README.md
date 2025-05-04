@@ -83,6 +83,7 @@
 🎓 = course
 🛠️ = workshop 
 </sub> 
+<br>
 
 <sub> 
 💬¹ = DevOps with kubernetes starts in june <br>
