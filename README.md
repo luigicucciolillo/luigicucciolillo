@@ -1,8 +1,4 @@
 # Courses and workshop
-## Started
-- Introduction to Kubernetes (LFS158)                                - theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
-
-## Completed
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -64,7 +60,7 @@
   </tbody>
 </table>
 
-✅ = completed | ▶️ = started
+<sub> ✅ = completed | ▶️ = started </sub>
 ## Waiting
 - DevOps with kubernetes                                             - start in june   - University of Helsinki  [more here](https://devopswithkubernetes.com/)
 <!--
