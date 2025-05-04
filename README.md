@@ -5,20 +5,6 @@
 
 ## Completed
 
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .large-text {
-      font-size: 24px;
-    }
-    p {
-      font-size: 10px;
-    }
-  </style>
-</head>
-<body>
-  <p class="large-text">This is large text using a class.</p>
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -71,8 +57,6 @@
     </tr>
   </tbody>
 </table>
-</body>
-</html>
 
 ## Waiting
 - DevOps with kubernetes                                             - start in june   - University of Helsinki  [more here](https://devopswithkubernetes.com/)
