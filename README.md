@@ -2,13 +2,6 @@
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
-        <tr>
-      <td>DevOps with kubernetes</td>
-      <td>06/25</td>
-      <td>University of Helsinki</td>
-      <td><a href="https://devopswithkubernetes.com/" target="_blank">link</a></td>
-      <td>🛑💬</td>
-    </tr>
     <tr>
       <th>Course</th>
       <th>Date</th>
@@ -18,6 +11,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>DevOps with kubernetes</td>
+      <td>06/25</td>
+      <td>University of Helsinki</td>
+      <td><a href="https://devopswithkubernetes.com/" target="_blank">link</a></td>
+      <td>🛑💬</td>
+    </tr>
     <tr>
       <td>
         Introduction to Kubernetes (LFS158)
@@ -68,7 +68,6 @@
 </table>
 
 <sub> ✅ = completed | ▶️ = started 
-
 🟢 = completed 
 🟡 = started
 🟠	Onge circle (pending action or middle status)
