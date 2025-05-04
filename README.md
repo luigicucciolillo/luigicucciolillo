@@ -67,14 +67,14 @@
   </tbody>
 </table>
 
-<sub> ✅ = completed | ▶️ = started 
-🟢 = completed 
-🟡 = started
-🟠	Onge circle (pending action or middle status)
-🛑 = blocked/ waiting to start
+<sub> 
+🟢 = completed | 
+🟡 = started |
+🟠 = ... |
+🔵 = ... |
+🛑 = blocked/ waiting to start <br>
 🎓 = course
-🛠️ = workshop
-🔵
+🛠️ = workshop <br>
 💬 = DevOps with kubernetes starts in june
 </sub>
 ## Waiting
