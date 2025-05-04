@@ -16,7 +16,7 @@
       <td>06/25</td>
       <td>University of Helsinki</td>
       <td><a href="https://devopswithkubernetes.com/" target="_blank">link</a></td>
-      <td>🛑💬</td>
+      <td>🛑💬²</td>
     </tr>
     <tr>
       <td>
@@ -58,6 +58,13 @@
       <td>🟢</td>
     </tr>
     <tr>
+      <td>NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</td>
+      <td>03/25</td>
+      <td>Udemy</td>
+      <td><a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">link</a></td>
+      <td>🟠💬¹</td>
+    </tr>
+    <tr>
       <td>Full Stack Web Development Course</td>
       <td>01/25</td>
       <td>Nuclio Digital School</td>
@@ -70,12 +77,15 @@
 <sub> 
 🟢 = completed | 
 🟡 = started |
-🟠 = ... |
+🟠 = stopped |
 🔵 = ... |
 🛑 = blocked/ waiting to start <br>
 🎓 = course
 🛠️ = workshop <br>
-💬 = DevOps with kubernetes starts in june
+  ---
+💬¹  💬²  💬³  💬⁴  💬⁵
+💬¹ = DevOps with kubernetes starts in june
+💬² = Stopped to follow others. to complete
 </sub>
 ## Waiting
 
