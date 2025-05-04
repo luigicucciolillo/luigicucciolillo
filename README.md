@@ -74,6 +74,11 @@
   </tbody>
 </table>
 
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead>
+    <tr>
+      <td>
 <sub> 
 🟢 = completed | 
 🟡 = started |
@@ -81,11 +86,19 @@
 🔵 = ... |
 🛑 = blocked/ waiting to start
 🎓 = course
-🛠️ = workshop <br>
-<br>
-💬¹ = DevOps with kubernetes starts in june
-💬² = Stopped to follow others. to complete
+🛠️ = workshop 
+</sub> 
+</td>
+  </tr>
+<tr>
+      <td>
+<sub> 💬¹ = DevOps with kubernetes starts in june
+💬² = NodeJS ... Stopped to follow others
 </sub>
+        </td>
+  </tr>
+  </tbody>
+</table>
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
