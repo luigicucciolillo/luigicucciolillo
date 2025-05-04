@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>
-        <small>This is larger text in a README.md Introduction to Cloud Infrastructure Technologies (LFS151)</small>
+        <sub>This is larger text in a README.md Introduction to Cloud Infrastructure Technologies (LFS151)</sub>
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
