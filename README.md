@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td>
-        <sub>Introduction to Cloud Infrastructure Technologies (LFS151)</sub>
+        Introduction to Cloud Infrastructure Technologies (LFS151)
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
@@ -26,13 +26,11 @@
       <td>Started</td>
     </tr>
     <tr>
-      <sub>
-      <td>Introduction to DevOps and Site Reliability Engineering (LFS162)</td>
+      <td><sub>Introduction to DevOps and Site Reliability Engineering (LFS162)</sub></td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">link</a></td>
       <td>Completed</td>
-      </sub>
     </tr>
     <tr>
       <td>Aprende a analizar datos con IA generativa - Workshop</td>
