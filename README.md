@@ -1,6 +1,5 @@
 # Courses and workshop
 ## Started
-- Introduction to Cloud Infrastructure Technologies (LFS151)         - theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
 - Introduction to Kubernetes (LFS158)                                - theLinuxFoundation - [more here](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 
 ## Completed
@@ -16,6 +15,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        Introduction to Kubernetes (LFS158)
+      </td>
+      <td>05/25</td>
+      <td>The Linux Foundation</td>
+      <td><a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">link</a></td>
+      <td>▶️</td>
+    </tr>
     <tr>
       <td>
         Introduction to Cloud Infrastructure Technologies (LFS151)
