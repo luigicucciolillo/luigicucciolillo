@@ -86,8 +86,8 @@
 <br>
 
 <sub> 
-💬¹ = DevOps with kubernetes starts in june <br>
-💬² = NodeJS ... Stopped to follow others
+💬² = DevOps with kubernetes starts in june <br>
+💬¹ = NodeJS ... Stopped to follow others
 </sub>
 
 <!--
