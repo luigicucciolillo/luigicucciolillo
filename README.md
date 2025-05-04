@@ -21,7 +21,7 @@
         <sub>This is larger text in a README.md Introduction to Cloud Infrastructure Technologies (LFS151)</sub>
       </td>
       <td>05/25</td>
-      <td>The Linux Foundation</td>
+      <td>Linux Foundation</td>
       <td><a href="https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">link</a></td>
       <td>Started</td>
     </tr>
