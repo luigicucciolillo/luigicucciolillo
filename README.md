@@ -79,11 +79,10 @@
 🟡 = started |
 🟠 = stopped |
 🔵 = ... |
-🛑 = blocked/ waiting to start <br>
+🛑 = blocked/ waiting to start
 🎓 = course
 🛠️ = workshop <br>
-  ---
-💬¹  💬²  💬³  💬⁴  💬⁵
+<br>
 💬¹ = DevOps with kubernetes starts in june
 💬² = Stopped to follow others. to complete
 </sub>
@@ -91,7 +90,7 @@
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+💬¹  💬²  💬³  💬⁴  💬⁵
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
