@@ -18,8 +18,7 @@
   <tbody>
     <tr>
       <td>
-        <p>This paragraph has larger text.
-        Introduction to Cloud Infrastructure Technologies (LFS151)
+        <p style="font-size:5px;">This is larger text in a README.md Introduction to Cloud Infrastructure Technologies (LFS151)
       </p>
       </td>
       <td>05/25</td>
