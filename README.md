@@ -79,8 +79,8 @@
 🟡 = started |
 🟠 = stopped |
 🔵 = ... |
-🛑 = blocked/ waiting to start
-🎓 = course
+🛑 = blocked/ waiting to start |
+🎓 = course |
 🛠️ = workshop 
 </sub> 
 <br>
