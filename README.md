@@ -16,10 +16,17 @@
   </thead>
   <tbody>
     <tr>
+      <td>Introduction to Cloud Infrastructure Technologies (LFS151)</td>
+      <td>05/25</td>
+      <td>The Linux Foundation</td>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">link</a></td>
+      <td>Started</td>
+    </tr>
+    <tr>
       <td>Introduction to DevOps and Site Reliability Engineering (LFS162)</td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">More here</a></td>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">link</a></td>
       <td>Completed</td>
     </tr>
     <tr>
