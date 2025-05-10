@@ -12,6 +12,20 @@
   </thead>
   <tbody>
     <tr>
+      <td>Cloud-Native Development with OpenShift and Kubernetes</td>
+      <td>?/25</td>
+      <td>Red Hat/ Coursera</td>
+      <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">link</a></td>
+      <td>🛑💬³</td>
+    </tr>
+    <tr>
+      <td>Introduction to Jenkins (LFS167)</td>
+      <td>?/25</td>
+      <td>The Linux Foundation</td>
+      <td><a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-jenkins-lfs167" target="_blank">link</a></td>
+      <td>🛑💬³</td>
+    </tr>
+    <tr>
       <td>DevOps with kubernetes</td>
       <td>06/25</td>
       <td>University of Helsinki</td>
@@ -86,6 +100,7 @@
 <br>
 
 <sub> 
+💬³ = On the bucket list, to start asap <br>
 💬² = DevOps with kubernetes starts in june <br>
 💬¹ = NodeJS ... Stopped to follow others
 </sub>
