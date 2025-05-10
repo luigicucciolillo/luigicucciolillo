@@ -26,10 +26,16 @@
       <td>🛑💬³</td>
     </tr>
     <tr>
-      <td>DevOps with kubernetes</td>
+      <td>
+        <a href="https://devopswithkubernetes.com/" target="_blank">
+        DevOps with kubernetes
+        </a>
+      </td>
       <td>06/25</td>
       <td>University of Helsinki</td>
-      <td><a href="https://devopswithkubernetes.com/" target="_blank">link</a></td>
+      <td>
+      5 ECTS
+      </td>
       <td>🛑💬²</td>
     </tr>
     <tr>
@@ -78,7 +84,7 @@
       </td>
       <td>04/25</td>
       <td>University of Helsinki</td>
-      <td>3 ETCS</td>
+      <td>3 ECTS</td>
       <td>🟢🎓</td>
     </tr>
     <tr>
@@ -120,7 +126,11 @@
 <sub> 
 💬³ = On the bucket list, to start asap <br>
 💬² = DevOps with kubernetes starts in june <br>
-💬¹ = NodeJS ... Stopped to follow others
+💬¹ = NodeJS ... Stopped to follow others <br>
+<a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">
+ECTS
+</a>
+= European Credit Transfer and Accumulation System (ECTS)
 </sub>
 
 <!--
