@@ -6,7 +6,7 @@
       <th>Course</th>
       <th>Date</th>
       <th>Institution</th>
-      <th>Link</th>
+      <th>Lenght</th>
       <th> - </th>
     </tr>
   </thead>
