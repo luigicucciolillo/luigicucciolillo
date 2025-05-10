@@ -12,17 +12,29 @@
   </thead>
   <tbody>
     <tr>
-      <td>Cloud-Native Development with OpenShift and Kubernetes</td>
+      <td>
+        <a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
+        Cloud-Native Development with OpenShift and Kubernetes
+        </a>
+      </td>
       <td>?/25</td>
       <td>Red Hat/ Coursera</td>
-      <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">link</a></td>
+      <td>
+      1 month
+      </td>
       <td>🛑💬³</td>
     </tr>
     <tr>
-      <td>Introduction to Jenkins (LFS167)</td>
+      <td>
+        <a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-jenkins-lfs167" target="_blank">
+        Introduction to Jenkins (LFS167)
+        </a>
+      </td>
       <td>?/25</td>
       <td>The Linux Foundation</td>
-      <td><a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-jenkins-lfs167" target="_blank">link</a></td>
+      <td>
+      25 hours
+      </td>
       <td>🛑💬³</td>
     </tr>
     <tr>
@@ -40,11 +52,15 @@
     </tr>
     <tr>
       <td>
-        Introduction to Kubernetes (LFS158)
+        <a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">
+          Introduction to Kubernetes (LFS158)
+        </a>
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
-      <td><a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">link</a></td>
+      <td>
+      20 hours
+      </td>
       <td>🟡🎓</td>
     </tr>
     <tr>
