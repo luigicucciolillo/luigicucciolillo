@@ -168,4 +168,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://www.coursera.org/learn/npp-linux-networking
+
+https://www.coursera.org/learn/applications-development-microservices-serverless-openshift
+https://www.coursera.org/learn/advanced-kubernetes-third-course-3
+
+https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
+https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
