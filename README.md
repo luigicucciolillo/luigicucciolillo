@@ -66,7 +66,7 @@
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
-      <td>10-12 h</td>
+      <td>12 hours</td>
       <td>🟢🎓</td>
     </tr>
     <tr>
