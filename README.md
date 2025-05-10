@@ -43,18 +43,24 @@
     </tr>
     <tr>
       <td>
-        Introduction to Cloud Infrastructure Technologies (LFS151)
+        <a href="https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">
+          Introduction to Cloud Infrastructure Technologies (LFS151)
+        </a>
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
-      <td><a href="https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">link</a></td>
+      <td>50 hours</td>
       <td>🟡🎓</td>
     </tr>
     <tr>
-      <td>Introduction to DevOps and Site Reliability Engineering (LFS162)</td>
+      <td>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">
+        Introduction to DevOps and Site Reliability Engineering (LFS162)
+        </a>
+      </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">link</a></td>
+      <td>10-12 h</td>
       <td>🟢🎓</td>
     </tr>
     <tr>
@@ -76,10 +82,14 @@
       <td>🟢🎓</td>
     </tr>
     <tr>
-      <td>NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</td>
+      <td>
+        <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">
+        NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
+        </a>
+      </td>
       <td>03/25</td>
       <td>Udemy</td>
-      <td><a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">link</a></td>
+      <td>-</td>
       <td>🟠💬¹</td>
     </tr>
     <tr>
