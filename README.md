@@ -66,7 +66,7 @@
         <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
-          Kubernetes masterclass from Rancher
+          Kubernetes masterclass from Rancher Labs
         </a>
         <br>
         <sub> - 
@@ -83,13 +83,13 @@
         <br>
         <sub> - 
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh" target="_blank">
-          Kubernetes Master Class Understanding and Implementing Service Mesh
+          Understanding and Implementing Service Mesh
         </a>
         </sub> 
         <br>
         <sub> - 
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana" target="_blank">
-          Kubernetes Master Class Monitoring and Alerting with Prometheus & Grafana
+          Monitoring and Alerting with Prometheus & Grafana
         </a>
         </sub> 
         <br>
