@@ -1,4 +1,4 @@
-# Courses and workshop
+# Learning ...
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
@@ -62,6 +62,30 @@
       20 hours
       </td>
       <td>🟡🎓</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
+          Kubernetes masterclass from Rancher
+        </a>
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
+          Intro to kubernetes and rancher
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes" target="_blank">
+          Intro to K3s Online Training Lightweight Kubernetes
+        </a>
+        </sub> 
+        <br>
+      </td>
+      <td>05/25</td>
+      <td>Rancher Labs</td>
+      <td>6 hours</td>
+      <td>🟢⚡</td>
     </tr>
     <tr>
       <td>
@@ -141,7 +165,8 @@
 🔵 = ... |
 🛑 = blocked/ waiting to start |
 🎓 = course |
-🛠️ = workshop 
+🛠️ = workshop |
+⚡ = masterclass
 </sub> 
 <br>
 
