@@ -77,7 +77,7 @@
         <br>
         <sub> - 
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes" target="_blank">
-          Intro to K3s Online Training Lightweight Kubernetes
+          Intro to K3s Online Training: Lightweight Kubernetes
         </a>
         </sub> 
         <br>
