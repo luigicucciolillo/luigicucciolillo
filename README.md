@@ -65,14 +65,14 @@
     </tr>
     <tr>
       <td>
-        <a href="https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/" target="_blank">
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">
           Introduction to Cloud Infrastructure Technologies (LFS151)
         </a>
       </td>
       <td>05/25</td>
       <td>The Linux Foundation</td>
       <td>50 hours</td>
-      <td>🟡🎓</td>
+      <td>🟢🎓</td>
     </tr>
     <tr>
       <td>
