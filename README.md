@@ -95,12 +95,6 @@
         </sub> 
         <br>
         <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
-          Corso Knative, a serverless environment for Kubernetes
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google" target="_blank">
           Inside Knative Serving
         </a>
