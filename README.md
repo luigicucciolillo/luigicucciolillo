@@ -109,15 +109,16 @@
       </td>
       <td>05/25</td>
       <td>
-        Barthwal, Google
         <br>
-        Salatino
+        <sub> Barthwal, Google </sub>
+        <br>
+        <sub> Salatino, Diagrid.io</sub>
       <br>
-      Hadas & Maximilien, IBM
+      <sub> Hadas & Maximilien, IBM</sub>
       <br>
-      Leoni, Sorint lab
+      <sub> Leoni, Sorint lab</sub>
       <br>
-      Tornow&Chen, SAP&Google
+      <sub> Tornow&Chen, SAP&Google</sub>
       <br>
       </td>
       <td>3h15m hours</td>
