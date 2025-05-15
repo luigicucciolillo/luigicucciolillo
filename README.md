@@ -109,15 +109,15 @@
       </td>
       <td>05/25</td>
       <td>
-        Nikhil Barthwal, Google
+        Barthwal, Google
         <br>
-        Mauricio Salatino
+        Salatino
       <br>
-      David Hadas & Michael Maximilien, IBM
+      Hadas & Maximilien, IBM
       <br>
-      Luigi Leoni - Sorint lab
+      Leoni, Sorint lab
       <br>
-      Dominik Tornow, SAP & Andrew Chen, Google
+      Tornow&Chen, SAP&Google
       <br>
       </td>
       <td>3h15m hours</td>
