@@ -63,6 +63,66 @@
       </td>
       <td>🟡🎓</td>
     </tr>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
+          Masterclasses on Knative
+        </a>
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google" target="_blank">
+          Knative: A Kubernetes Framework to Manage Serverless Workloads
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA" target="_blank">
+          Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr & KEDA
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must" target="_blank">
+          Use Knative When You Can, and Kubernetes When You Must
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
+          Corso Knative, a serverless environment for Kubernetes
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
+          Corso Knative, a serverless environment for Kubernetes
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google" target="_blank">
+          Inside Knative Serving
+        </a>
+        </sub> 
+        <br>
+      </td>
+      <td>05/25</td>
+      <td>
+        Nikhil Barthwal, Google
+        <br>
+        Mauricio Salatino
+      <br>
+      David Hadas & Michael Maximilien, IBM
+      <br>
+      Luigi Leoni - Sorint lab
+      <br>
+      Dominik Tornow, SAP & Andrew Chen, Google
+      <br>
+      </td>
+      <td>3h15m hours</td>
+      <td>🟢⚡</td>
+    </tr>
         <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
