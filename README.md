@@ -247,6 +247,7 @@ ECTS
 = European Credit Transfer and Accumulation System (ECTS)
 </sub>
 <br>
+<br>
 
 **Resume** : 
 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/resume/CV_cucciolillo.pdf" target="_blank">
