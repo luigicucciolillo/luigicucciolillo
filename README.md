@@ -78,7 +78,7 @@
         <br>
         <sub> - 
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA" target="_blank">
-          Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr & KEDA
+          Unleashing the Power of Serverless on Kubernetes with Knative,Crossplane,Dapr
         </a>
         </sub> 
         <br>
