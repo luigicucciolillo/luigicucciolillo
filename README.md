@@ -246,6 +246,13 @@ ECTS
 </a>
 = European Credit Transfer and Accumulation System (ECTS)
 </sub>
+<br>
+
+**Resume** : 
+<a href="https://github.com/luigicucciolillo/Certifications/blob/main/resume/CV_cucciolillo.pdf" target="_blank">
+here
+</a>
+
 
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
