@@ -115,7 +115,7 @@
       <sub> Tornow&Chen, SAP&Google</sub>
       <br>
       </td>
-      <td>3h15m</td>
+      <td>3h 15m</td>
       <td>🟢⚡</td>
     </tr>
         <tr>
