@@ -50,7 +50,7 @@
       </td>
       <td>🛑💬²</td>
     </tr>
-    <tr>
+        <tr>
       <td>
         <a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">
           Introduction to Kubernetes (LFS158)
@@ -60,6 +60,26 @@
       <td>The Linux Foundation</td>
       <td>
       20 hours
+      </td>
+      <td>🟡🎓</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
+          Advanced Cloud Engineer IT Professional Program (LFS002)
+        </a>
+        <br>
+        <sub>- <a href="y" target="_blank">  Containers Fundamentals (LFS253) </a></sub><br>
+        <sub>- <a href="y" target="_blank">  Kubernetes Fundamentals (LFS258) </a></sub><br>
+        <sub>- <a href="y" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241) </a></sub><br>
+        <sub>- <a href="y" target="_blank">  Cloud Native Logging with Fluentd and Fluent Bit (LFS242) </a></sub><br>
+        <sub>- <a href="y" target="_blank">  Managing Kubernetes Applications with Helm (LFS244) </a></sub><br>
+        <sub>- <a href="y" target="_blank">  Service Mesh Fundamentals (LFS243) </a></sub><br>
+      </td>
+      <td>06/25</td>
+      <td>The Linux Foundation</td>
+      <td>
+      6 months
       </td>
       <td>🟡🎓</td>
     </tr>
