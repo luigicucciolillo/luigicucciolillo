@@ -85,7 +85,6 @@
       </td>
       <td>🟡🎓</td>
     </tr>
-    </tr>
       <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
