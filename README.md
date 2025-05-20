@@ -1,4 +1,5 @@
 # Learning ...
+![Banner](https://your-image-url.com/banner.png)
 
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 
