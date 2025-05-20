@@ -1,5 +1,17 @@
 # Learning ...
 
+<details>
+  <summary>📁 Click to expand menu</summary>
+
+  - [Section 1](#section-1)
+  - [Section 2](#section-2)
+  - [Section 3](#section-3)
+    - [Subsection 3.1](#subsection-3.1)
+    - [Subsection 3.2](#subsection-3.2)
+
+</details>
+
+
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
