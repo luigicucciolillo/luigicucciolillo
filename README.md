@@ -1,5 +1,6 @@
 # Learning ...
-![Banner](https://your-image-url.com/banner.png)
+![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 
