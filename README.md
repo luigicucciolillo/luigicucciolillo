@@ -85,29 +85,53 @@
       </td>
       <td>🟡🎓</td>
     </tr>
+<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Advanced Cloud Engineer IT Professional Program (LFS002)</strong>
+        – 06/25 – The Linux Foundation – 6 months – 🟡🎓
+      </summary>
+      <table style="width: 100%; margin-top: 10px;">
         <tr>
-      <td>
-<details>
-  <summary>        
-    <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
-          Advanced Cloud Engineer IT Professional Program (LFS002)
-    </a>
-  </summary>
-        <sub>- <a href="y" target="_blank">  Containers Fundamentals (LFS253) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Kubernetes Fundamentals (LFS258) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Cloud Native Logging with Fluentd and Fluent Bit (LFS242) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Managing Kubernetes Applications with Helm (LFS244) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Service Mesh Fundamentals (LFS243) </a></sub><br>
-</details>
-      </td>
-      <td>06/25</td>
-      <td>The Linux Foundation</td>
-      <td>
-      6 months
-      </td>
-      <td>🟡🎓</td>
-    </tr>
+          <td><strong>Courses:</strong></td>
+          <td colspan="4">
+            <sub>- <a href="y" target="_blank">Containers Fundamentals (LFS253)</a></sub><br>
+            <sub>- <a href="y" target="_blank">Kubernetes Fundamentals (LFS258)</a></sub><br>
+            <sub>- <a href="y" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
+            <sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
+            <sub>- <a href="y" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
+            <sub>- <a href="y" target="_blank">Service Mesh Fundamentals (LFS243)</a></sub>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Date:</strong></td>
+          <td>06/25</td>
+          <td><strong>Next milestone:</strong></td>
+          <td colspan="2">Complete Helm & Service Mesh modules</td>
+        </tr>
+        <tr>
+          <td><strong>Provider:</strong></td>
+          <td>The Linux Foundation</td>
+          <td><strong>Instructor:</strong></td>
+          <td colspan="2">Kelsey Hightower (guest), LF instructors</td>
+        </tr>
+        <tr>
+          <td><strong>Duration:</strong></td>
+          <td>6 months</td>
+          <td><strong>Learning format:</strong></td>
+          <td colspan="2">Self-paced + Labs</td>
+        </tr>
+        <tr>
+          <td><strong>Status:</strong></td>
+          <td>🟡 In progress</td>
+          <td><strong>Completion expected:</strong></td>
+          <td colspan="2">Q3 2025</td>
+        </tr>
+      </table>
+    </details>
+  </td>
+</tr>
       <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
