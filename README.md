@@ -86,7 +86,20 @@
       <td>🟡🎓</td>
     </tr>
     </tr>
-        <tr>
+      <tr>
+      <td>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
+        IA sin código + Power BI: Crea, visualiza y decide con datos
+        </a>
+      </td>  
+      <td>05/25</td>
+      <td>Nuclio Digital School</td>
+      <td>
+        3 hours
+      </td>
+      <td>🟢🛠️</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
           Masterclasses on Knative
@@ -200,7 +213,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">
         Aprende a analizar datos con IA generativa
         </a>
       </td>  
