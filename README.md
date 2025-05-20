@@ -235,7 +235,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">
         Full Stack Web Development Course
         </a>
       </td>
