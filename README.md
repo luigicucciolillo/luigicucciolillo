@@ -10,7 +10,7 @@
   <td colspan="5">
     <details>
       <summary>
-        <strong>AMasterclasses on Knative</strong>
+        <strong>AMasterclasses on Knative                   .</strong>
         – 06/25 – 3+ – 3h15m – 🟢⚡
       </summary>
       <table style="width: 100%; margin-top: 10px;">
