@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://trainingportal.linuxfoundation.org/courses/introduction-to-jenkins-lfs167" target="_blank">
+        <a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
         Introduction to Jenkins (LFS167)
         </a>
       </td>
