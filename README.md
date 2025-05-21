@@ -6,72 +6,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 -->
 
-<tr>
-  <td colspan="5">
-    <details>
-      <summary>
-        <strong>Masterclasses on Knative </strong>
-        – 06/25 – 3+ – 3h15m – 🟢⚡
-      </summary>
-      <table style="width: 100%; margin-top: 10px;">
-	  <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
-          Masterclasses on Knative
-        </a>
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google" target="_blank">
-          Knative: A Kubernetes Framework to Manage Serverless Workloads
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA" target="_blank">
-          Unleashing the Power of Serverless on Kubernetes with Knative,Crossplane,Dapr
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must" target="_blank">
-          Use Knative When You Can, and Kubernetes When You Must
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
-          Corso Knative, a serverless environment for Kubernetes
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google" target="_blank">
-          Inside Knative Serving
-        </a>
-        </sub> 
-        <br>
-      </td>
-      <td>05/25</td>
-      <td>
-        <br>
-        <sub> Barthwal, Google </sub>
-        <br>
-        <sub> Salatino, Diagrid.io</sub>
-      <br>
-      <sub> Hadas & Maximilien, IBM</sub>
-      <br>
-      <sub> Leoni, Sorint lab</sub>
-      <br>
-      <sub> Tornow&Chen, SAP&Google</sub>
-      <br>
-      </td>
-      <td>3h 15m</td>
-      <td>🟢⚡</td>
-    </tr>
-	      </table>
-    </details>
-  </td>
-</tr>
+<
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -218,6 +153,72 @@
       </td>
       <td>🟢🛠️</td>
     </tr>
+	  tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Masterclasses on Knative </strong>
+        – 06/25 – 3+ – 3h15m – 🟢⚡
+      </summary>
+      <table style="width: 100%; margin-top: 10px;">
+	  <tr>
+      <td>
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
+          Masterclasses on Knative
+        </a>
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google" target="_blank">
+          Knative: A Kubernetes Framework to Manage Serverless Workloads
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA" target="_blank">
+          Unleashing the Power of Serverless on Kubernetes with Knative,Crossplane,Dapr
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must" target="_blank">
+          Use Knative When You Can, and Kubernetes When You Must
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
+          Corso Knative, a serverless environment for Kubernetes
+        </a>
+        </sub> 
+        <br>
+        <sub> - 
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google" target="_blank">
+          Inside Knative Serving
+        </a>
+        </sub> 
+        <br>
+      </td>
+      <td>05/25</td>
+      <td>
+        <br>
+        <sub> Barthwal, Google </sub>
+        <br>
+        <sub> Salatino, Diagrid.io</sub>
+      <br>
+      <sub> Hadas & Maximilien, IBM</sub>
+      <br>
+      <sub> Leoni, Sorint lab</sub>
+      <br>
+      <sub> Tornow&Chen, SAP&Google</sub>
+      <br>
+      </td>
+      <td>3h 15m</td>
+      <td>🟢⚡</td>
+    </tr>
+	      </table>
+    </details>
+  </td>
+</tr>
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
