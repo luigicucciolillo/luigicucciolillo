@@ -10,8 +10,8 @@
   <td colspan="5">
     <details>
       <summary>
-        <strong>Advanced Cloud Engineer IT Professional Program (LFS002)</strong>
-        – 06/25 – The Linux Foundation – 6 months – 🟡🎓
+        <strong>AMasterclasses on Knative</strong>
+        – 06/25 – 3+ – 3h15m – 🟢⚡
       </summary>
       <table style="width: 100%; margin-top: 10px;">
 	  <tr>
