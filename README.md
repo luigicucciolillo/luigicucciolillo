@@ -70,29 +70,7 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
       </td>
       <td>🟡🎓</td>
     </tr>
-    <tr>
-      <td>
-<details>
-  <summary>        
-    <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
-          Advanced Cloud Engineer IT Professional Program (LFS002)
-    </a>
-  </summary>
-        <sub>- <a href="y" target="_blank">  Containers Fundamentals (LFS253) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Kubernetes Fundamentals (LFS258) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Cloud Native Logging with Fluentd and Fluent Bit (LFS242) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Managing Kubernetes Applications with Helm (LFS244) </a></sub><br>
-        <sub>- <a href="y" target="_blank">  Service Mesh Fundamentals (LFS243) </a></sub><br>
-</details>
-      </td>
-      <td>06/25</td>
-      <td>The Linux Foundation</td>
-      <td>
-      6 months
-      </td>
-      <td>🟡🎓</td>
-    </tr>
+<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
     <details>
@@ -105,7 +83,7 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
           <td><strong>Courses:</strong></td>
           <td colspan="4">
 		  <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
-          Advanced Cloud Engineer IT Professional Program (LFS002)
+          Advanced Cloud Engineer IT Professional Program (LFS002) <br>
     </a>
             <sub>- <a href="y" target="_blank">Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">Kubernetes Fundamentals (LFS258)</a></sub><br>
@@ -119,7 +97,7 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
           <td><strong>Date:</strong></td>
           <td>06/25</td>
           <td><strong>Next milestone:</strong></td>
-          <td colspan="2">Complete Helm & Service Mesh modules</td>
+          <td colspan="2">Complete Containers Fundamentals (LFS253)</td>
         </tr>
         <tr>
           <td><strong>Provider:</strong></td>
