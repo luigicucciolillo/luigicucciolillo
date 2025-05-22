@@ -208,6 +208,15 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
         – 05/25 – Rancher Labs – 6 hours – 🟢⚡
       </summary>
       <table style="width: 100%; margin-top: 10px;">
+	        <thead>
+    <tr>
+      <th>Course</th>
+      <th>Date</th>
+      <th>Institution</th>
+      <th>Lenght</th>
+      <th> - </th>
+    </tr>
+  </thead>
 	  <tr>
       <td>
 			 <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
