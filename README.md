@@ -200,60 +200,56 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
     </details>
   </td>
 </tr>
-    <tr>
+	<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Kubernetes masterclass from Rancher Labs </strong>
+        – 05/25 – Rancher Labs – 6 hours – 🟢⚡
+      </summary>
+      <table style="width: 100%; margin-top: 10px;">
+	  <tr>
       <td>
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative" target="_blank">
-          Masterclasses on Knative
-        </a>
-        <br>
+			 <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
+			  Kubernetes masterclass from Rancher Labs
+			</a>
+                <br>
         <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google" target="_blank">
-          Knative: A Kubernetes Framework to Manage Serverless Workloads
-        </a>
-        </sub> 
-        <br>
-        <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA" target="_blank">
-          Unleashing the Power of Serverless on Kubernetes with Knative,Crossplane,Dapr
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
+          Intro to kubernetes and rancher
         </a>
         </sub> 
         <br>
         <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must" target="_blank">
-          Use Knative When You Can, and Kubernetes When You Must
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes" target="_blank">
+          Intro to K3s Online Training: Lightweight Kubernetes
         </a>
         </sub> 
         <br>
         <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui" target="_blank">
-          Corso Knative, a serverless environment for Kubernetes
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh" target="_blank">
+          Understanding and Implementing Service Mesh
         </a>
         </sub> 
         <br>
         <sub> - 
-        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google" target="_blank">
-          Inside Knative Serving
+        <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana" target="_blank">
+          Monitoring and Alerting with Prometheus & Grafana
         </a>
         </sub> 
         <br>
       </td>
       <td>05/25</td>
       <td>
-        <br>
-        <sub> Barthwal, Google </sub>
-        <br>
-        <sub> Salatino, Diagrid.io</sub>
-      <br>
-      <sub> Hadas & Maximilien, IBM</sub>
-      <br>
-      <sub> Leoni, Sorint lab</sub>
-      <br>
-      <sub> Tornow&Chen, SAP&Google</sub>
-      <br>
+        Rancher Labs
       </td>
-      <td>3h 15m</td>
+      <td> 6 hours</td>
       <td>🟢⚡</td>
     </tr>
+	      </table>
+    </details>
+  </td>
+</tr>
         <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
