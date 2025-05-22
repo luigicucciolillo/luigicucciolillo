@@ -7,54 +7,31 @@
 -->
 
 <table border="1" cellspacing="0" cellpadding="8">
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Date</th>
-      <th>Institution</th>
-      <th>Lenght</th>
-      <th> - </th>
-    </tr>
-  </thead>
+  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
     <tr>
-      <td>
-        <a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
-        Cloud-Native Development with OpenShift and Kubernetes
-        </a>
-      </td>
-      <td>?/25</td>
-      <td>Red Hat/ Coursera</td>
-      <td>
-      1 month
-      </td>
-      <td>🛑💬³</td>
+      <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
+        Cloud-Native Development with OpenShift and Kubernetes</a></td>
+	      <td>?/25</td>
+	      <td>Red Hat/ Coursera</td>
+	      <td> 1 month</td>
+	      <td>🛑💬³</td>
     </tr>
     <tr>
-      <td>
-        <a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
-        Introduction to Jenkins (LFS167)
-        </a>
-      </td>
-      <td>?/25</td>
-      <td>The Linux Foundation</td>
-      <td>
-      25 hours
-      </td>
-      <td>🛑💬³</td>
+      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
+        Introduction to Jenkins (LFS167)</a></td>
+	      <td>?/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>25 hours</td>
+	      <td>🛑💬³</td>
     </tr>
     <tr>
-      <td>
-        <a href="https://devopswithkubernetes.com/" target="_blank">
-        DevOps with kubernetes
-        </a>
-      </td>
-      <td>06/25</td>
-      <td>University of Helsinki</td>
-      <td>
-      5 ECTS
-      </td>
-      <td>🛑💬²</td>
+      <td><a href="https://devopswithkubernetes.com/" target="_blank">
+        DevOps with kubernetes</a></td>
+	      <td>06/25</td>
+	      <td>University of Helsinki</td>
+	      <td>5 ECTS</td>
+	      <td>🛑💬²</td>
     </tr>
         <tr>
       <td>
@@ -133,7 +110,6 @@
       </td>
       <td>🟢🛠️</td>
     </tr>
-	  tr>
   <td colspan="5">
     <details>
       <summary>
