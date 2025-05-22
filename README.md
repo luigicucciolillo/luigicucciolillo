@@ -1,4 +1,4 @@
-https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF4I06QDnY0jL# Learning ...
+# Learning ...
 <!--
 ![Banner](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=1350&q=80)
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
@@ -6,7 +6,6 @@ https://tech.nuclio.school/login/forgot_password.php?token=6Hd0EENHBIGvjED7p18fF
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 -->
 
-<
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
