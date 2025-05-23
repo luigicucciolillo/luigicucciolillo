@@ -8,7 +8,7 @@
 
 
 Planning
-<table border="1" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="8">
   <tbody>
 <tr>
   <td colspan="5">
