@@ -20,6 +20,8 @@
 			   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=3KtEAa7_duA" target="_blank">
 				  (5y ago) LISA19 - Deep Dive into Kubernetes Internals for Builders and Operators    </a></sub><br>
+	<sub> -<a href="https://www.youtube.com/watch?v=S2BQz-5cboA" target="_blank">
+				  (1y ago)  Crossplane Intro and Deep Dive - the Cloud Native Control Plane Framework </a></sub><br>
 	Self Healing: <br> 
 	<sub> -<a href="https://www.youtube.com/watch?v=91dgNqma7-Q" target="_blank">
 				  (1y ago)        The Magic of Kubernetes Self-Healing Capabilities - Saad Ali, Google    </a></sub><br>
@@ -27,13 +29,15 @@
 				  (8y ago)         Deploying Self Healing Services With Kubernetes w/ Rob Scott     </a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=3psxcNttPtA" target="_blank">
 				  (1y ago)         "Kubernetes self-healing: HA for services and control plane"  - Lukasz Sztachanski i Lukasz Luczaj</a></sub><br>
-	Networking: <br>			  
+	Networking: <br>
+	<sub> -<a href="https://www.youtube.com/watch?v=Mj04QOqAaJ8" target="_blank">
+				  Understanding Kubernetes Networking in 30 Minutes - Ricardo Katz & James Strong  </a></sub><br>
+	<sub> -<a href="https://www.youtube.com/watch?v=0Omvgd7Hg1I" target="_blank">
+				   Life of a Packet [I] - Michael Rubin, Google   </a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=tq9ng_Nz9j8" target="_blank">
 				 Kubernetes Networking Intro and Deep-Dive - Bowei Du & Tim Hockin, Google </a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=YumoKGhuZ2o" target="_blank">
 				  (1y ago) Tutorial: From CNI Zero to CNI Hero: A Kubernetes Networking Tutorial Using CNI </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=S2BQz-5cboA" target="_blank">
-				  (1y ago)  Crossplane Intro and Deep Dive - the Cloud Native Control Plane Framework </a></sub><br>
 	HA large Scale: <br> 
 	<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
 				Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
@@ -63,7 +67,9 @@
 </td>
 </table>
 </details>
+
 ## Courses
+
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
