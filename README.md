@@ -8,10 +8,6 @@
 
 
 Planning
-<table border="0" cellspacing="0" cellpadding="8">
-  <tbody>
-<tr>
-  <td colspan="5">
     <details>
       <summary>
         <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
@@ -69,9 +65,6 @@ Planning
       </td>
 	      </table>
     </details>
-  </td>
-    </tbody>
-</table>
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
