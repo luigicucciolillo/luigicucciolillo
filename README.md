@@ -15,14 +15,14 @@ Planning
       <table style="width: 100%; margin-top: 10px;">
 	  <tr>
       <td>
-			  Kubernetes masterclass from CNCF  <br> 
+			Kubernetes masterclass from CNCF  <br> 
 			<sub> -<a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">
 					   Kubernetes Design Principles: Understand the Why - Saad Ali, Google </a></sub><br>
 			<sub> -<a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">
 					   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
 			<sub> -<a href="https://www.youtube.com/watch?v=3KtEAa7_duA" target="_blank">
 						  (5y ago) LISA19 - Deep Dive into Kubernetes Internals for Builders and Operators    </a></sub><br>
-			Self Healing:
+			Self Healing: <br> 
 			<sub> -<a href="https://www.youtube.com/watch?v=91dgNqma7-Q" target="_blank">
 						  (1y ago)        The Magic of Kubernetes Self-Healing Capabilities - Saad Ali, Google    </a></sub><br>
 			<sub> -<a href="https://www.youtube.com/watch?v=bsrXifq3Pjc" target="_blank">
