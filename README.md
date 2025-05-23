@@ -6,6 +6,81 @@
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 -->
 
+
+Planning
+<table border="1" cellspacing="0" cellpadding="8">
+  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
+  <tbody>
+<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
+      </summary>
+      <table style="width: 100%; margin-top: 10px;">
+	  <tr>
+      <td>
+			  Kubernetes masterclass from CNCF  <br> 
+			<sub> -<a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">
+					   Kubernetes Design Principles: Understand the Why - Saad Ali, Google </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">
+					   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=3KtEAa7_duA" target="_blank">
+						  (5y ago) LISA19 - Deep Dive into Kubernetes Internals for Builders and Operators    </a></sub><br>
+			Self Healing:
+			<sub> -<a href="https://www.youtube.com/watch?v=91dgNqma7-Q" target="_blank">
+						  (1y ago)        The Magic of Kubernetes Self-Healing Capabilities - Saad Ali, Google    </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=bsrXifq3Pjc" target="_blank">
+						  (8y ago)         Deploying Self Healing Services With Kubernetes w/ Rob Scott     </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=3psxcNttPtA" target="_blank">
+						  (1y ago)         "Kubernetes self-healing: HA for services and control plane"  - Lukasz Sztachanski i Lukasz Luczaj</a></sub><br>
+			Networking: <br>			  
+			<sub> -<a href="https://www.youtube.com/watch?v=tq9ng_Nz9j8" target="_blank">
+						 Kubernetes Networking Intro and Deep-Dive - Bowei Du & Tim Hockin, Google </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=YumoKGhuZ2o" target="_blank">
+						  (1y ago) Tutorial: From CNI Zero to CNI Hero: A Kubernetes Networking Tutorial Using CNI </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=S2BQz-5cboA" target="_blank">
+						  (1y ago)  Crossplane Intro and Deep Dive - the Cloud Native Control Plane Framework </a></sub><br>
+			HA large Scale: <br> 
+			<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
+						Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=AYNaaXlV8LQ" target="_blank">
+						  (1y ago)      Building a Large Scale Multi-Cloud Multi-Region SaaS Platform with Kubernetes Controllers </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=WRACr5nXl9U" target="_blank">
+						  (1y ago)      Architecting Resilience: Lessons from Managing 7K+ Kubernetes Clusters at Scale  </a></sub><br>
+			Mesh: Istio and Cilium:  <br> 
+			<sub> -<a href="https://www.youtube.com/watch?v=bEFILWrRJJ4" target="_blank">
+						  (5y ago)         Demystifying Service Mesh, HashiCorp   </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=91oylZSoYzM" target="_blank">
+						  (1y ago) Comparing Sidecar-Less Service Mesh from Cilium and Istio - Christian Posta, Solo.io </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
+						  (1y ago)    Simplifying Multi-Cluster and Multi-Cloud Deployments with Cilium - Liz Rice, Isovalent </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=x2qemf9Wmqo" target="_blank">
+						  (1y ago)  Istio Ambient Service Mesh Made Simple - Lin Sun, Solo.io </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=xTUiXLqfJms" target="_blank">
+						  (1y ago)   Best-Practices for Securing Egress Traffic with Istio - Niranjan Shankar, Microsoft </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
+						  (6mm ago)    What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan  </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
+						  (1y ago)     Reliable multi-cluster application architectures with Istio - Ameer Abbas & John Howard, Google </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
+						  (1y ago)     What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan </a></sub><br>
+			<sub> -<a href="https://www.youtube.com/watch?v=_8FNsvoECPU" target="_blank">
+						  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
+      </td>
+      <td>x/25</td>
+      <td>
+        mix
+      </td>
+      <td>   hours</td>
+      <td> </td>
+    </tr>
+	      </table>
+    </details>
+  </td>
+    </tbody>
+</table>
+
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
