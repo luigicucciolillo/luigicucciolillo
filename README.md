@@ -9,22 +9,15 @@
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
-    <tr>
+ <!--   <tr>
       <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
         Cloud-Native Development with OpenShift and Kubernetes</a></td>
 	      <td>?/25</td>
 	      <td>Red Hat/ Coursera</td>
 	      <td> 1 month</td>
 	      <td>🛑💬³</td>
-    </tr>
-    <tr>
-      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
-        Introduction to Jenkins (LFS167)</a></td>
-	      <td>?/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>25 hours</td>
-	      <td>🛑💬³</td>
-    </tr>
+    </tr> 
+-->
     <tr>
       <td><a href="https://devopswithkubernetes.com/" target="_blank">
         DevOps with kubernetes</a></td>
@@ -33,18 +26,13 @@
 	      <td>5 ECTS</td>
 	      <td>🛑💬²</td>
     </tr>
-        <tr>
-      <td>
-        <a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">
-          Introduction to Kubernetes (LFS158)
-        </a>
-      </td>
-      <td>05/25</td>
-      <td>The Linux Foundation</td>
-      <td>
-      20 hours
-      </td>
-      <td>🟡🎓</td>
+    <tr>
+      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
+        Introduction to Jenkins (LFS167)</a></td>
+	      <td>?/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>25 hours</td>
+	      <td>🛑💬³</td>
     </tr>
 <!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
@@ -97,19 +85,16 @@
     </details>
   </td>
 </tr>
-      <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
-        IA sin código + Power BI: Crea, visualiza y decide con datos
-        </a>
-      </td>  
-      <td>05/25</td>
-      <td>Nuclio Digital School</td>
-      <td>
-        3 hours
-      </td>
-      <td>🟢🛠️</td>
-    </tr>
+<tr>
+	<td> <a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">
+		Introduction to Kubernetes (LFS158)</a> </td>
+	<td>05/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟡🎓</td>
+</tr>
+<tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
+		IA sin código + Power BI: Crea, visualiza y decide con datos </a></td>  
+      <td>05/25</td> <td>Nuclio Digital School</td><td> 3 hours </td><td>🟢🛠️</td>
+</tr>
   <td colspan="5">
     <details>
       <summary>
