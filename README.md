@@ -9,7 +9,6 @@
 
 Planning
 <table border="1" cellspacing="0" cellpadding="8">
-  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
 <tr>
   <td colspan="5">
@@ -68,13 +67,6 @@ Planning
 			<sub> -<a href="https://www.youtube.com/watch?v=_8FNsvoECPU" target="_blank">
 						  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
       </td>
-      <td>x/25</td>
-      <td>
-        mix
-      </td>
-      <td>   hours</td>
-      <td> </td>
-    </tr>
 	      </table>
     </details>
   </td>
