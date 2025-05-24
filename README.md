@@ -15,7 +15,7 @@
       <td>
 	Kubernetes masterclass from CNCF  <br> 
 		<details>
-		  <summary><sub>✅ Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
+		  <summary><sub>✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
 		  <blockquote>
 		    <sub>
 		      Kubernetes is quickly becoming indispensable for managing and deploying workloads on distributed systems across both cloud and on-prem environments.  
@@ -26,7 +26,7 @@
 		      To answer these questions and help you develop a deeper understanding of Kubernetes, this talk exposes the principles underpinning the design of Kubernetes.  
 		    </sub>  
 		  </blockquote>
-  		<sub> Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub>
+  		&nbsp; <sub> Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub>
 		</details>
 	<sub> -<a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">
 			   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
