@@ -29,8 +29,8 @@
 		    </sub>  
 		  </blockquote>
 		</details>
-		<details style="margin:0; padding-left:1em;">
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<details style="margin:0; padding-left:1em;">
 		  <summary><sub> - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
 			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
   <blockquote style="margin:0; padding-left:1em;">
