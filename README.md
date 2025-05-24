@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 -->
-## Planning
+## Masterclasses
 <details>
       <summary>
         <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
@@ -16,7 +16,7 @@
 	Kubernetes masterclass from CNCF  <br> 
 		<details>
 		  <summary><sub>✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
-			&nbsp; <sub> Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
 		  <blockquote>
 		    <sub>
 		      Kubernetes is quickly becoming indispensable for managing and deploying workloads on distributed systems across both cloud and on-prem environments.  
