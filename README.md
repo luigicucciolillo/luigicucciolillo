@@ -414,3 +414,223 @@ https://www.coursera.org/specializations/cloud-computing
 https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
 https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Learning Dashboard</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+      padding: 1em 2em;
+    }
+
+    h1, h2 {
+      color: #2c3e50;
+    }
+
+    summary {
+      cursor: pointer;
+      background-color: #ecf0f1;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    details[open] summary {
+      background-color: #d0e6ff;
+    }
+
+    details > details {
+      margin-left: 20px;
+      padding-left: 10px;
+      border-left: 2px solid #ccc;
+    }
+
+    a {
+      color: #0077cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    blockquote {
+      background: #f0f0f0;
+      border-left: 4px solid #0077cc;
+      padding: 10px 15px;
+      margin: 10px 0;
+      font-size: 0.9em;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 20px 0;
+      background-color: white;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 12px;
+      text-align: left;
+    }
+
+    th {
+      background-color: #0077cc;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+
+    sub {
+      font-size: 0.85em;
+      color: #555;
+    }
+
+    .course-container {
+      margin-top: 1em;
+    }
+
+    .course-inner-table {
+      width: 100%;
+      margin-top: 10px;
+      font-size: 0.95em;
+    }
+
+    .course-inner-table td {
+      border: none;
+      padding: 6px 8px;
+    }
+
+    .badge {
+      background-color: #d1ecf1;
+      color: #0c5460;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.8em;
+      margin-left: 5px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📚 Learning Dashboard</h1>
+
+  <h2>🎓 Masterclasses</h2>
+
+  <details open>
+    <summary>Kubernetes Masterclass: Self-Healing, Networking, HA, Mesh</summary>
+
+    <details>
+      <summary><sub>✅ 37 mins – Kubernetes Design Principles: Understand the Why – Saad Ali, Google</sub></summary>
+      <sub>🔗 <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">Watch on YouTube</a></sub>
+      <blockquote>
+        Kubernetes is becoming essential for managing workloads in distributed systems.
+        This talk explores the principles behind Kubernetes design decisions.
+      </blockquote>
+    </details>
+
+    <details>
+      <summary><sub>– 35 mins – Certifik8s: Certificates in Kubernetes – Alexander Brand</sub></summary>
+      <sub>🔗 <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">Watch on YouTube</a></sub>
+      <blockquote>
+        Learn how certificates secure Kubernetes APIs, enable TLS, and support authentication.
+        The talk covers rotation, planning, and security best practices.
+      </blockquote>
+    </details>
+
+    <p>
+      <sub>– <a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">Kubernetes Deconstructed</a></sub><br>
+      <sub>– <a href="https://www.youtube.com/watch?v=3KtEAa7_duA" target="_blank">Deep Dive into Kubernetes Internals</a></sub><br>
+      <sub>– <a href="https://www.youtube.com/watch?v=S2BQz-5cboA" target="_blank">Crossplane Intro & Deep Dive</a></sub>
+    </p>
+  </details>
+
+  <h2>📘 Courses</h2>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Course</th>
+        <th>Date</th>
+        <th>Institution</th>
+        <th>Length</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="https://devopswithkubernetes.com/" target="_blank">DevOps with Kubernetes</a></td>
+        <td>06/25</td>
+        <td>University of Helsinki</td>
+        <td>5 ECTS</td>
+        <td>🛑💬²</td>
+      </tr>
+      <tr>
+        <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">Introduction to Jenkins (LFS167)</a></td>
+        <td>?/25</td>
+        <td>The Linux Foundation</td>
+        <td>25 hours</td>
+        <td>🛑💬³</td>
+      </tr>
+      <tr>
+        <td colspan="5">
+          <details>
+            <summary><strong>Advanced Cloud Engineer Program (LFS002)</strong> – 06/25 – Linux Foundation – 6 months – 🟡🎓</summary>
+            <table class="course-inner-table">
+              <tr>
+                <td><strong>Courses:</strong></td>
+                <td>
+                  <sub>- Containers Fundamentals (LFS253)</sub><br>
+                  <sub>- Kubernetes Fundamentals (LFS258)</sub><br>
+                  <sub>- Monitoring with Prometheus (LFS241)</sub><br>
+                  <sub>- Logging with Fluentd/Fluent Bit (LFS242)</sub><br>
+                  <sub>- Helm (LFS244)</sub><br>
+                  <sub>- Service Mesh (LFS243)</sub>
+                </td>
+              </tr>
+              <tr>
+                <td><strong>Status:</strong></td>
+                <td>🟡 In progress – Next: LFS253</td>
+              </tr>
+              <tr>
+                <td><strong>Completion:</strong></td>
+                <td>Q3 2025</td>
+              </tr>
+            </table>
+          </details>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">Intro to Kubernetes (LFS158)</a></td>
+        <td>05/25</td>
+        <td>The Linux Foundation</td>
+        <td>20 hours</td>
+        <td>🟡🎓</td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">IA sin código + Power BI</a></td>
+        <td>05/25</td>
+        <td>Nuclio Digital School</td>
+        <td>3 hours</td>
+        <td>🟢🛠️</td>
+      </tr>
+    </tbody>
+  </table>
+
+</body>
+</html>
+
