@@ -10,9 +10,6 @@
       <summary>
         <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
       </summary>
-      <table style="width: 100%; margin-top: 10px;">
-	  <tr>
-      <td>
 	First  <br> 
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<details style="margin:0; padding-left:1em;">
@@ -103,8 +100,6 @@
 				  (1y ago)     What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan </a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=_8FNsvoECPU" target="_blank">
 				  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
-</td>
-</table>
 </details>
 
 <br>
