@@ -14,19 +14,20 @@
 	  <tr>
       <td>
 	Kubernetes masterclass from CNCF  <br> 
-	<details>
-	  <summary>
-	    <sub>✅ Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub><br>
-	  </summary>
-	  <sub>
-	    Kubernetes is quickly becoming indispensable for managing and deploying workloads on distributed systems across both cloud and on-prem environments. 
-	    While most people are now familiar with how to use Kubernetes, few are aware of the “why” behind it. 
-	    Why does the Kubernetes API look the way it does? Why do Kubernetes components only interact with each other through the Kubernetes API? 
-	    Why is there a PersistentVolumeClaim object when you could easily reference a volume directly from a pod? 
-	    To answer these questions and help you develop a deeper understanding of Kubernetes, this talk exposes the principles underpinning the design of Kubernetes.
-	  </sub><br>
-	  Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a>
-	</details>
+		<details>
+		  <summary><sub>✅ Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
+		  <blockquote>
+		    <sub>
+		      Kubernetes is quickly becoming indispensable for managing and deploying workloads on distributed systems across both cloud and on-prem environments.  
+		      While most people are now familiar with how to use Kubernetes, few are aware of the “why” behind it.  
+		      Why does the Kubernetes API look the way it does?  
+		      Why do Kubernetes components only interact with each other through the Kubernetes API?  
+		      Why is there a PersistentVolumeClaim object when you could easily reference a volume directly from a pod?  
+		      To answer these questions and help you develop a deeper understanding of Kubernetes, this talk exposes the principles underpinning the design of Kubernetes.  
+		    </sub>  
+		  </blockquote>
+		  🔗 [Watch on YouTube](https://www.youtube.com/watch?v=ZuIQurh_kDk)
+		</details>
 	<sub> -<a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">
 			   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=3KtEAa7_duA" target="_blank">
