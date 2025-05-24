@@ -13,7 +13,8 @@
       <table style="width: 100%; margin-top: 10px;">
 	  <tr>
       <td>
-	Kubernetes masterclass from CNCF  <br> 
+	First  <br> 
+			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<details>
 		  <summary><sub>✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
 			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
@@ -29,6 +30,7 @@
 		  </blockquote>
 		</details>
 		<details>
+			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		  <summary><sub> - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
 			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
 			<blockquote>
