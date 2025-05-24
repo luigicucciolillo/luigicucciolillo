@@ -26,7 +26,7 @@
 		      To answer these questions and help you develop a deeper understanding of Kubernetes, this talk exposes the principles underpinning the design of Kubernetes.  
 		    </sub>  
 		  </blockquote>
-		  🔗 [Watch on YouTube](https://www.youtube.com/watch?v=ZuIQurh_kDk)
+  		<sub> Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub>
 		</details>
 	<sub> -<a href="https://www.youtube.com/watch?v=90kZRyPcRZw" target="_blank">
 			   Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - Carson Anderson, DOMO</a></sub><br>
