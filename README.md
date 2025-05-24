@@ -15,10 +15,10 @@
       <td>
 	First  <br> 
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-		<details>
+		<details style="margin:0; padding-left:1em;">
 		  <summary><sub>✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</sub></summary>
 			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
-		  <blockquote>
+  <blockquote style="margin:0; padding-left:1em;">
 		    <sub>
 		      Kubernetes is quickly becoming indispensable for managing and deploying workloads on distributed systems across both cloud and on-prem environments.  
 		      While most people are now familiar with how to use Kubernetes, few are aware of the “why” behind it.  
