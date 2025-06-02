@@ -190,6 +190,13 @@
 		Introduction to Kubernetes (LFS158)</a> </td>
 	<td>05/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟡🎓</td>
 </tr>
+  <tr>
+      <td>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
+        Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)
+        </a>
+      </td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
+    </tr>
 <tr>
 	<td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">
 		Agile management</a> </td>
