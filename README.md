@@ -126,14 +126,6 @@
 	      <td>5 ECTS</td>
 	      <td>🛑💬²</td>
     </tr>
-    <tr>
-      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
-        Introduction to Jenkins (LFS167)</a></td>
-	      <td>?/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>25 hours</td>
-	      <td>🛑💬³</td>
-    </tr>
 <!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
@@ -185,10 +177,18 @@
     </details>
   </td>
 </tr>
+  <tr>
+      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
+        Introduction to Jenkins (LFS167)</a></td>
+	      <td>?/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>25 hours</td>
+	      <td>🟡</td>
+    </tr>
 <tr>
-	<td> <a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/" target="_blank">
+	<td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
 		Introduction to Kubernetes (LFS158)</a> </td>
-	<td>05/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟡🎓</td>
+	<td>05/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
 </tr>
   <tr>
       <td>
