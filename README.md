@@ -180,32 +180,22 @@
   <tr>
       <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
         Introduction to Jenkins (LFS167)</a></td>
-	      <td>?/25</td>
+	      <td>6/25</td>
 	      <td>The Linux Foundation</td>
 	      <td>25 hours</td>
 	      <td>🟡</td>
     </tr>
-<tr>
-	<td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
-		Introduction to Kubernetes (LFS158)</a> </td>
-	<td>05/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
+<tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
+	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
 </tr>
-  <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
-        Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)
-        </a>
-      </td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
-    </tr>
-<tr>
-	<td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">
-		Agile management</a> </td>
-	<td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
+<tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
+        Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
-<tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
-		IA sin código + Power BI: Crea, visualiza y decide con datos </a></td>  
-      <td>05/25</td> <td>Nuclio Digital School</td><td> 3 hours </td><td>🟢🛠️</td>
+<tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">
+	Agile management</a> </td><td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
+</tr>
+<tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
+	IA sin código + Power BI: Crea, visualiza y decide con datos </a></td><td>05/25</td> <td>Nuclio Digital School</td><td> 3 hours </td><td>🟢🛠️</td>
 </tr>
   <td colspan="5">
     <details>
