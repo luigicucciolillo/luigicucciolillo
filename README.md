@@ -178,12 +178,12 @@
   </td>
 </tr>
   <tr>
-      <td><a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/" target="_blank">
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
         Introduction to Jenkins (LFS167)</a></td>
-	      <td>6/25</td>
+	      <td>06/25</td>
 	      <td>The Linux Foundation</td>
-	      <td>25 hours</td>
-	      <td>🟡</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
     </tr>
 <tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
 	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
