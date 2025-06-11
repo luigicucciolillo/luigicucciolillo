@@ -178,13 +178,11 @@
   </td>
 </tr>
 	<tr>
-  <td colspan="5">
-	    <tr>
-		    <td>
+  <tr>
+   <td>
     <details>
       <summary>
         <strong>Kubernetes troubleshooting: a step-by-step guide </strong>
-        – 06/25 – CNCF – 2 hours – 🟢⚡
       </summary>
 	    Link to official course [here]( https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1)
 		2 hours
