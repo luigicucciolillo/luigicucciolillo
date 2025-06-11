@@ -185,21 +185,13 @@
         – 05/25 – Rancher Labs – 6 hours – 🟢⚡
       </summary>
 	    Link to official course [here]( https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1)
-2 hours
-Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:
-    CRASHLOOPBACKOFF
-        OOMKilled
-        CPU throttling
-    ENV Variables/Secrets Mount Issue 
-    Database connection issues
-      <td>05/25</td>
-      <td>
-        Rancher Labs
-      </td>
-      <td> 6 hours</td>
-      <td>🟢⚡</td>
-    </tr>
-	</table>
+		2 hours
+		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
+		   - CRASHLOOPBACKOFF<br>
+		   -- OOMKilled<br>
+		   -- CPU throttling<br>
+		    ENV Variables/Secrets Mount Issue<br> 
+		    Database connection issues
     </details>
   </td>
 </tr>  
