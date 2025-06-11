@@ -177,6 +177,32 @@
     </details>
   </td>
 </tr>
+	<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Kubernetes masterclass from Rancher Labs </strong>
+        – 05/25 – Rancher Labs – 6 hours – 🟢⚡
+      </summary>
+	    Link to official course [here]( https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1)
+2 hours
+Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:
+    CRASHLOOPBACKOFF
+        OOMKilled
+        CPU throttling
+    ENV Variables/Secrets Mount Issue 
+    Database connection issues
+      <td>05/25</td>
+      <td>
+        Rancher Labs
+      </td>
+      <td> 6 hours</td>
+      <td>🟢⚡</td>
+    </tr>
+	</table>
+    </details>
+  </td>
+</tr>  
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
         Introduction to Jenkins (LFS167)</a></td>
