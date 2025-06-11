@@ -186,7 +186,7 @@
       </summary>
 	    Link to official course 
       <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">
-        here</a>
+        here</a><br>
 		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
 		   - CRASHLOOPBACKOFF<br>
 		   -- OOMKilled<br>
