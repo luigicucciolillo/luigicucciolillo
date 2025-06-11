@@ -197,6 +197,7 @@
 		    Database connection issues
     </details>
           </td>
+	  	      <td>06/25</td>
 	  <td>The Linux Foundation</td>
 	      <td>2 hours</td>
 	      <td>🟢</td>
