@@ -179,10 +179,12 @@
 </tr>
 	<tr>
   <td colspan="5">
+	    <tr>
+		    <td>
     <details>
       <summary>
-        <strong>Kubernetes masterclass from Rancher Labs </strong>
-        – 05/25 – Rancher Labs – 6 hours – 🟢⚡
+        <strong>Kubernetes troubleshooting: a step-by-step guide </strong>
+        – 06/25 – CNCF – 2 hours – 🟢⚡
       </summary>
 	    Link to official course [here]( https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1)
 		2 hours
@@ -193,6 +195,12 @@
 		    ENV Variables/Secrets Mount Issue<br> 
 		    Database connection issues
     </details>
+          </td>
+	      <td>06/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
+    </tr>
   </td>
 </tr>  
   <tr>
