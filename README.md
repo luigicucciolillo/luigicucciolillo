@@ -177,6 +177,26 @@
     </details>
   </td>
 </tr>
+	  <tr>
+  <tr>
+   <td>
+    <details>
+      <summary>
+        <strong> AI Cloud Explained: What It Is, Why It Matters, and How It Works </strong>
+      </summary>
+	    Link to official course 
+      <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">
+        here</a><br>
+		Explore how AI Cloud revolutionizes AI workloads by providing scalable computing, seamless integration, and real-time processing. Learn how this powerful infrastructure enables businesses to optimize AI model training, deployment, and performance with efficiency and flexibility.
+    </details>
+          </td>
+	  	      <td>06/25</td>
+	  <td>The Linux Foundation</td>
+	      <td>2 hours</td>
+	      <td>🟢</td>
+    </tr>
+  </td>
+</tr>  
 	<tr>
   <tr>
    <td>
