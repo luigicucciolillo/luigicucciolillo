@@ -187,14 +187,12 @@
 	    Link to official course 
       <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">
         here</a>
-			  [here]( https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1)<br>
-		2 hours
 		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
 		   - CRASHLOOPBACKOFF<br>
 		   -- OOMKilled<br>
 		   -- CPU throttling<br>
-		    ENV Variables/Secrets Mount Issue<br> 
-		    Database connection issues
+		   - ENV Variables/Secrets Mount Issue<br> 
+		   - Database connection issues
     </details>
           </td>
 	  	      <td>06/25</td>
