@@ -25,7 +25,9 @@
 		      To answer these questions and help you develop a deeper understanding of Kubernetes, this talk exposes the principles underpinning the design of Kubernetes.  
 		    </sub>  
 		  </blockquote>
-		</details><details style="margin:0; padding-left:1em;">
+		</details>
+			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;"><sub> - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
 			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
   <blockquote style="margin:0; padding-left:1em;">
@@ -72,12 +74,17 @@
 				   Life of a Packet [I] - Michael Rubin, Google   </a></sub><br>
 	<sub> -<a href="https://www.youtube.com/watch?v=tq9ng_Nz9j8" target="_blank">
 				 Kubernetes Networking Intro and Deep-Dive - Bowei Du & Tim Hockin, Google </a></sub><br>
-	-<a href="https://www.youtube.com/watch?v=YumoKGhuZ2o" target="_blank">
-				  ✅ Tutorial: From CNI Zero to CNI Hero: A Kubernetes Networking Tutorial Using CNI </a><br>
+			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<details style="margin:0; padding-left:1em;">
+		  <summary style="margin: 0; padding: 0;">✅ Tutorial: From CNI Zero to CNI Hero: A Kubernetes Networking Tutorial Using CNI </summary>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=YumoKGhuZ2o" target="_blank">here</a></sub><br>
+  <blockquote style="margin:0; padding-left:1em;">
 <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/CNI/%20Tutorial%3A%20From%20CNI%20Zero%20to%20CNI%20Hero%3A%20A%20Kubernetes%20Networking%20Tutorial%20Using%20CNI%20" target="_blank">
 				  material available here:</a><br>
 <a href="https://github.com/luigicucciolillo/cni-hero-hands-on" target="_blank">
 				  fork of demo</a><br> 
+		  </blockquote>
+		</details>
  HA large Scale: <br>
 	<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
 				Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
