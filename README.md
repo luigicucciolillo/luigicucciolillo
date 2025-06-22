@@ -8,7 +8,7 @@
 ## Masterclasses
 <details>
       <summary>
-        <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
+        <strong>[ONGOING] Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
       </summary>
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<details style="margin:0; padding-left:1em;">
