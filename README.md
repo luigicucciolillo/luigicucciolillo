@@ -10,7 +10,6 @@
       <summary>
         <strong>Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
       </summary>
-	First  <br> 
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;">✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</summary>
