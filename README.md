@@ -193,6 +193,14 @@
     </details>
   </td>
 </tr>
+  <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
+        Fine tuning and deploy of a LLM</a></td>
+	      <td>06/25</td>
+	      <td>ProfessionAI</td>
+	      <td>2 hours</td>
+	      <td>🟢</td>
+    </tr>   
 	  <tr>
   <tr>
    <td>
