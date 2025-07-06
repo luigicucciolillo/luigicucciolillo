@@ -157,7 +157,7 @@
 		  <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
           Advanced Cloud Engineer IT Professional Program (LFS002) <br>
     </a>
-            <sub>- <a href="y" target="_blank">Containers Fundamentals (LFS253)</a></sub><br>
+            <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">Kubernetes Fundamentals (LFS258)</a></sub><br>
             <sub>- <a href="y" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
             <sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
@@ -169,7 +169,7 @@
           <td><strong>Date:</strong></td>
           <td>06/25</td>
           <td><strong>Next milestone:</strong></td>
-          <td colspan="2">Complete Containers Fundamentals (LFS253)</td>
+          <td colspan="2">Complete Kubernetes Fundamentals (LFS258)</td>
         </tr>
         <tr>
           <td><strong>Provider:</strong></td>
@@ -193,6 +193,14 @@
     </details>
   </td>
 </tr>
+<tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">
+        Containers Fundamentals (LFS253)</a></td>
+	      <td>07/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>40 hours</td>
+	<td>🟢🎓</td>
+    </tr>
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
