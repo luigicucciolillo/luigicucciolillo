@@ -146,7 +146,7 @@
    <td>
     <details>
       <summary>
-        <strong> Open week  </strong>
+        <strong> Open week - AI development/engineering workshop </strong>
       </summary> 
       <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">
         From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop </a> - 3 hours<br><br>
