@@ -158,6 +158,25 @@
 	  <td>Professional AI</td>
 	      <td> 6 hours</td>
 	      <td>🟢</td>
+	<td class="fire" aria-label="on fire">🔥</td>
+	<style>
+.t { border-collapse: collapse; font: 16px/1.2 system-ui; }
+.t td, .t th { border: 1px solid #ccc; padding: 8px 12px; text-align:center; }
+.fire {
+  display:inline-block;
+  font-size: 1.5rem;
+  animation: flicker 1.2s infinite;
+  text-shadow:
+    0 0 6px rgba(255,140,0,.6),
+    0 0 12px rgba(255,69,0,.5);
+}
+@keyframes flicker {
+  0%, 19%, 22%, 63%, 64%, 70%, 100% { transform: translateY(0) rotate(0); opacity: 1; }
+  20% { transform: translateY(-1px) rotate(-1deg); opacity: .95; }
+  65% { transform: translateY(-2px) rotate(1deg); opacity: .9; }
+  71% { transform: translateY(-1px) rotate(-1deg); opacity: .97; }
+}
+</style>
     </tr>
   </td>
 </tr>    
