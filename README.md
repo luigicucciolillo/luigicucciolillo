@@ -426,45 +426,6 @@
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-	<tr>
-  <td colspan="5">
-    <details>
-      <summary>
-        <strong>Kubernetes masterclass from Rancher Labs </strong>
-        – 05/25 – Rancher Labs – 6 hours – 🟢⚡
-      </summary>
-      <table style="width: 100%; margin-top: 10px;">
-	        <thead>
-    <tr>
-      <th>Course</th>
-      <th>Date</th>
-      <th>Institution</th>
-      <th>Lenght</th>
-      <th> - </th>
-    </tr>
-  </thead>
-  <tr>
-      <td><a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
-	  Kubernetes masterclass from Rancher Labs</a><br>
-        <sub> - <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher" target="_blank">
-          Intro to kubernetes and rancher</a></sub><br>
-        <sub> - <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes" target="_blank">
-          Intro to K3s Online Training: Lightweight Kubernetes   </a></sub><br>
-        <sub> - <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh" target="_blank"> Understanding and Implementing Service Mesh</a> </sub><br>
-        <sub> - <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana" target="_blank">Monitoring and Alerting with Prometheus & Grafana</a></sub><br>
-      </td>
-      <td>05/25</td>
-      <td>
-        Rancher Labs
-      </td>
-      <td> 6 hours</td>
-      <td>🟢⚡</td>
-    </tr>
-	</table>
-    </details>
-  </td>
-</tr>
-<!-- ------------------------------------------------------------------------------------------- -->
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">
