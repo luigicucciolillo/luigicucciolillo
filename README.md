@@ -159,14 +159,6 @@
 	      <td> 6 hours</td>
 	      <td>🟢</td>
     </tr>
-	    <tr style="
-    background:url('https://i.gifer.com/7efs.gif') center/cover no-repeat;
-    color:white;
-    font-weight:bold;
-  ">
-    <td>🔥 Server A</td>
-    <td>🔥 Burning!</td>
-  </tr>
   </td>
 </tr>    
 <!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
