@@ -142,6 +142,26 @@
 	      <td>5 ECTS</td>
 	      <td>🛑💬²</td>
     </tr>
+<tr>
+   <td>
+    <details>
+      <summary>
+        <strong> Open week  </strong>
+      </summary>
+	    Link to official course 
+      <a href="link here" target="_blank">
+        here</a><br>
+		text here
+    </details>
+          </td>
+	  	      <td>06/25</td>
+	  <td>Professional AI</td>
+	      <td> 6 hours</td>
+	      <td>🟢</td>
+    </tr>
+  </td>
+</tr>  
+	  
 <!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
