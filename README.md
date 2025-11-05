@@ -28,9 +28,9 @@
 				<!-- TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;"><sub>✅ About TLS and cert-manager </sub></summary>
-			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br><br>
-					&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br><br>
-			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br><br>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
+					&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
 
   <blockquote style="margin:0; padding-left:1em;">
 ...
