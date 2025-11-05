@@ -74,6 +74,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
 blablabla...
 			</blockquote>
+		</details>
 <!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
