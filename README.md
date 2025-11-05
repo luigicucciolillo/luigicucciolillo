@@ -30,7 +30,7 @@
   <summary style="cursor:pointer; font-weight:600; color:#0366d6;">
     ✅ <sub>About TLS and cert-manager</sub>
   </summary>
-  <div style="margin-top:0.5em; padding-left:1em; line-height:1.4;">
+  <div style="margin-top:0.5em; padding-left:1em; line-height:1;">
 	  <!-- TLS - TALK 1 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
     <p style="margin:0;">
       <sub>🔗 <b>cert-manager – Past, Present and Future</b> — 
