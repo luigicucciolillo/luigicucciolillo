@@ -63,7 +63,23 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 		use cases in which certificates are required. This talk will walk through the various use cases for cert-manager, including ingress, control 
 		plane and nodes (kubeadm, CAPI), webhooks, intra-service mTLS (cert-manager-csi) and service mesh (OpenServiceMesh, Istio).
 			</blockquote>
-	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b> 
+      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+			In today's complex Kubernetes environments, managing secrets securely is a challenge. Traditional methods often involve complex configurations with secret vaults, secret syncing and secret backups. 
+				Regardless of which fancy technology is used, secrets always come with a risk of being leaked. Most of the secrets used in traditional applications can be replaced by short-lived certificates. 
+				Applications can prove to be the owner of a certificate without sharing any secrets. In Kubernetes, cert-manager can be used to provision these certificates to all applications without sharing any secret information. 
+				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
+				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
+			</blockquote>
+		</details>
+	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	      <p style="margin:0;">
             <sub>🔗 <b>title</b> 
       <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
