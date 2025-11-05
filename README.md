@@ -6,6 +6,7 @@
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
 -->
 ## Masterclasses
+<details>
       <summary>
         <strong>[ONGOING] masterclass: Kubernetes Self healing, networking, HA large scale, Mesh, TLS ... </strong>
       </summary>
