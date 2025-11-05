@@ -8,7 +8,21 @@
 ## Masterclasses
 <details>
       <summary>
-        <strong>[ONGOING] Kubernetes masterclass: Self healing, networking, HA large scale , Mesh </strong>
+        <strong>TLS</strong>
+      </summary>
+			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		<details style="margin:0; padding-left:1em;">
+		  <summary style="margin: 0; padding: 0;">✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</summary>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
+  <blockquote style="margin:0; padding-left:1em;">
+		    <sub>
+		      blablabla  
+		    </sub>  
+		  </blockquote>
+		</details>
+<details>
+      <summary>
+        <strong>[ONGOING] masterclass: Kubernetes Self healing, networking, HA large scale, Mesh, TLS ... </strong>
       </summary>
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		<details style="margin:0; padding-left:1em;">
