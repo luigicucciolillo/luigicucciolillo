@@ -25,32 +25,12 @@
 		    </sub>  
 		  </blockquote>
 		</details>
-				<!-- TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	<details style="margin:0; padding-left:1em;">
-		  <summary style="margin: 0; padding: 0;"><sub>✅ About TLS and cert-manager </sub></summary>
-			&nbsp; <sub> 🔗 cert-manager - Past, Present and Future - Jake Sanders, cert-manager Maintainer & Ashley Davis, Jetstack: 
-				<a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank">here</a>
-				<a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">slides</a>
-				<a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">syntetizing</a>
-			</sub><br>
-				<blockquote style="margin:0; padding-left:1em;">
-					Speakers: Ashley Davis, Jake Sanders cert-manager is the Cloud Native way to use X.509 certificates inside Kubernetes. 
-					It's usually one of the first things administrators install on a new cluster, with 15 million image pulls per day! 
-					The project has just entered incubation, after being part of the CNCF sandbox for almost 2 years. 
-					Join two of the maintainers for a talk about why you should use cert-manager, how we got to where we are today, and our plans for the future!<br>
-					<a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">slides</a>
-					<a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">syntetizing</a>
-				</blockquote>
-			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
-				<blockquote style="margin:0; padding-left:1em;">
-					...
-				</blockquote>
-			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
-				<blockquote style="margin:0; padding-left:1em;">
-					...
-				</blockquote>
-		</details>
-				<!-- WIP +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<iframe
+  src="https://raw.githubusercontent.com/luigicucciolillo/StudyMaterial/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/readme.md"
+  width="100%"
+  height="900"
+  style="border:none; background:#fff; border-radius:12px; padding:1rem;">
+</iframe>	
 <!-- 🔐 TLS Section ===================================================================== -->
 <details style="margin:0.5em 0; padding-left:1em;">
   <summary style="cursor:pointer; font-weight:600; color:#0366d6;">
@@ -73,8 +53,6 @@
       The project recently entered the CNCF incubation phase after two years in the sandbox.  
       In this talk, two maintainers discuss why cert-manager matters, its evolution, and what’s next.
       <br><br>
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | 
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
     </blockquote>
 	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
     <p style="margin:0.5em 0 0;">
@@ -102,7 +80,7 @@
     </blockquote>
   </div>
 </details>
-			<!-- END WIP +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+<!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;"><sub>✅ - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
