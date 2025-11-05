@@ -25,19 +25,33 @@
 		    </sub>  
 		  </blockquote>
 		</details>
-		<details>
-      <summary>
-        <strong>TLS</strong>
-      </summary>
-			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-		<details style="margin:0; padding-left:1em;">
-		  <summary style="margin: 0; padding: 0;">✅ 37 mins - Kubernetes Design Principles: Understand the Why - Saad Ali, Google</summary>
-			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=ZuIQurh_kDk" target="_blank">here</a></sub><br>
+				<!-- TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	<details style="margin:0; padding-left:1em;">
+		  <summary style="margin: 0; padding: 0;"><sub>✅ - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
+			&nbsp; <sub> 🔗 Link to YT: <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">here</a></sub><br>
   <blockquote style="margin:0; padding-left:1em;">
-		    <sub>
-		      blablabla  
-		    </sub>  
-		  </blockquote>
+	  Certificates are an integral part of a secure Kubernetes cluster deployment. 
+				They are mainly used to secure the Kubernetes API server using TLS,
+				but certificates (and keys) are also used for other cluster functions such as client authentication,
+				encryption of secrets, TLS bootstrapping, and the generation of service account tokens.<br>
+			  Certificates pose interesting challenges to cluster operators. What does the certificate setup look like in an ideal scenario? 
+				How long should certificates be valid for? 
+				When nearing expiration dates, 
+				how can certificates be rotated to ensure the cluster remains operational? 
+				These challenges must be understood when it comes to deploying and operating a Kubernetes cluster.
+				<br>
+			  After this talk, you should have a better understanding of:
+			  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How each cluster component uses certificates for secure communications  
+			  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How certificates can be used for authentication, including service account tokens  
+			  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How the Kubelet TLS bootstrapping process works  
+			  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How to plan, generate and deploy the certificates required for a secure cluster  
+			  <br>&nbsp;&nbsp;&nbsp;&nbsp;• How to rotate certificates that are nearing their expiration date  
+			  <br><br>
+			  <strong>About Alexander Brand</strong>  
+			  Alex works on the Kismatic Enterprise Toolkit at Apprenda, making the deployment of production Kubernetes clusters easier. 
+			He has been involved with Kubernetes and related projects since early 2016. Before Apprenda, 
+			Alex attended Queen's University in Canada, where he majored in Biomedical Computing.
+			</blockquote>
 		</details>
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
