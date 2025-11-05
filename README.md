@@ -63,16 +63,17 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 		use cases in which certificates are required. This talk will walk through the various use cases for cert-manager, including ingress, control 
 		plane and nodes (kubeadm, CAPI), webhooks, intra-service mTLS (cert-manager-csi) and service mesh (OpenServiceMesh, Istio).
 			</blockquote>
-	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-    <p style="margin:0.5em 0 0;">
-      <sub>🔗 <b>Another Related Talk:</b> 
-      <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">🎥 Watch here</a></sub>
-    </p>
-    <blockquote style="margin:0.3em 0; padding-left:1em; border-left:3px solid #ccc; color:#555;">
-      ...
-    </blockquote>
-  </div>
-</details>
+	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>title</b> 
+      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="link slides" target="_blank">Slides</a> | 
+      🧾 <a href="link text" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+blablabla...
+			</blockquote>
 <!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
