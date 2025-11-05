@@ -25,12 +25,6 @@
 		    </sub>  
 		  </blockquote>
 		</details>
-<iframe
-  src="https://raw.githubusercontent.com/luigicucciolillo/StudyMaterial/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/readme.md"
-  width="100%"
-  height="900"
-  style="border:none; background:#fff; border-radius:12px; padding:1rem;">
-</iframe>	
 <!-- 🔐 TLS Section ===================================================================== -->
 <details style="margin:0.5em 0; padding-left:1em;">
   <summary style="cursor:pointer; font-weight:600; color:#0366d6;">
@@ -46,7 +40,7 @@
       🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
 	  </sub>
     </p>
-    <blockquote style="margin:0.3em 0; padding-left:1em; border-left:3px solid #ccc; color:#555;">
+    <blockquote style="margin:0.3em 0; padding-left:1em; border-left:3px solid #ccc; color:#555; font-size:0.95em;">
       cert-manager is the Cloud Native way to manage X.509 certificates inside Kubernetes.  
       It's often one of the first tools administrators install on a new cluster, reaching over
       <b>15 million image pulls per day</b>!  
