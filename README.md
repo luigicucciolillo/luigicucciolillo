@@ -53,6 +53,7 @@
     ✅ <sub>About TLS and cert-manager</sub>
   </summary>
   <div style="margin-top:0.5em; padding-left:1em; line-height:1.4;">
+	  <!-- TLS - TALK 1 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
     <p style="margin:0;">
       <sub>🔗 <b>cert-manager – Past, Present and Future</b> — 
       <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>:
@@ -68,13 +69,23 @@
       📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | 
       🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
     </blockquote>
+	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
     <p style="margin:0.5em 0 0;">
-      <sub>🔗 <b>Additional Talk:</b> 
-      <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">🎥 Watch here</a></sub>
+      <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b> 
+      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a></sub>
     </p>
     <blockquote style="margin:0.3em 0; padding-left:1em; border-left:3px solid #ccc; color:#555;">
-      ...
+      Cert-manager is a widely used project for the automation of X.509 TLS certificates. In 2020, it reached 1.0 and landed in the CNCF Sandbox. 
+		cert-manager has been popularised by its support of ACME and Ingress, enabling many millions of certificates to be issued and renewed, 
+		and to help secure the cloud native web with Kubernetes and all the various ingress controllers. But cert-manager, 
+		with its custom resources and controllers, extensible with issuers including those out-of-tree, can also be used for a myriad of other 
+		use cases in which certificates are required. This talk will walk through the various use cases for cert-manager, including ingress, control 
+		plane and nodes (kubeadm, CAPI), webhooks, intra-service mTLS (cert-manager-csi) and service mesh (OpenServiceMesh, Istio).
+      <br><br>
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a>
     </blockquote>
+	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
     <p style="margin:0.5em 0 0;">
       <sub>🔗 <b>Another Related Talk:</b> 
       <a href="https://www.youtube.com/watch?v=gXz4cq3PKdg" target="_blank">🎥 Watch here</a></sub>
