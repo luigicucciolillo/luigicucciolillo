@@ -61,7 +61,10 @@
     <p style="margin:0;">
       <sub>🔗 <b>cert-manager – Past, Present and Future</b> — 
       <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>:
-      <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank">🎥 Watch here</a></sub>
+      <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank">🎥 Watch here</a>
+	        📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
+	  </sub>
     </p>
     <blockquote style="margin:0.3em 0; padding-left:1em; border-left:3px solid #ccc; color:#555;">
       cert-manager is the Cloud Native way to manage X.509 certificates inside Kubernetes.  
