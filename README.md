@@ -201,13 +201,21 @@ blablabla...
 	      <td>🛑💬³</td>
     </tr> 
 -->
-    <tr>
+ <!--    <tr>
       <td><a href="https://devopswithkubernetes.com/" target="_blank">
         DevOps with kubernetes</a></td>
 	      <td>06/25</td>
 	      <td>University of Helsinki</td>
 	      <td>5 ECTS</td>
 	      <td>🛑💬²</td>
+    </tr>
+-->
+ <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  Service Mesh Fundamentals (LFS243)</a></td>
+	      <td>11/25</td>
+	      <td>The linux foundation</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
     </tr>
 <tr>
    <td>
@@ -245,7 +253,7 @@ blablabla...
     </a>
             <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
-            <sub>- <a href="y" target="_blank">Service Mesh Fundamentals (LFS243)</a></sub>
+            <sub>- <a href="y" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub>
             <sub>- <a href="y" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
             <sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
             <sub>- <a href="y" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
@@ -255,7 +263,7 @@ blablabla...
           <td><strong>Date:</strong></td>
           <td>06/25</td>
           <td><strong>Next milestone:</strong></td>
-          <td colspan="2">Complete Service Mesh Fundamentals (LFS243)</td>
+          <td colspan="2">Complete Monitoring Systems and Services with Prometheus (LFS241)</td>
         </tr>
         <tr>
           <td><strong>Provider:</strong></td>
