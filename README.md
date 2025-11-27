@@ -210,6 +210,14 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
+<tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
+	      <td>09/25 - 11/25</td>
+	      <td>Miticoro foundation</td>
+	      <td>x</td>
+	      <td>🟢🎓</td>
+    </tr>
+<tr>  
  <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  Service Mesh Fundamentals (LFS243)</a></td>
 	      <td>11/25</td>
