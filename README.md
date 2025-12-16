@@ -608,7 +608,12 @@ ECTS
 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/resume/CV_cucciolillo.pdf" target="_blank">
 here
 </a>
+<br>
 
+**badges** : 
+<a href="https://www.credly.com/users/luigi-cucciolillo/badges#credly" target="_blank">
+here
+</a>
 
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
