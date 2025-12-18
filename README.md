@@ -211,6 +211,13 @@ blablabla...
     </tr>
 -->
 <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241)</a></td>
+	      <td>11/25 - 12/25</td>
+	      <td>The linux foundation</td>
+	      <td>25 hours</td>
+	      <td>🟢🎓</td>
+    </tr>
+<tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
 	      <td>Miticoro foundation</td>
@@ -262,34 +269,34 @@ blablabla...
             <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub>
-            <sub>- <a href="y" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
+            <sub>- <a href="y" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
             <sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
             <sub>- <a href="y" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
           </td>
         </tr>
         <tr>
-          <td><strong>Date:</strong></td>
+          <td><strong>Start Date:</strong></td>
           <td>06/25</td>
           <td><strong>Next milestone:</strong></td>
-          <td colspan="2">Complete Monitoring Systems and Services with Prometheus (LFS241)</td>
+          <td colspan="2">Complete Managing Kubernetes Applications with Helm (LFS244)</td>
         </tr>
         <tr>
           <td><strong>Provider:</strong></td>
           <td>The Linux Foundation</td>
           <td><strong>Instructor:</strong></td>
-          <td colspan="2">Kelsey Hightower (guest), LF instructors</td>
+          <td colspan="2">LF instructors</td>
         </tr>
         <tr>
           <td><strong>Duration:</strong></td>
           <td>6 months</td>
           <td><strong>Learning format:</strong></td>
-          <td colspan="2">Self-paced + Labs</td>
+          <td colspan="2">Self-paced + Hands-on Labs & Assignments </td>
         </tr>
         <tr>
           <td><strong>Status:</strong></td>
           <td>🟡 In progress</td>
           <td><strong>Completion expected:</strong></td>
-          <td colspan="2"> 01-2026</td>
+          <td colspan="2"> 02-2026</td>
         </tr>
       </table>
     </details>
