@@ -268,10 +268,10 @@ blablabla...
     </a>
             <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
-            <sub>- <a href="y" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub>
+            <sub>- <a href="y" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
-            <sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
             <sub>- <a href="y" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
+			<sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
           </td>
         </tr>
         <tr>
