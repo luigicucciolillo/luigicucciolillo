@@ -315,7 +315,8 @@ blablabla...
 	      <td>35 hours</td>
 	<td>🟢🎓</td>
     </tr>
-	  	  <tr>
+<!--
+    <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
         Kubernetes fundamentals (LFS258)</a></td>
 	      <td>09/25</td>
@@ -323,6 +324,7 @@ blablabla...
 	      <td>35 hours</td>
 	<td>🟢🎓</td>
     </tr>
+-->
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">
         Containers Fundamentals (LFS253)</a></td>
