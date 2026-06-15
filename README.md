@@ -262,7 +262,7 @@ blablabla...
     <details>
       <summary>
         <strong>Advanced Cloud Engineer IT Professional Program (LFS002)</strong>
-        – 06/25 – The Linux Foundation – 6 months – 🟢🎓
+        – 06/25 -> 03-26 – The Linux Foundation – 9 months – 🟢🎓
       </summary>
       <table style="width: 100%; margin-top: 10px;">
         <tr>
@@ -325,6 +325,7 @@ blablabla...
 	<td>🟢🎓</td>
     </tr>
 -->
+<!--
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">
         Containers Fundamentals (LFS253)</a></td>
@@ -333,6 +334,7 @@ blablabla...
 	      <td>40 hours</td>
 	<td>🟢🎓</td>
     </tr>
+-->
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
