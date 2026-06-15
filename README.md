@@ -210,6 +210,7 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
+<!--
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241)</a></td>
 	      <td>11/25 - 12/25</td>
@@ -217,6 +218,7 @@ blablabla...
 	      <td>25 hours</td>
 	      <td>🟢🎓</td>
     </tr>
+-->
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
@@ -260,7 +262,7 @@ blablabla...
     <details>
       <summary>
         <strong>Advanced Cloud Engineer IT Professional Program (LFS002)</strong>
-        – 06/25 – The Linux Foundation – 6 months – 🟡🎓
+        – 06/25 – The Linux Foundation – 6 months – 🟢🎓
       </summary>
       <table style="width: 100%; margin-top: 10px;">
         <tr>
@@ -269,12 +271,12 @@ blablabla...
 		  <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
           Advanced Cloud Engineer IT Professional Program (LFS002) <br>
     </a>
-            <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
-            <sub>- <a href="y" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
             <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub><br>
-            <sub>- <a href="y" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
-            <sub>- <a href="y" target="_blank">✅Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
-			<sub>- <a href="y" target="_blank">✅Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">✅Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
+			<sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">✅Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
           </td>
         </tr>
         <tr>
