@@ -1,4 +1,4 @@
-[# Learning ...
+# Learning ...
 <!--
 ![Banner](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=1350&q=80)
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
@@ -225,13 +225,16 @@ blablabla...
 	      <td>🟢🎓</td>
     </tr>
 <tr>  
- <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  Service Mesh Fundamentals (LFS243)</a></td>
+<!--
+     <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
+        Service Mesh Fundamentals (LFS243)</a></td>
 	      <td>11/25</td>
 	      <td>The linux foundation</td>
 	      <td>20 hours</td>
 	      <td>🟢🎓</td>
     </tr>
+-->
 <tr>
    <td>
     <details>
@@ -268,17 +271,17 @@ blablabla...
     </a>
             <sub>- <a href="y" target="_blank">✅ Containers Fundamentals (LFS253)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a></sub><br>
-            <sub>- <a href="y" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a></sub><br>
             <sub>- <a href="y" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a></sub><br>
-            <sub>- <a href="y" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
-			<sub>- <a href="y" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
+            <sub>- <a href="y" target="_blank">✅Managing Kubernetes Applications with Helm (LFS244)</a></sub><br>
+			<sub>- <a href="y" target="_blank">✅Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a></sub><br>
           </td>
         </tr>
         <tr>
           <td><strong>Start Date:</strong></td>
           <td>06/25</td>
           <td><strong>Next milestone:</strong></td>
-          <td colspan="2">Complete Managing Kubernetes Applications with Helm (LFS244)</td>
+          <td colspan="2">Completed</td>
         </tr>
         <tr>
           <td><strong>Provider:</strong></td>
@@ -288,15 +291,15 @@ blablabla...
         </tr>
         <tr>
           <td><strong>Duration:</strong></td>
-          <td>6 months</td>
+          <td>6+ months</td>
           <td><strong>Learning format:</strong></td>
           <td colspan="2">Self-paced + Hands-on Labs & Assignments </td>
         </tr>
         <tr>
           <td><strong>Status:</strong></td>
-          <td>🟡 In progress</td>
-          <td><strong>Completion expected:</strong></td>
-          <td colspan="2"> 02-2026</td>
+          <td>🟢 Completed</td>
+          <td><strong>Completion:</strong></td>
+          <td colspan="2"> 03-2026</td>
         </tr>
       </table>
     </details>
@@ -637,4 +640,3 @@ https://www.coursera.org/specializations/cloud-computing
 https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
 https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
-](https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243)
