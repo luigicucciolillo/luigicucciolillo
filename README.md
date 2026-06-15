@@ -210,15 +210,6 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
-<!--
-<tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">  Monitoring Systems and Services with Prometheus (LFS241)</a></td>
-	      <td>11/25 - 12/25</td>
-	      <td>The linux foundation</td>
-	      <td>25 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
--->
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
@@ -262,7 +253,7 @@ blablabla...
     <details>
       <summary>
         <strong>Advanced Cloud Engineer IT Professional Program (LFS002)</strong>
-        – 06/25 -> 03-26 – The Linux Foundation – 9 months – 🟢🎓
+        – 06/25 -> 03-26 – The Linux Foundation – 6 courses – 🟢🎓
       </summary>
       <table style="width: 100%; margin-top: 10px;">
         <tr>
@@ -307,6 +298,55 @@ blablabla...
     </details>
   </td>
 </tr>
+<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies-->
+<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>Introduction to DevOps and Cloud Infrastructure Technologies</strong>
+        –  112 hours   – The Linux Foundation – 4 courses – 🟢🎓
+      </summary>
+      <table style="width: 100%; margin-top: 10px;">
+        <tr>
+          <td><strong>Courses:</strong></td>
+          <td colspan="4">
+		  <a href="https://training.linuxfoundation.org/training/advanced-cloud-engineer-it-professional-program/" target="_blank">
+          Advanced Cloud Engineer IT Professional Program (LFS002) <br>
+    </a>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">✅ Introduction to Jenkins (LFS167) - 20 hours</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">✅ Introduction to kubernetes (LFS158) 20 hours</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">✅ Introduction to Cloud Infrastructure Technologies (LFS151) 50 hours</a></sub><br>
+            <sub>- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">✅ Introduction to DevOps and Site Reliability Engineering (LFS162) 12 hours</a></sub><br>
+          </td>
+        </tr>
+        <tr>
+          <td><strong>Start Date:</strong></td>
+          <td>x</td>
+          <td><strong>Next milestone:</strong></td>
+          <td colspan="2">Completed</td>
+        </tr>
+        <tr>
+          <td><strong>Provider:</strong></td>
+          <td>The Linux Foundation</td>
+          <td><strong>Instructor:</strong></td>
+          <td colspan="2">LF instructors</td>
+        </tr>
+        <tr>
+          <td><strong>Duration:</strong></td>
+          <td>6+ months</td>
+          <td><strong>Learning format:</strong></td>
+          <td colspan="2">Self-paced + Hands-on Labs & Assignments </td>
+        </tr>
+        <tr>
+          <td><strong>Status:</strong></td>
+          <td>🟢 Completed</td>
+          <td><strong>Completion:</strong></td>
+          <td colspan="2"> x</td>
+        </tr>
+      </table>
+    </details>
+  </td>
+</tr>
 	  <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
@@ -315,26 +355,6 @@ blablabla...
 	      <td>35 hours</td>
 	<td>🟢🎓</td>
     </tr>
-<!--
-    <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
-        Kubernetes fundamentals (LFS258)</a></td>
-	      <td>09/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>35 hours</td>
-	<td>🟢🎓</td>
-    </tr>
--->
-<!--
-<tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">
-        Containers Fundamentals (LFS253)</a></td>
-	      <td>07/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>40 hours</td>
-	<td>🟢🎓</td>
-    </tr>
--->
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
