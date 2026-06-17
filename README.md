@@ -231,7 +231,7 @@ blablabla...
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	</details>
           </td>
-	  	      <td>05/2026</td>
+	  	      <td><details><summary>05/2026</summary>60 hours<br>Completed<br>  30 hours<br> 40 hours<br> 24 hours <br> 35 hours</details></td>
 	            <td>The linux foundation</td>
 	            <td>7 months</td>
 	            <td>🟡 </td>
@@ -574,30 +574,6 @@ blablabla...
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-<!--    <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">
-          Introduction to Cloud Infrastructure Technologies (LFS151)
-        </a>
-      </td>
-      <td>05/25</td>
-      <td>The Linux Foundation</td>
-      <td>50 hours</td>
-      <td>🟢🎓</td>
-    </tr>
--->
-<!--    <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">
-        Introduction to DevOps and Site Reliability Engineering (LFS162)
-        </a>
-      </td>
-      <td>05/25</td>
-      <td>The Linux Foundation</td>
-      <td>12 hours</td>
-      <td>🟢🎓</td>
-    </tr>
--->
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">
@@ -681,9 +657,6 @@ here
 <a href="https://www.credly.com/users/luigi-cucciolillo/badges#credly" target="_blank">
 here
 </a>
-
-<!-- -->
-
 
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
