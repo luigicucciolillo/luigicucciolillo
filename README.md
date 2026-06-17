@@ -236,6 +236,82 @@ blablabla...
 	            <td>7 months</td>
 	            <td>🟡 </td>
 </tr>
+
+
+<table>
+  <tr>
+    <th>Certification</th>
+    <th>Start</th>
+    <th>Provider</th>
+    <th>Duration</th>
+    <th>Status</th>
+  </tr>
+
+  <tr>
+    <td colspan="5">
+      <details>
+        <summary>
+          <strong>Cybersecurity Super Bundle</strong> · 05/2026 · The Linux Foundation · 7 months · 🟡
+        </summary>
+
+        <br>
+
+        <table>
+          <tr>
+            <td><strong>Certification</strong></td>
+            <td>Cybersecurity Super Bundle</td>
+          </tr>
+          <tr>
+            <td><strong>Start</strong></td>
+            <td>05/2026</td>
+          </tr>
+          <tr>
+            <td><strong>Provider</strong></td>
+            <td>The Linux Foundation</td>
+          </tr>
+          <tr>
+            <td><strong>Duration</strong></td>
+            <td>7 months</td>
+          </tr>
+          <tr>
+            <td><strong>Status</strong></td>
+            <td>🟡 In progress</td>
+          </tr>
+        </table>
+
+        <br>
+
+        <strong>Courses included:</strong>
+        <br><br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Linux System Administration Essentials (LFS207)
+        </a> — 60 hours<br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Kubernetes Fundamentals (LFS258)
+        </a> — Completed<br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Kubernetes Security Essentials (LFS260)
+        </a> — 30 hours<br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Implementing DevSecOps (LFS262)
+        </a> — 40 hours<br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200)
+        </a> — 24 hours<br>
+
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation">
+          Mastering Kubernetes Security with Kyverno (LFS255)
+        </a> — 35 hours
+
+      </details>
+    </td>
+  </tr>
+</table>
 <!-- END TABELLA 2--> 
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
