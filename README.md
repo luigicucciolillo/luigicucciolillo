@@ -217,8 +217,6 @@ blablabla...
       <summary>
         <strong> Ciber Security super bundle </strong>
       </summary> 
-      The Cybersecurity Super Bundle provides a comprehensive path across Linux administration, Kubernetes operations, and cloud-native security, combining hands-on training with industry-recognized certifications. It covers core system administration, Kubernetes management, container and platform hardening, DevSecOps practices, infrastructure security, and policy enforcement with Kyverno, while also preparing learners for the LFCS, CKA, and CKS exams. Overall, it builds the practical skills needed to secure modern infrastructure and Kubernetes-based environments across build, deployment, and runtime.
-        <br>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
@@ -437,6 +435,7 @@ blablabla...
     </tr>
   </td>
 </tr>  
+<!--
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
         Introduction to Jenkins (LFS167)</a></td>
@@ -448,6 +447,7 @@ blablabla...
 <tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
 	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
 </tr>
+-->
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
@@ -574,7 +574,7 @@ blablabla...
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-    <tr>
+<!--    <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">
           Introduction to Cloud Infrastructure Technologies (LFS151)
@@ -585,7 +585,8 @@ blablabla...
       <td>50 hours</td>
       <td>🟢🎓</td>
     </tr>
-    <tr>
+-->
+<!--    <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">
         Introduction to DevOps and Site Reliability Engineering (LFS162)
@@ -596,6 +597,7 @@ blablabla...
       <td>12 hours</td>
       <td>🟢🎓</td>
     </tr>
+-->
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">
