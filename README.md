@@ -210,24 +210,6 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
-<tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
-	      <td>09/25 - 11/25</td>
-	      <td>Miticoro foundation</td>
-	      <td>x</td>
-	      <td>🟢🎓</td>
-    </tr>
-<tr>  
-<!--
-     <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
-        Service Mesh Fundamentals (LFS243)</a></td>
-	      <td>11/25</td>
-	      <td>The linux foundation</td>
-	      <td>20 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
---> 
 <!-- TABELLA 2-->    
 <tr>
    <td>
@@ -251,12 +233,30 @@ blablabla...
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	</details>
           </td>
-	  	      <td>10/25</td>
-	            <td>Professional AI</td>
-	            <td> 6 hours</td>
-	            <td>🟢</td>
+	  	      <td>05/2026</td>
+	            <td>The linux foundation</td>
+	            <td>7 months</td>
+	            <td>🟡 </td>
 </tr>
 <!-- END TABELLA 2--> 
+<tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
+	      <td>09/25 - 11/25</td>
+	      <td>Miticoro foundation</td>
+	      <td>x</td>
+	      <td>🟢🎓</td>
+    </tr>
+<tr>  
+<!--
+     <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
+        Service Mesh Fundamentals (LFS243)</a></td>
+	      <td>11/25</td>
+	      <td>The linux foundation</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
+    </tr>
+--> 
 <tr>
    <td>
     <details>
