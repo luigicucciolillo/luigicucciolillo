@@ -227,18 +227,24 @@ blablabla...
 	      <td>20 hours</td>
 	      <td>🟢🎓</td>
     </tr>
--->
+--> 
 <!-- TABELLA 2-->    
 <tr>
    <td>
     <details>
       <summary>
-        <strong> title </strong>
+        <strong> Ciber Security super bundle </strong>
       </summary> 
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">
-        From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop </a> - 3 hours<br><br>
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20development%3A%20An%20expense%20management%20agent%20with%20Telegram" target="_blank">
-        Expense Manager Agent with Telegram (3h) - AI Development Workshop </a> - 3 hours<br>
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+        Linux System Administration Essentials (LFS207) </a> - 60 hours<br><br>
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+        2 - Kubernetes Fundamentals (LFS258) </a> - x hours<br>
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+        4 - Implementing DevSecOps (LFS262) </a> - x hours<br>
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+        5 - Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - x hours<br>
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+        6 - Mastering Kubernetes Security with Kyverno (LFS255) </a> - x hours<br>
 	</details>
           </td>
 	  	      <td>10/25</td>
@@ -246,8 +252,7 @@ blablabla...
 	            <td> 6 hours</td>
 	            <td>🟢</td>
 </tr>
-<!-- END TABELLA 2-->    
-
+<!-- END TABELLA 2--> 
 <tr>
    <td>
     <details>
