@@ -686,51 +686,52 @@ here
 ## Academic Background
 
 <table>
-  <tr>
-    <td width="80"><strong>Year</strong></td>
-    <td width="420"><strong>Exam</strong></td>
-    <td width="140"><strong>Date</strong></td>
-    <td width="80"><strong>CFU</strong></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td>
-      <details>
-        <summary><strong>Sistemi digitali integrati</strong></summary>
-        <br>
-        <em>Integrated digital systems, VHDL, FPGA, timing analysis, laboratory work.</em>
-      </details>
-    </td>
-    <td>25-09-2017</td>
-    <td><strong>10</strong></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td>
-      <details>
-        <summary><strong>High Speed Electron Devices</strong></summary>
-        <br>
-        <em>Microwave devices, S-parameters, RF modeling, noise analysis.</em>
-      </details>
-    </td>
-    <td>09-02-2018</td>
-    <td><strong>10</strong></td>
-  </tr>
-
-  <tr>
-    <td>1</td>
-    <td>
-      <details>
-        <summary><strong>Analog and Power Electronics</strong></summary>
-        <br>
-        <em>Power converters, analog circuits, efficiency analysis, thermal considerations.</em>
-      </details>
-    </td>
-    <td>05-07-2017</td>
-    <td><strong>10</strong></td>
-  </tr>
+  <thead>
+    <tr>
+      <th align="left">Year</th>
+      <th align="left">Exam</th>
+      <th align="left">Date</th>
+      <th align="left">CFU</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>
+        <details>
+          <summary><strong>Sistemi digitali integrati</strong></summary>
+          <br>
+          Integrated digital systems, VHDL, FPGA, timing analysis, and laboratory work.
+        </details>
+      </td>
+      <td>25-09-2017</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+        <details>
+          <summary><strong>High Speed Electron Devices</strong></summary>
+          <br>
+          Microwave devices, S-parameters, RF modeling, and noise analysis.
+        </details>
+      </td>
+      <td>09-02-2018</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>
+        <details>
+          <summary><strong>Analog and Power Electronics</strong></summary>
+          <br>
+          Power converters, analog circuits, efficiency analysis, and thermal considerations.
+        </details>
+      </td>
+      <td>05-07-2017</td>
+      <td>10</td>
+    </tr>
+  </tbody>
 </table>
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
