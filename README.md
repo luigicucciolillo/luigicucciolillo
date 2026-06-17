@@ -681,6 +681,39 @@ here
 <a href="https://www.credly.com/users/luigi-cucciolillo/badges#credly" target="_blank">
 here
 </a>
+<!-- --------------------------------- -->
+## Academic Exams
+
+Selected exams from my academic background in electronics, digital systems, and power electronics.
+
+| Year | Exam | Date | CFU |
+|---|---|---:|---:|
+| 1 | [Sistemi digitali integrati](#sistemi-digitali-integrati) | 25-09-2017 | 10 |
+| 1 | [High Speed Electron Devices](#high-speed-electron-devices) | 09-02-2018 | 10 |
+| 1 | [Analog and Power Electronics](#analog-and-power-electronics) | 05-07-2017 | 10 |
+
+---
+
+<details>
+<summary><strong>Sistemi digitali integrati</strong></summary>
+
+Integrated digital systems, VHDL, FPGA, timing analysis, and laboratory work.
+
+</details>
+
+<details>
+<summary><strong>High Speed Electron Devices</strong></summary>
+
+Microwave devices, S-parameters, RF modeling, and noise analysis.
+
+</details>
+
+<details>
+<summary><strong>Analog and Power Electronics</strong></summary>
+
+Power converters, analog circuits, efficiency analysis, and thermal considerations.
+
+</details>
 
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
