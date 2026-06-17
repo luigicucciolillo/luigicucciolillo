@@ -682,34 +682,24 @@ here
 here
 </a>
 <!-- --------------------------------- -->
-## Academic Exams
-
-Selected exams from my academic background in electronics, digital systems, and power electronics.
-
-| Year | Exam | Date | CFU |
-|---|---|---:|---:|
-| 1 | [Sistemi digitali integrati](#sistemi-digitali-integrati) | 25-09-2017 | 10 |
-| 1 | [High Speed Electron Devices](#high-speed-electron-devices) | 09-02-2018 | 10 |
-| 1 | [Analog and Power Electronics](#analog-and-power-electronics) | 05-07-2017 | 10 |
-
----
+## Academic Background
 
 <details>
-<summary><strong>Sistemi digitali integrati</strong></summary>
+<summary><strong>1st Year — Sistemi digitali integrati</strong> · 10 CFU · 25-09-2017</summary>
 
 Integrated digital systems, VHDL, FPGA, timing analysis, and laboratory work.
 
 </details>
 
 <details>
-<summary><strong>High Speed Electron Devices</strong></summary>
+<summary><strong>1st Year — High Speed Electron Devices</strong> · 10 CFU · 09-02-2018</summary>
 
 Microwave devices, S-parameters, RF modeling, and noise analysis.
 
 </details>
 
 <details>
-<summary><strong>Analog and Power Electronics</strong></summary>
+<summary><strong>1st Year — Analog and Power Electronics</strong> · 10 CFU · 05-07-2017</summary>
 
 Power converters, analog circuits, efficiency analysis, and thermal considerations.
 
