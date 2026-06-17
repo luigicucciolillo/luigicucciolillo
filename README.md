@@ -236,18 +236,19 @@ blablabla...
         <strong> Ciber Security super bundle </strong>
       </summary> 
       The Cybersecurity Super Bundle provides a comprehensive path across Linux administration, Kubernetes operations, and cloud-native security, combining hands-on training with industry-recognized certifications. It covers core system administration, Kubernetes management, container and platform hardening, DevSecOps practices, infrastructure security, and policy enforcement with Kyverno, while also preparing learners for the LFCS, CKA, and CKS exams. Overall, it builds the practical skills needed to secure modern infrastructure and Kubernetes-based environments across build, deployment, and runtime.
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        Linux System Administration Essentials (LFS207) </a> - 60 hours<br><br>
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        2 - Kubernetes Fundamentals (LFS258) </a> - Completed<br>
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        3 - Kubernetes Security Essentials (LFS260) </a> - Completed<br>
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        4 - Implementing DevSecOps (LFS262) </a> - x hours<br>
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        5 - Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - x hours<br>
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-        6 - Mastering Kubernetes Security with Kyverno (LFS255) </a> - x hours<br>
+        <br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Kubernetes Fundamentals (LFS258) </a> - Completed<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Kubernetes Security Essentials (LFS260) </a> - 30 hours <br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Implementing DevSecOps (LFS262) </a> - 40 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - 24 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	</details>
           </td>
 	  	      <td>10/25</td>
