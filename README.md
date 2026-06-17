@@ -681,30 +681,57 @@ here
 <a href="https://www.credly.com/users/luigi-cucciolillo/badges#credly" target="_blank">
 here
 </a>
-<!-- --------------------------------- -->
+
+<!-- -->
 ## Academic Background
 
-<details>
-<summary><strong>1st Year — Sistemi digitali integrati</strong> · 10 CFU · 25-09-2017</summary>
+<table>
+  <tr>
+    <td width="80"><strong>Year</strong></td>
+    <td width="420"><strong>Exam</strong></td>
+    <td width="140"><strong>Date</strong></td>
+    <td width="80"><strong>CFU</strong></td>
+  </tr>
 
-Integrated digital systems, VHDL, FPGA, timing analysis, and laboratory work.
+  <tr>
+    <td>1</td>
+    <td>
+      <details>
+        <summary><strong>Sistemi digitali integrati</strong></summary>
+        <br>
+        <em>Integrated digital systems, VHDL, FPGA, timing analysis, laboratory work.</em>
+      </details>
+    </td>
+    <td>25-09-2017</td>
+    <td><strong>10</strong></td>
+  </tr>
 
-</details>
+  <tr>
+    <td>1</td>
+    <td>
+      <details>
+        <summary><strong>High Speed Electron Devices</strong></summary>
+        <br>
+        <em>Microwave devices, S-parameters, RF modeling, noise analysis.</em>
+      </details>
+    </td>
+    <td>09-02-2018</td>
+    <td><strong>10</strong></td>
+  </tr>
 
-<details>
-<summary><strong>1st Year — High Speed Electron Devices</strong> · 10 CFU · 09-02-2018</summary>
-
-Microwave devices, S-parameters, RF modeling, and noise analysis.
-
-</details>
-
-<details>
-<summary><strong>1st Year — Analog and Power Electronics</strong> · 10 CFU · 05-07-2017</summary>
-
-Power converters, analog circuits, efficiency analysis, and thermal considerations.
-
-</details>
-
+  <tr>
+    <td>1</td>
+    <td>
+      <details>
+        <summary><strong>Analog and Power Electronics</strong></summary>
+        <br>
+        <em>Power converters, analog circuits, efficiency analysis, thermal considerations.</em>
+      </details>
+    </td>
+    <td>05-07-2017</td>
+    <td><strong>10</strong></td>
+  </tr>
+</table>
 <!--
 **luigicucciolillo/luigicucciolillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 💬¹  💬²  💬³  💬⁴  💬⁵
