@@ -254,7 +254,7 @@ blablabla...
   <td colspan="5">
     <details>
       <summary>
-        <strong> &emsp;05/25 -> 06/26 - 🟢🎓 -
+        <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Cloud%20Infrastructure%20Technologies" target="_blank">
           Introduction to DevOps and Cloud Infrastructure Technologies</a>
         </strong>
@@ -289,7 +289,7 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
-<!-- TABELLA 2-->    
+<!-- Ciber Security super bundle  
 <tr>
    <td>
     <details>
@@ -315,7 +315,8 @@ blablabla...
 	            <td>7 months</td>
 	            <td>🟡 </td>
 </tr>
-<!-- END TABELLA 2--> 
+--> 
+
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
@@ -343,7 +344,7 @@ blablabla...
 </tr>
   </td>
 </tr>    
-<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
+<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)
 <tr>
   <td colspan="5">
     <details>
@@ -394,7 +395,8 @@ blablabla...
     </details>
   </td>
 </tr>
-<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies-->
+-->
+<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies
 <tr>
   <td colspan="5">
     <details>
@@ -443,6 +445,7 @@ blablabla...
     </details>
   </td>
 </tr>
+-->
 	  <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
