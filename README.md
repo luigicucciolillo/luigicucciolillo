@@ -194,24 +194,36 @@ blablabla...
 <tr>
     <details>
       <summary>
-        <strong> 05/2026 - 🟡 - Cyber Security super bundle </strong>
+        <strong> 04/2026 - 🟡 - 
+                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
+            Cyber Security super bundle  </a>
+            </strong>
       </summary> 
+      - 60 hours - 🟡
+      
+      <p style="margin-left: 2em;">
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Linux System Administration Essentials (LFS207) </a>
+            </p>
+            <br>
+      - 35 hours - 🟢 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
             Kubernetes Fundamentals (LFS258) </a> - Completed<br>
+      - 60 hours - 🛑
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Kubernetes Security Essentials (LFS260) </a> - 30 hours <br>
+      - 60 hours - 🛑
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Implementing DevSecOps (LFS262) </a> - 40 hours<br>
+      - 60 hours - 🛑
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - 24 hours<br>
+      - 60 hours - 🛑
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	  </details>
 ¡</tr>
 <!-- END TABELLA 2--> 
-
 
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
