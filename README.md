@@ -185,8 +185,6 @@ blablabla...
 				  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
 </details>
 
-<br>
-
 ## Courses
 
 ### The Linux Foundation
