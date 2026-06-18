@@ -191,6 +191,7 @@ blablabla...
 
 ### The Linux Foundation
 <!-- TABELLA 2-->    
+<tr>
     <details>
       <summary>
         <strong> 05/2026 - 🟡 - Cyber Security super bundle </strong>
@@ -207,7 +208,8 @@ blablabla...
             Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - 24 hours<br>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
-	</details>
+	  </details>
+¡</tr>
 <!-- END TABELLA 2--> 
 
 
