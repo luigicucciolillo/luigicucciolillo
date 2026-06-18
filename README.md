@@ -233,7 +233,7 @@ blablabla...
   <td colspan="5">
     <details>
       <summary>
-        <strong>06/25 -> 03-26 - 🟢🎓 - 
+        <strong>&emsp;06/25 -> 03-26 - 🟢🎓 - 
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Advanced%20Cloud%20Engineer%20IT%20Professional%20Program%20Logistics%20(LFS002)" target="_blank">
             Advanced Cloud Engineer IT Professional Program (LFS002) <br>
           </a>
