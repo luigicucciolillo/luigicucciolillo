@@ -194,7 +194,7 @@ blablabla...
 <tr>
     <details>
       <summary>
-        <strong> 04/2026 - 🟡 - 
+        <strong>&emsp;04/2026 - 🟡 - 
                   <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
             Cyber Security super bundle  </a>
             </strong>
@@ -239,12 +239,12 @@ blablabla...
           </a>
         </strong>
       </summary>
-            &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">✅ Containers Fundamentals (LFS253)</a><br>
-            &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">✅ Kubernetes Fundamentals (LFS258)</a><br>
-            &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">✅ Service Mesh Fundamentals (LFS243)</a><br>
-            &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">✅ Monitoring Systems and Services with Prometheus (LFS241)</a><br>
-            &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">✅Managing Kubernetes Applications with Helm (LFS244)</a><br>
-			      &emsp;- <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">✅Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
+            &emsp;- 40 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">Containers Fundamentals (LFS253)</a><br>
+            &emsp;- 35 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">Kubernetes Fundamentals (LFS258)</a><br>
+            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">Service Mesh Fundamentals (LFS243)</a><br>
+            &emsp;- 25 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a><br>
+            &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a><br>
+			      &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
     </details>
   </td>
 </tr>
