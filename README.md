@@ -199,9 +199,8 @@ blablabla...
             Cyber Security super bundle  </a>
             </strong>
       </summary> 
-      - 60 hours - 🟡
-      
       <p style="margin-left: 2em;">
+      - 60 hours - 🟡
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a>
             </p>
