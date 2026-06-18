@@ -190,7 +190,7 @@ blablabla...
 ## Courses
 
 ### The Linux Foundation
-<!-- TABELLA 2-->    
+<!-- START Cyber Security super bundle-->    
 <tr>
     <details>
       <summary>
@@ -226,14 +226,13 @@ blablabla...
             Mastering Kubernetes Security with Kyverno (LFS255) </a><br>
 	  </details>
 </tr>
-<!-- END TABELLA 2--> 
-
+<!-- END Cyber Security super bundle--> 
 <!-- START Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
     <details>
       <summary>
-        <strong>&emsp;06/25 -> 03-26 - 🟢🎓 - 
+        <strong>&emsp;06/25 -> 03/26 - 🟢🎓 - 
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Advanced%20Cloud%20Engineer%20IT%20Professional%20Program%20Logistics%20(LFS002)" target="_blank">
             Advanced Cloud Engineer IT Professional Program (LFS002) <br>
           </a>
@@ -248,8 +247,8 @@ blablabla...
     </details>
   </td>
 </tr>
-<!-- END Advanced cloud-->    
-<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies-->
+<!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
+<!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
 <tr>
   <td colspan="5">
     <details>
@@ -266,6 +265,7 @@ blablabla...
     </details>
   </td>
 </tr>
+<!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
@@ -321,7 +321,7 @@ blablabla...
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
 	      <td>Miticoro foundation</td>
-	      <td>x</td>
+	      <td>3 months</td>
 	      <td>🟢🎓</td>
     </tr>
 <tr>  
