@@ -199,11 +199,10 @@ blablabla...
             Cyber Security super bundle  </a>
             </strong>
       </summary> 
-      <p style="margin-left: 2em;">
+      &emsp;
       - 60 hours - 🟡
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a>
-            </p>
             <br>
       - 35 hours - 🟢 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
