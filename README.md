@@ -200,23 +200,28 @@ blablabla...
             </strong>
       </summary> 
       &emsp;
-      - 60 hours - 🟡
+      - 60 hours - 🟡 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a>
             <br>
-      - 35 hours - 🟢 
+            &emsp;
+      - 35 hours - 🟢 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
             Kubernetes Fundamentals (LFS258) </a> - Completed<br>
-      - 60 hours - 🛑
+            &emsp;
+      - 60 hours - 🛑 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Kubernetes Security Essentials (LFS260) </a> - 30 hours <br>
-      - 60 hours - 🛑
+            &emsp;
+      - 60 hours - 🛑 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Implementing DevSecOps (LFS262) </a> - 40 hours<br>
-      - 60 hours - 🛑
+            &emsp;
+      - 60 hours - 🛑 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - 24 hours<br>
-      - 60 hours - 🛑
+            &emsp;
+      - 60 hours - 🛑 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	  </details>
