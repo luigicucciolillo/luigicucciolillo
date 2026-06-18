@@ -191,11 +191,9 @@ blablabla...
 
 ### The Linux Foundation
 <!-- TABELLA 2-->    
-<tr>
-   <td>
     <details>
       <summary>
-        <strong> Ciber Security super bundle </strong>
+        <strong> 05/2026 - 🟡 - Cyber Security super bundle </strong>
       </summary> 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
@@ -210,12 +208,6 @@ blablabla...
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
 	</details>
-          </td>
-	  	      <td>05/2026</td>
-	            <td>The linux foundation</td>
-	            <td>7 months</td>
-	            <td>🟡 </td>
-</tr>
 <!-- END TABELLA 2--> 
 
 
