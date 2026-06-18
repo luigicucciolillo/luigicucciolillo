@@ -194,7 +194,7 @@ blablabla...
 <tr>
     <details>
       <summary>
-        <strong>&emsp;04/2026 - 🟡 - 
+        <strong>&emsp;04/26 -> Actual - 🟡 - 
                   <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
             Cyber Security super bundle  </a>
             </strong>
