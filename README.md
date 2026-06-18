@@ -189,6 +189,36 @@ blablabla...
 
 ## Courses
 
+### The Linux Foundation
+<!-- TABELLA 2-->    
+<tr>
+   <td>
+    <details>
+      <summary>
+        <strong> Ciber Security super bundle </strong>
+      </summary> 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Kubernetes Fundamentals (LFS258) </a> - Completed<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Kubernetes Security Essentials (LFS260) </a> - 30 hours <br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Implementing DevSecOps (LFS262) </a> - 40 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a> - 24 hours<br>
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Kubernetes Security with Kyverno (LFS255) </a> - 35 hours<br>
+	</details>
+          </td>
+	  	      <td>05/2026</td>
+	            <td>The linux foundation</td>
+	            <td>7 months</td>
+	            <td>🟡 </td>
+</tr>
+<!-- END TABELLA 2--> 
+
+
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
@@ -236,7 +266,6 @@ blablabla...
 	            <td>7 months</td>
 	            <td>🟡 </td>
 </tr>
-
 <!-- END TABELLA 2--> 
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
@@ -246,16 +275,6 @@ blablabla...
 	      <td>🟢🎓</td>
     </tr>
 <tr>  
-<!--
-     <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
-        Service Mesh Fundamentals (LFS243)</a></td>
-	      <td>11/25</td>
-	      <td>The linux foundation</td>
-	      <td>20 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
---> 
 <tr>
    <td>
     <details>
@@ -436,19 +455,6 @@ blablabla...
     </tr>
   </td>
 </tr>  
-<!--
-  <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
-        Introduction to Jenkins (LFS167)</a></td>
-	      <td>06/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>20 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
-<tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
-	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
-</tr>
--->
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
