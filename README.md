@@ -160,6 +160,20 @@ blablabla...
 				  fork of demo</a><br> 
 		  </blockquote>
 		</details>
+
+
+<details style="margin:0; padding-left:1em;">
+		  <summary style="margin: 0; padding: 0;">HA Large scale </summary>  <blockquote style="margin:0; padding-left:1em;">
+	<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
+				Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
+	<sub> -<a href="https://www.youtube.com/watch?v=AYNaaXlV8LQ" target="_blank">
+				  (1y ago)      Building a Large Scale Multi-Cloud Multi-Region SaaS Platform with Kubernetes Controllers </a></sub><br>
+	<sub> -<a href="https://www.youtube.com/watch?v=WRACr5nXl9U" target="_blank">
+				  (1y ago)      Architecting Resilience: Lessons from Managing 7K+ Kubernetes Clusters at Scale  </a></sub><br>
+		  </blockquote>
+		</details>
+
+    
  HA large Scale: <br>
 	<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
 				Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
