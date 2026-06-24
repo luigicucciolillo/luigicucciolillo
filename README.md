@@ -1,4 +1,5 @@
 ![banner](banner_github.png)
+![banner](banner_github.svg)
 
 # Learning ...
 <!--
