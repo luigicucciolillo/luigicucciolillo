@@ -1,0 +1,346 @@
+<svg fill="none" viewBox="0 0 1200 520" width="1200" height="520" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * {
+          box-sizing: border-box;
+        }
+
+        @keyframes gradient {
+          0% { background-position: 0% 50%; }
+          50% { background-position: 100% 50%; }
+          100% { background-position: 0% 50%; }
+        }
+
+        @keyframes float {
+          0%, 100% { transform: translateY(0); }
+          50% { transform: translateY(-8px); }
+        }
+
+        @keyframes pulse {
+          0%, 100% { transform: scale(1); opacity: 1; }
+          50% { transform: scale(1.08); opacity: 0.86; }
+        }
+
+        .container {
+          --ink: #172026;
+          --muted: #5a6670;
+          --paper: #fffdf8;
+          --line: #22343a;
+          --teal: #249889;
+          --yellow: #e6b84a;
+          --coral: #e46f55;
+          --plum: #6f5d7b;
+          --blue: #3b7ea1;
+          --green: #78a86b;
+          --red: #c74e52;
+
+          width: 1200px;
+          height: 520px;
+          overflow: hidden;
+          border-radius: 26px;
+          color: var(--ink);
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+          background:
+            linear-gradient(110deg, rgba(255,255,255,0.92), rgba(255,255,255,0.72)),
+            linear-gradient(-45deg, #24b0ef, #f15bb5, #23a6d5, #f6f645);
+          background-size: 100% 100%, 420% 420%;
+          animation: gradient 16s ease infinite;
+        }
+
+        .upper {
+          height: 230px;
+          padding: 42px 54px 26px;
+          display: grid;
+          grid-template-columns: 1fr 330px;
+          gap: 34px;
+          align-items: start;
+          position: relative;
+        }
+
+        .upper::after {
+          content: "";
+          position: absolute;
+          inset: auto 0 0;
+          height: 1px;
+          background: rgba(23,32,38,0.12);
+        }
+
+        .badge {
+          display: inline-flex;
+          width: fit-content;
+          padding: 8px 17px;
+          border-radius: 999px;
+          background: var(--ink);
+          color: white;
+          font-size: 13px;
+          font-weight: 800;
+          letter-spacing: 0.08em;
+        }
+
+        h1 {
+          margin: 16px 0 0;
+          font-size: 58px;
+          line-height: 0.94;
+          letter-spacing: 0;
+        }
+
+        .subtitle {
+          margin: 16px 0 0;
+          font-size: 20px;
+          color: var(--muted);
+          line-height: 1.35;
+        }
+
+        .terminal {
+          margin-top: 9px;
+          border-radius: 18px;
+          overflow: hidden;
+          background: var(--paper);
+          box-shadow: 0 18px 40px rgba(45, 55, 45, 0.16);
+          border: 1px solid rgba(23,32,38,0.12);
+        }
+
+        .terminal-top {
+          height: 36px;
+          display: flex;
+          gap: 9px;
+          align-items: center;
+          padding: 0 16px;
+          background: var(--ink);
+        }
+
+        .dot {
+          width: 11px;
+          height: 11px;
+          border-radius: 50%;
+        }
+
+        .terminal-body {
+          padding: 18px 20px 19px;
+          font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+          font-size: 15px;
+          line-height: 1.75;
+          color: var(--muted);
+          white-space: nowrap;
+        }
+
+        .terminal-body strong {
+          color: var(--ink);
+          font-weight: 700;
+        }
+
+        .lower {
+          height: 290px;
+          padding: 30px 46px 34px;
+          position: relative;
+          background:
+            linear-gradient(90deg, rgba(255,253,248,0.92), rgba(255,253,248,0.68)),
+            repeating-linear-gradient(100deg, rgba(23,32,38,0.045) 0 1px, transparent 1px 72px);
+        }
+
+        .route {
+          position: absolute;
+          left: 77px;
+          right: 77px;
+          top: 115px;
+          height: 16px;
+          border-radius: 999px;
+          background: var(--line);
+          box-shadow: 0 0 0 12px rgba(34,52,58,0.12);
+        }
+
+        .route::after {
+          content: "";
+          position: absolute;
+          right: -2px;
+          top: 50%;
+          width: 0;
+          height: 0;
+          transform: translateY(-50%);
+          border-top: 17px solid transparent;
+          border-bottom: 17px solid transparent;
+          border-left: 25px solid var(--line);
+        }
+
+        .steps {
+          position: relative;
+          z-index: 1;
+          display: grid;
+          grid-template-columns: repeat(7, 1fr);
+          gap: 14px;
+          height: 100%;
+          align-items: center;
+        }
+
+        .step {
+          min-width: 0;
+          display: grid;
+          justify-items: center;
+          gap: 12px;
+        }
+
+        .node {
+          width: 68px;
+          height: 68px;
+          display: grid;
+          place-items: center;
+          border-radius: 50%;
+          background: var(--paper);
+          border: 7px solid var(--accent);
+          box-shadow: 0 12px 22px rgba(45,55,45,0.20);
+          color: var(--accent);
+          font-size: 22px;
+          font-weight: 850;
+          animation: pulse 4.2s ease-in-out infinite;
+        }
+
+        .label {
+          width: 142px;
+          min-height: 76px;
+          padding: 12px 12px 11px;
+          border-radius: 16px;
+          background: rgba(255,253,248,0.94);
+          border: 1px solid rgba(23,32,38,0.13);
+          box-shadow: 0 10px 25px rgba(45,55,45,0.12);
+          text-align: center;
+          animation: float 5.2s ease-in-out infinite;
+        }
+
+        .label strong {
+          display: block;
+          font-size: 16px;
+          line-height: 1.1;
+        }
+
+        .label span {
+          display: block;
+          margin-top: 6px;
+          font-size: 12px;
+          line-height: 1.22;
+          color: var(--muted);
+        }
+
+        .step:nth-child(even) {
+          transform: translateY(-26px);
+        }
+
+        .step:nth-child(odd) {
+          transform: translateY(28px);
+        }
+
+        .step:nth-child(1) { --accent: var(--teal); }
+        .step:nth-child(2) { --accent: var(--yellow); }
+        .step:nth-child(3) { --accent: var(--coral); }
+        .step:nth-child(4) { --accent: var(--plum); }
+        .step:nth-child(5) { --accent: var(--blue); }
+        .step:nth-child(6) { --accent: var(--green); }
+        .step:nth-child(7) { --accent: var(--red); }
+
+        .step:nth-child(2) .node,
+        .step:nth-child(2) .label { animation-delay: -0.5s; }
+        .step:nth-child(3) .node,
+        .step:nth-child(3) .label { animation-delay: -1s; }
+        .step:nth-child(4) .node,
+        .step:nth-child(4) .label { animation-delay: -1.5s; }
+        .step:nth-child(5) .node,
+        .step:nth-child(5) .label { animation-delay: -2s; }
+        .step:nth-child(6) .node,
+        .step:nth-child(6) .label { animation-delay: -2.5s; }
+        .step:nth-child(7) .node,
+        .step:nth-child(7) .label { animation-delay: -3s; }
+
+        @media (prefers-color-scheme: dark) {
+          .container {
+            --ink: #f6f8fb;
+            --muted: #c3cad0;
+            --paper: #111820;
+            --line: #eaf2f3;
+            background:
+              linear-gradient(110deg, rgba(12,16,21,0.88), rgba(12,16,21,0.70)),
+              linear-gradient(-45deg, #5452ee, #e73c7e, #23a6d5, #151b22);
+            background-size: 100% 100%, 420% 420%;
+          }
+
+          .card,
+          .terminal,
+          .label {
+            border-color: rgba(255,255,255,0.14);
+          }
+
+          .lower {
+            background:
+              linear-gradient(90deg, rgba(17,24,32,0.86), rgba(17,24,32,0.60)),
+              repeating-linear-gradient(100deg, rgba(255,255,255,0.055) 0 1px, transparent 1px 72px);
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container,
+          .node,
+          .label {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <div class="upper">
+          <div>
+            <div class="badge">ROADMAP</div>
+            <h1>Cloud Native<br />Learning Path</h1>
+            <p class="subtitle">Linux → Containers → Kubernetes → Platform Engineering<br />Masterclasses, courses, workshops, and project practice.</p>
+          </div>
+
+          <div class="terminal">
+            <div class="terminal-top">
+              <span class="dot" style="background:#e46f55"></span>
+              <span class="dot" style="background:#e6b84a"></span>
+              <span class="dot" style="background:#249889"></span>
+            </div>
+            <div class="terminal-body">
+              <strong>$ path cloud-native</strong><br />
+              + foundations + core<br />
+              + networking + security<br />
+              + platform + practice
+            </div>
+          </div>
+        </div>
+
+        <div class="lower">
+          <div class="route"></div>
+          <div class="steps">
+            <div class="step">
+              <div class="node">01</div>
+              <div class="label"><strong>Foundations</strong><span>Linux / DevOps / Containers</span></div>
+            </div>
+            <div class="step">
+              <div class="node">02</div>
+              <div class="label"><strong>Kubernetes</strong><span>Core / Design / Troubleshooting</span></div>
+            </div>
+            <div class="step">
+              <div class="node">03</div>
+              <div class="label"><strong>Network + TLS</strong><span>CNI / cert-manager / mTLS</span></div>
+            </div>
+            <div class="step">
+              <div class="node">04</div>
+              <div class="label"><strong>Operations</strong><span>Self-healing / HA / Observability</span></div>
+            </div>
+            <div class="step">
+              <div class="node">05</div>
+              <div class="label"><strong>Platform</strong><span>Istio / Cilium / Knative</span></div>
+            </div>
+            <div class="step">
+              <div class="node">06</div>
+              <div class="label"><strong>Security</strong><span>Kyverno / DevSecOps / Policies</span></div>
+            </div>
+            <div class="step">
+              <div class="node">07</div>
+              <div class="label"><strong>Practice</strong><span>AI APIs / Projects / Portfolio</span></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
