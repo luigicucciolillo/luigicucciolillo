@@ -287,10 +287,23 @@ blablabla...
 
 ### AI
   <tr>
+      <td>
+        
+            <details>
+      <summary>
+        <strong> 06/25 - 🟢 - Fine tuning and deploy of a LLM </strong>
+      </summary>
+	    &emsp;- 2 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
+      &emsp;&emsp;  From: ProfessionAI
+    </details>
+    </tr>   
+	  <tr>
+
+  <tr>
    <td>
     <details>
       <summary>
-        <strong> 06/25 - 🟢 < AI Cloud Explained: What It Is, Why It Matters, and How It Works </strong>
+        <strong> 06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works </strong>
       </summary>
 	    &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
 		&emsp;&emsp; Explore how AI Cloud revolutionizes AI workloads by providing scalable computing, seamless integration, and real-time processing. Learn how this powerful infrastructure enables businesses to optimize AI model training, deployment, and performance with efficiency and flexibility.
@@ -300,6 +313,20 @@ blablabla...
     <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
+
+## PM
+	  <tr>
+      <td>
+        <details>
+          <summary>
+            <strong> 10/25 - 🟢  Designing in Italy for Global Citizenship </strong>
+          </summary>
+         &emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
+        &emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
+        <br>
+        from: ProgEU: Progress in European Union
+      </td>
+    </tr>
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
@@ -350,7 +377,7 @@ blablabla...
 </tr>
   </td>
 </tr>    
-	  <tr>
+	 <!-- <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
 	      <td>10/25</td>
@@ -358,6 +385,7 @@ blablabla...
 	      <td>35 hours</td>
 	<td>🟢🎓</td>
     </tr>
+  -->
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
