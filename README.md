@@ -173,33 +173,31 @@ blablabla...
 		  </blockquote>
 		</details>
 
-    
- HA large Scale: <br>
-	<sub> -<a href="https://www.youtube.com/watch?v=NpT9RraqKdY" target="_blank">
-				Highly Available Kubernetes Clusters - Best Practices - Meaghan Kjelland & Karan Goel, Google </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=AYNaaXlV8LQ" target="_blank">
-				  (1y ago)      Building a Large Scale Multi-Cloud Multi-Region SaaS Platform with Kubernetes Controllers </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=WRACr5nXl9U" target="_blank">
-				  (1y ago)      Architecting Resilience: Lessons from Managing 7K+ Kubernetes Clusters at Scale  </a></sub><br>
-	Mesh: Istio and Cilium:  <br> 
-	<sub> -<a href="https://www.youtube.com/watch?v=bEFILWrRJJ4" target="_blank">
-				  (5y ago)         Demystifying Service Mesh, HashiCorp   </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=91oylZSoYzM" target="_blank">
-				  (1y ago) Comparing Sidecar-Less Service Mesh from Cilium and Istio - Christian Posta, Solo.io </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
-				  (1y ago)    Simplifying Multi-Cluster and Multi-Cloud Deployments with Cilium - Liz Rice, Isovalent </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=x2qemf9Wmqo" target="_blank">
-				  (1y ago)  Istio Ambient Service Mesh Made Simple - Lin Sun, Solo.io </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=xTUiXLqfJms" target="_blank">
-				  (1y ago)   Best-Practices for Securing Egress Traffic with Istio - Niranjan Shankar, Microsoft </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
-				  (6mm ago)    What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan  </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
-				  (1y ago)     Reliable multi-cluster application architectures with Istio - Ameer Abbas & John Howard, Google </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
-				  (1y ago)     What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan </a></sub><br>
-	<sub> -<a href="https://www.youtube.com/watch?v=_8FNsvoECPU" target="_blank">
-				  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
+<details style="margin:0; padding-left:1em;">
+		  <summary style="margin: 0; padding: 0;">Mesh: Istio and Cilium:</summary>  
+      <blockquote style="margin:0; padding-left:1em;">
+        <sub> -<a href="https://www.youtube.com/watch?v=bEFILWrRJJ4" target="_blank">
+                (5y ago)         Demystifying Service Mesh, HashiCorp   </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=91oylZSoYzM" target="_blank">
+                (1y ago) Comparing Sidecar-Less Service Mesh from Cilium and Istio - Christian Posta, Solo.io </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
+                (1y ago)    Simplifying Multi-Cluster and Multi-Cloud Deployments with Cilium - Liz Rice, Isovalent </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=x2qemf9Wmqo" target="_blank">
+                (1y ago)  Istio Ambient Service Mesh Made Simple - Lin Sun, Solo.io </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=xTUiXLqfJms" target="_blank">
+                (1y ago)   Best-Practices for Securing Egress Traffic with Istio - Niranjan Shankar, Microsoft </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
+                (6mm ago)    What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan  </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=XW10IpsTmH8" target="_blank">
+                (1y ago)     Reliable multi-cluster application architectures with Istio - Ameer Abbas & John Howard, Google </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=qbB3TEiOb24" target="_blank">
+                (1y ago)     What Istio Got Wrong: Learnings from the Last Seven Years of Service Mesh - C. Posta, L. Ryan </a></sub><br>
+        <sub> -<a href="https://www.youtube.com/watch?v=_8FNsvoECPU" target="_blank">
+                (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
+		  </blockquote>
+</details>
+
+
 </details>
 
 ## Courses
