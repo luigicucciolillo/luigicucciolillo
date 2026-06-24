@@ -142,9 +142,7 @@ blablabla...
 
 <details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;">Networking </summary>  
-      
-      <blockquote style="margin:0; padding-left:1em;">
-        <sub> -<a href="https://www.youtube.com/watch?v=Mj04QOqAaJ8" target="_blank">
+              <sub> -<a href="https://www.youtube.com/watch?v=Mj04QOqAaJ8" target="_blank">
                 Understanding Kubernetes Networking in 30 Minutes - Ricardo Katz & James Strong  </a></sub><br>
         <sub> -<a href="https://www.youtube.com/watch?v=0Omvgd7Hg1I" target="_blank">
                 Life of a Packet [I] - Michael Rubin, Google   </a></sub><br>
@@ -168,8 +166,6 @@ blablabla...
                             fork of demo</a><br> 
                         </blockquote>
                       </details>
-
-		  </blockquote>
 		</details>
 
 <!--HA Large scale-->
