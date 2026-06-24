@@ -330,6 +330,7 @@ blablabla...
         &emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
         <br>
         from: ProgEU: Progress in European Union
+      </details>
       </td>
     </tr>
 
