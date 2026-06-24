@@ -155,6 +155,8 @@ blablabla...
         <sub> -<a href="https://www.youtube.com/watch?v=B6FsWNUnRo0&list=PLSAko72nKb8QWsfPpBlsw-kOdMBD7sra-" target="_blank">
                 Understanding Kubernetes Networking. Part 1: Container Networking  </a></sub><br>
 
+
+		</details>
                         <!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
                       <details style="margin:0; padding-left:1em;">
                         <summary style="margin: 0; padding: 0;">✅ Tutorial: From CNI Zero to CNI Hero: A Kubernetes Networking Tutorial Using CNI </summary>
@@ -166,8 +168,6 @@ blablabla...
                             fork of demo</a><br> 
                         </blockquote>
                       </details>
-		</details>
-
 <!--HA Large scale-->
 
 <details style="margin:0; padding-left:1em;">
