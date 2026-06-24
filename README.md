@@ -286,42 +286,56 @@ blablabla...
 
 
 ### AI  
-      <summary><strong> courses and workshop on AI </strong></summary>
-        <details>
-          <tr>
-              <td>  
-              <details>
-              <summary><strong> 06/25 - 🟢 - Fine tuning and deploy of a LLM </strong></summary>
-              &emsp;- 2 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
-              &emsp;&emsp;  From: ProfessionAI
+<tr>
+  <td>
+    <details>
+      <summary><strong>Courses and workshops on AI</strong></summary>
+
+      <table>
+        <tr>
+          <td>
+            <details>
+              <summary><strong>06/25 - 🟢 - Fine-tuning and Deployment of an LLM</strong></summary>
+              &emsp;- 2 hours - 🟢 -
+              <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
+                Link here
+              </a><br>
+              &emsp;&emsp;From: ProfessionAI
             </details>
-            </td>
-          </tr>   
+          </td>
+        </tr>
 
-          <tr>
-            <td>
-              <details>
-                <summary><strong> 06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works </strong></summary>
-                  &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
-                  &emsp;&emsp; Explore how AI Cloud revolutionizes AI workloads by providing scalable computing, seamless integration, and real-time processing. Learn how this powerful infrastructure enables businesses to optimize AI model training, deployment, and performance with efficiency and flexibility.
-              </details>
-            </td>
-          </tr>
-              
-              
-          <tr>
-            <td>
-              <details>
-                <summary><strong> 05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI) </strong></summary>
-                  &emsp;- 4 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
-                  &emsp;&emsp; Explore how AI Cloud revolutionizes AI workloads by providing scalable computing, seamless integration, and real-time processing. Learn how this powerful infrastructure enables businesses to optimize AI model training, deployment, and performance with efficiency and flexibility.
-                  <br>
-                  &emsp;&emsp;from: Nuclio Digital School
-                </details>
-            </td>
-          </tr>
+        <tr>
+          <td>
+            <details>
+              <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
+              &emsp;- 2 hours - 🟢 -
+              <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">
+                Link here
+              </a><br>
+              &emsp;&emsp;Explore how AI Cloud supports scalable AI workloads, model training, deployment, and real-time processing.
+            </details>
+          </td>
+        </tr>
 
-      </details>
+        <tr>
+          <td>
+            <details>
+              <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</strong></summary>
+              &emsp;- 4 hours - 🟢 -
+              <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
+                Link here
+              </a><br>
+              &emsp;&emsp;Built a web application using AI API endpoints, focusing on practical integration of OpenAI-based features.<br>
+              &emsp;&emsp;From: Nuclio Digital School
+            </details>
+          </td>
+        </tr>
+      </table>
+
+    </details>
+  </td>
+</tr>
 
 ## PM
 <tr>
