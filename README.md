@@ -755,3 +755,82 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
   </details>
 
 </div>
+
+<div align="center">
+
+  <h2>From Electronics to Cloud</h2>
+
+  <p>
+    <em>Select a path below</em>
+  </p>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- UPPER DIV -->
+  <div>
+    <a href="#electronics">Electronics</a>
+    &nbsp; | &nbsp;
+    <a href="#software">Software</a>
+    &nbsp; | &nbsp;
+    <a href="#cloud">Cloud</a>
+  </div>
+
+  <br>
+
+  <!-- LOWER DIV -->
+  <div>
+
+    <style>
+      .content-box {
+        display: none;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 12px;
+        max-width: 700px;
+        margin: auto;
+      }
+
+      .content-box:target {
+        display: block;
+      }
+
+      #electronics {
+        display: block;
+      }
+
+      .content-box:target ~ #electronics {
+        display: none;
+      }
+    </style>
+
+    <div id="software" class="content-box">
+      <h3>💻 Software</h3>
+      <p>
+        I work with backend development, APIs, Node.js, automation,
+        scripting, and structured application design.
+      </p>
+    </div>
+
+    <div id="cloud" class="content-box">
+      <h3>☁️ Cloud</h3>
+      <p>
+        I am moving toward cloud and DevOps technologies, including Docker,
+        Kubernetes, CI/CD, infrastructure, and scalable deployments.
+      </p>
+    </div>
+
+    <div id="electronics" class="content-box">
+      <h3>🔌 Electronics</h3>
+      <p>
+        I come from an electronics background, with experience in embedded systems,
+        microcontrollers, FPGA, hardware validation, and system-level engineering.
+      </p>
+    </div>
+
+  </div>
+
+</div>
