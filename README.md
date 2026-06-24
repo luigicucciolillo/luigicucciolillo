@@ -672,3 +672,86 @@ https://www.coursera.org/specializations/cloud-computing
 https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
 https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
+
+<div align="center">
+
+  <!-- Upper div -->
+  <div>
+    <a href="#section-1">Link 1</a>
+    &nbsp;|&nbsp;
+    <a href="#section-2">Link 2</a>
+    &nbsp;|&nbsp;
+    <a href="#section-3">Link 3</a>
+  </div>
+
+  <br>
+
+  <!-- Lower div -->
+  <div>
+
+    <details id="section-1" open>
+      <summary><strong>Link 1 content</strong></summary>
+      <p>
+        This is the text shown for the first link.
+      </p>
+    </details>
+
+    <details id="section-2">
+      <summary><strong>Link 2 content</strong></summary>
+      <p>
+        This is the text shown for the second link.
+      </p>
+    </details>
+
+    <details id="section-3">
+      <summary><strong>Link 3 content</strong></summary>
+      <p>
+        This is the text shown for the third link.
+      </p>
+    </details>
+
+  </div>
+
+</div>
+
+<div align="center">
+
+  <h3>Choose a section</h3>
+
+  <p>
+    <a href="#electronics">Electronics</a>
+    &nbsp;|&nbsp;
+    <a href="#software">Software</a>
+    &nbsp;|&nbsp;
+    <a href="#cloud">Cloud</a>
+  </p>
+
+</div>
+
+<div>
+
+  <details id="electronics" open>
+    <summary><strong>Electronics</strong></summary>
+    <p>
+      Background in electronics, embedded systems, microcontrollers, FPGA,
+      hardware validation, and system-level engineering.
+    </p>
+  </details>
+
+  <details id="software">
+    <summary><strong>Software</strong></summary>
+    <p>
+      Experience with backend development, APIs, Node.js, automation,
+      scripting, and software architectures.
+    </p>
+  </details>
+
+  <details id="cloud">
+    <summary><strong>Cloud</strong></summary>
+    <p>
+      Moving toward cloud technologies, DevOps, containers, Kubernetes,
+      CI/CD, infrastructure, and scalable services.
+    </p>
+  </details>
+
+</div>
