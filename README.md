@@ -287,38 +287,41 @@ blablabla...
 
 ### AI  
 
-    <details>
-      <summary><strong>Courses and workshops on AI</strong></summary>
+<details>
+  <summary><strong>Courses and workshops on AI</strong></summary>
 
-      <br>
+  <br>
 
-        <details>
-          <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
-          &emsp;- 2 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
-          &emsp;&emsp;From: ProfessionAI
-        </details>
+  <details>
+    <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
+    <br>
+    &emsp;- 2 hours - 🟢 -
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
+    &emsp;&emsp;From: ProfessionAI
+  </details>
 
-      <br>
+  <br>
 
-        <details>
-          <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
-          &emsp;- 2 hours - 🟢 -
-          <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
-          &emsp;&emsp;Explore how AI Cloud supports scalable AI workloads, model training, deployment, and real-time processing.
-        </details>
+  <details>
+    <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
+    <br>
+    &emsp;- 2 hours - 🟢 -
+    <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
+    &emsp;&emsp;Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
+  </details>
 
-      <br>
+  <br>
 
-        <details>
-          <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
-          &emsp;- 4 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
-          &emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
-          &emsp;&emsp;From: Nuclio Digital School
-        </details>
+  <details>
+    <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
+    <br>
+    &emsp;- 4 hours - 🟢 -
+    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
+    &emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
+    &emsp;&emsp;From: Nuclio Digital School
+  </details>
 
-    </details>
+</details>
 
 
 ## PM
