@@ -185,10 +185,87 @@ blablabla...
 				  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
 </details>
 
-<br>
-
 ## Courses
 
+### The Linux Foundation
+<!-- START Cyber Security super bundle-->    
+<tr>
+    <details>
+      <summary>
+        <strong>&emsp;04/26 -> Actual - 🟡 - 
+                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
+            Cyber Security super bundle  </a>
+            </strong>
+      </summary> 
+      &emsp;
+      - 60 hours - 🟡 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Linux System Administration Essentials (LFS207) </a>
+            <br>
+            &emsp;
+      - 35 hours - 🟢 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
+            Kubernetes Fundamentals (LFS258) </a><br>
+            &emsp;
+      - 30 hours - 🛑 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Kubernetes Security Essentials (LFS260) </a><br>
+            &emsp;
+      - 40 hours - 🛑 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Implementing DevSecOps (LFS262) </a><br>
+            &emsp;
+      - 24 hours - 🛑 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a><br>
+            &emsp;
+      - 35 hours - 🛑 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+            Mastering Kubernetes Security with Kyverno (LFS255) </a><br>
+	  </details>
+</tr>
+<!-- END Cyber Security super bundle--> 
+<!-- START Advanced Cloud Engineer IT Professional Program (LFS002)-->
+<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong>&emsp;06/25 -> 03/26 - 🟢🎓 - 
+          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Advanced%20Cloud%20Engineer%20IT%20Professional%20Program%20Logistics%20(LFS002)" target="_blank">
+            Advanced Cloud Engineer IT Professional Program (LFS002) <br>
+          </a>
+        </strong>
+      </summary>
+            &emsp;- 40 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">Containers Fundamentals (LFS253)</a><br>
+            &emsp;- 35 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">Kubernetes Fundamentals (LFS258)</a><br>
+            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">Service Mesh Fundamentals (LFS243)</a><br>
+            &emsp;- 25 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a><br>
+            &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a><br>
+			      &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
+    </details>
+  </td>
+</tr>
+<!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
+<!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
+<tr>
+  <td colspan="5">
+    <details>
+      <summary>
+        <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
+          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Cloud%20Infrastructure%20Technologies" target="_blank">
+          Introduction to DevOps and Cloud Infrastructure Technologies</a>
+        </strong>
+      </summary>
+            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">Introduction to Jenkins (LFS167)</a><br>
+            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">Introduction to kubernetes (LFS158)</a><br>
+            &emsp;- 50 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">Introduction to Cloud Infrastructure Technologies (LFS151)</a><br>
+            &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
+    </details>
+  </td>
+</tr>
+<!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
+
+## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
@@ -210,7 +287,7 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
-<!-- TABELLA 2-->    
+<!-- Ciber Security super bundle  
 <tr>
    <td>
     <details>
@@ -236,26 +313,16 @@ blablabla...
 	            <td>7 months</td>
 	            <td>🟡 </td>
 </tr>
+--> 
 
-<!-- END TABELLA 2--> 
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
 	      <td>Miticoro foundation</td>
-	      <td>x</td>
+	      <td>3 months</td>
 	      <td>🟢🎓</td>
     </tr>
 <tr>  
-<!--
-     <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
-        Service Mesh Fundamentals (LFS243)</a></td>
-	      <td>11/25</td>
-	      <td>The linux foundation</td>
-	      <td>20 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
---> 
 <tr>
    <td>
     <details>
@@ -275,7 +342,7 @@ blablabla...
 </tr>
   </td>
 </tr>    
-<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
+<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)
 <tr>
   <td colspan="5">
     <details>
@@ -326,7 +393,8 @@ blablabla...
     </details>
   </td>
 </tr>
-<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies-->
+-->
+<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies
 <tr>
   <td colspan="5">
     <details>
@@ -375,6 +443,7 @@ blablabla...
     </details>
   </td>
 </tr>
+-->
 	  <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
@@ -436,19 +505,6 @@ blablabla...
     </tr>
   </td>
 </tr>  
-<!--
-  <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
-        Introduction to Jenkins (LFS167)</a></td>
-	      <td>06/25</td>
-	      <td>The Linux Foundation</td>
-	      <td>20 hours</td>
-	      <td>🟢🎓</td>
-    </tr>
-<tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
-	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
-</tr>
--->
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
