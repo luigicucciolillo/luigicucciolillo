@@ -285,9 +285,7 @@ blablabla...
     </tr>
 
 
-### AI
-<tr>
-    <td>  
+### AI  
       <summary><strong> courses and workshop on AI </strong></summary>
         <details>
           <tr>
@@ -322,9 +320,9 @@ blablabla...
                 </details>
             </td>
           </tr>
+
       </details>
-  </td>
-</tr>  
+
 ## PM
 <tr>
   <td>
