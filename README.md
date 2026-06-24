@@ -284,9 +284,7 @@ blablabla...
     </details>
     </tr>
 
-
-### AI  
-
+<!-- COURSES AND WORKSHOP ON AI -->
 <details>
   <summary><strong>Courses and workshops on AI</strong></summary>
 
