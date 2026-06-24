@@ -189,7 +189,7 @@ blablabla...
 
 ## Courses
 
-### The Linux Foundation
+### Cloud Engineering from The Linux Foundation
 <!-- START Cyber Security super bundle-->    
 <tr>
     <details>
@@ -287,44 +287,40 @@ blablabla...
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
   <summary><strong>Courses and workshops on AI</strong></summary>
+    <details>
+      <summary><strong>&emsp;06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
+      &emsp;&emsp;- 2 hours - 🟢 -
+      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
+      &emsp;&emsp;&emsp;From: ProfessionAI
+    </details>
   <details>
-    <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
-    <br>
-    &emsp;- 2 hours - 🟢 -
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
-    &emsp;&emsp;From: ProfessionAI
-  </details>
-  <details>
-    <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
-    <br>
-    &emsp;- 2 hours - 🟢 -
+    <summary><strong>&emsp;06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
+    &emsp;&emsp;- 2 hours - 🟢 -
     <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
-    &emsp;&emsp;Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
+    &emsp;&emsp;&emsp;Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
   </details>
-  <details>
-    <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
-    <br>
-    &emsp;- 4 hours - 🟢 -
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
-    &emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
-    &emsp;&emsp;From: Nuclio Digital School
-  </details>
-
+    <details>
+      <summary><strong>&emsp;05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
+      &emsp;&emsp;- 4 hours - 🟢 -
+      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
+      &emsp;&emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
+      &emsp;&emsp;&emsp;From: Nuclio Digital School
+    </details>
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
     <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
-      <summary><strong> 10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
-        &emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
-        &emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
+      <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
+        &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
         <br>
         from: ProgEU: Progress in European Union
     </details>
     <details>
-      <summary><strong> 05/25 - 🟢  Agile management </strong></summary>
-        &emsp;- 16 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">  more info here</a> <br>
-        &emsp;&emsp; ntensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments
+      <summary><strong>&emsp;05/25 - 🟢  Agile management </strong></summary>
+        &emsp;&emsp;- 16 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp; ntensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments
         <br>
         from: Nuclio digital school
     </details>
