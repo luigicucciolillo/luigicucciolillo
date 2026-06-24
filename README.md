@@ -287,9 +287,6 @@ blablabla...
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
   <summary><strong>Courses and workshops on AI</strong></summary>
-
-  <br>
-
   <details>
     <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
     <br>
@@ -297,9 +294,6 @@ blablabla...
     <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
     &emsp;&emsp;From: ProfessionAI
   </details>
-
-  <br>
-
   <details>
     <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
     <br>
@@ -307,9 +301,6 @@ blablabla...
     <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
     &emsp;&emsp;Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
   </details>
-
-  <br>
-
   <details>
     <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
     <br>
@@ -323,17 +314,24 @@ blablabla...
 
 
 ## PM
-<tr>
-  <td>
+<details>
+    <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
       <summary><strong> 10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
         &emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
         &emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
         <br>
         from: ProgEU: Progress in European Union
-      </details>
-  </td>
-</tr>
+    </details>
+    <details>
+      <summary><strong> 05/25 - 🟢  Agile management </strong></summary>
+        &emsp;- 16 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">  more info here</a> <br>
+        &emsp;&emsp; ntensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments
+        <br>
+        from: Nuclio digital school
+    </details>
+</details>
+
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
@@ -393,7 +391,7 @@ blablabla...
 	<td>🟢🎓</td>
     </tr>
   -->
-  <tr>
+  <!-- <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
 	      <td>06/25</td>
@@ -402,6 +400,7 @@ blablabla...
 	      <td>🟢</td>
     </tr>   
 	  <tr>
+    -->
 
   <!--AI Cloud Explained: What It Is, Why It Matters, and How It Works
   <tr>
@@ -452,9 +451,11 @@ blablabla...
   -->
   </td>
 </tr>  
+<!--
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
+-->
 <tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">
 	Agile management</a> </td><td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
 </tr>
