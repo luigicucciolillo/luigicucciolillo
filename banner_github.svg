@@ -22,6 +22,11 @@
           50% { transform: scale(1.025); opacity: 0.96; }
         }
 
+        @keyframes electron-glow {
+          0%, 100% { opacity: 0.9; }
+          50% { opacity: 1; }
+        }
+
         .container {
           --ink: #172026;
           --muted: #5a6670;
@@ -66,6 +71,89 @@
           background: rgba(23,32,38,0.12);
         }
 
+        .path-sketch {
+          position: absolute;
+          inset: 18px 38px 18px;
+          z-index: 0;
+          pointer-events: none;
+          opacity: 0.5;
+        }
+
+        .path-art {
+          display: block;
+          width: 100%;
+          height: 100%;
+        }
+
+        .sketch-line {
+          fill: none;
+          stroke: rgba(23,32,38,0.44);
+          stroke-width: 3;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+
+        .sketch-soft {
+          fill: rgba(255,253,248,0.68);
+          stroke: rgba(23,32,38,0.32);
+          stroke-width: 3;
+        }
+
+        .sketch-accent {
+          fill: none;
+          stroke: var(--teal);
+          stroke-width: 4;
+          stroke-linecap: round;
+          stroke-linejoin: round;
+        }
+
+        .sketch-chip {
+          fill: rgba(255,253,248,0.84);
+          stroke: var(--blue);
+          stroke-width: 4;
+        }
+
+        .sketch-pad {
+          fill: var(--yellow);
+          stroke: rgba(23,32,38,0.42);
+          stroke-width: 2;
+        }
+
+        .electron-trail {
+          fill: none;
+          stroke: var(--teal);
+          stroke-width: 9;
+          stroke-linecap: round;
+          opacity: 0.18;
+        }
+
+        .electron-core {
+          fill: #fffdf8;
+          stroke: var(--teal);
+          stroke-width: 3;
+          filter: drop-shadow(0 0 8px rgba(20,125,114,0.72));
+          animation: electron-glow 1.4s ease-in-out infinite;
+        }
+
+        .electron-halo {
+          fill: var(--teal);
+          opacity: 0.26;
+          animation: electron-glow 1.4s ease-in-out infinite;
+        }
+
+.hero-copy,
+.terminal {
+  position: relative;
+  z-index: 1;
+}
+
+.hero-copy {
+  max-width: 720px;
+  margin: 0 auto;
+  text-align: center;
+  padding-left: 0;
+}
+
         .badge {
           display: inline-flex;
           width: fit-content;
@@ -95,7 +183,7 @@
         }
 
         .terminal {
-          margin-top: 9px;
+          margin-top: 64px;
           border-radius: 18px;
           overflow: hidden;
           background: var(--paper);
@@ -119,10 +207,10 @@
         }
 
         .terminal-body {
-          padding: 18px 20px 19px;
+          padding: 12px 18px 14px;
           font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
-          font-size: 14px;
-          line-height: 1.75;
+          font-size: 13px;
+          line-height: 1.5;
           color: #35434b;
           white-space: nowrap;
         }
@@ -278,6 +366,25 @@
             color: #d1d7dd;
           }
 
+          .sketch-line {
+            stroke: rgba(246,248,251,0.42);
+          }
+
+          .sketch-soft,
+          .sketch-chip {
+            fill: rgba(17,24,32,0.72);
+            stroke: rgba(246,248,251,0.34);
+          }
+
+          .sketch-pad {
+            stroke: rgba(246,248,251,0.36);
+          }
+
+          .electron-core {
+            fill: #f6f8fb;
+            filter: drop-shadow(0 0 10px rgba(86,213,197,0.82));
+          }
+
           .card,
           .terminal,
           .label {
@@ -299,33 +406,91 @@
         @media (prefers-reduced-motion) {
           .container,
           .node,
-          .label {
+          .label,
+          .electron-core,
+          .electron-halo {
             animation: none;
+          }
+
+          .electron-core,
+          .electron-halo {
+            display: none;
           }
         }
       </style>
 
       <div class="container">
         <div class="upper">
-          <div>
-            <div class="badge">ROADMAP</div>
-            <h1>Cloud Native<br />Learning Path</h1>
-            <p class="subtitle">Linux → Containers → Kubernetes → Platform Engineering, Msterclasses, courses, workshops, and project practice.</p>
+          <div class="path-sketch" aria-hidden="true">
+            <svg class="path-art" viewBox="0 0 1124 188" xmlns="http://www.w3.org/2000/svg">
+              <g>
+                <rect class="sketch-chip" x="78" y="44" width="112" height="96" rx="10" />
+                <rect class="sketch-soft" x="104" y="68" width="60" height="48" rx="6" />
+                <path class="sketch-line" d="M78 60H50V28H24M78 76H42M78 92H24M78 108H42M78 124H50V156H24M190 60H224V28H254M190 76H246M190 92H270M190 108H246M190 124H224V156H254" />
+                <path class="sketch-line" d="M104 44V22M124 44V22M144 44V22M164 44V22M104 140V162M124 140V162M144 140V162M164 140V162" />
+                <circle class="sketch-pad" cx="24" cy="28" r="7" />
+                <circle class="sketch-pad" cx="42" cy="76" r="6" />
+                <circle class="sketch-pad" cx="24" cy="92" r="7" />
+                <circle class="sketch-pad" cx="42" cy="108" r="6" />
+                <circle class="sketch-pad" cx="24" cy="156" r="7" />
+                <circle class="sketch-pad" cx="254" cy="28" r="7" />
+                <circle class="sketch-pad" cx="246" cy="76" r="6" />
+                <circle class="sketch-pad" cx="270" cy="92" r="7" />
+                <circle class="sketch-pad" cx="246" cy="108" r="6" />
+                <circle class="sketch-pad" cx="254" cy="156" r="7" />
+                <circle class="sketch-pad" cx="104" cy="22" r="5" />
+                <circle class="sketch-pad" cx="124" cy="22" r="5" />
+                <circle class="sketch-pad" cx="144" cy="22" r="5" />
+                <circle class="sketch-pad" cx="164" cy="22" r="5" />
+                <circle class="sketch-pad" cx="104" cy="162" r="5" />
+                <circle class="sketch-pad" cx="124" cy="162" r="5" />
+                <circle class="sketch-pad" cx="144" cy="162" r="5" />
+                <circle class="sketch-pad" cx="164" cy="162" r="5" />
+              </g>
+              <path class="sketch-accent" d="M286 86C388 38 498 44 604 78C700 109 764 106 846 72" />
+              <path id="electron-route" class="electron-trail" d="M190 92H270C390 36 504 44 612 78C704 107 768 104 846 72C882 56 918 58 946 70C960 76 968 64 968 43" />
+              <circle class="electron-halo" r="11">
+                <animateMotion dur="4.8s" repeatCount="indefinite">
+                  <mpath href="#electron-route" />
+                </animateMotion>
+              </circle>
+              <circle class="electron-core" r="5">
+                <animateMotion dur="4.8s" repeatCount="indefinite">
+                  <mpath href="#electron-route" />
+                </animateMotion>
+              </circle>
+              <path class="sketch-line" d="M286 112C382 84 484 92 574 116" />
+              <path class="sketch-line" d="M846 72l-22 -5M846 72l-13 18" />
+              <g transform="translate(884 8)">
+                <path class="sketch-soft" d="M46 90H118C142 90 160 74 160 52C160 32 144 17 125 17C116 5 101 0 84 3C66 6 52 18 45 35C25 35 8 50 8 70C8 82 19 90 46 90Z" />
+                <path class="sketch-accent" d="M84 72V35M84 35L68 51M84 35L100 51" />
+                <path class="sketch-line" d="M58 72H110" />
+              </g>
+            </svg>
+          </div>
+
+          <div class="hero-copy">
+            <!--<div class="badge">ROADMAP</div>-->
+            <h1>Learning Path: <br />From electronics to Cloud Native</h1>
+            <!--<p class="subtitle">electronic engineering -> web development -> DevOps -> Containers -> K8s -> Cibersecutiry</p>
+            -->
           </div>
 
           <div class="terminal">
-            <div class="terminal-top">
+            <!--<div class="terminal-top">
               <span class="dot" style="background:#e46f55"></span>
               <span class="dot" style="background:#e6b84a"></span>
               <span class="dot" style="background:#249889"></span>
             </div>
+            -->
             <div class="terminal-body">
-              <strong>$ path cloud-native</strong><br />
-              + foundations + core<br />
-              + networking + security<br />
-              + platform + practice
+              <strong>In short</strong><br />
+              electronics -> web development -><br /> 
+              Agile -> DevOps -> Orchestation -> <br />
+              observability -> Logging -> Security
             </div>
           </div>
+          
         </div>
 
         <div class="lower">
@@ -333,31 +498,31 @@
           <div class="steps">
             <div class="step">
               <div class="node">01</div>
-              <div class="label"><strong>Foundations</strong><span>Linux / DevOps / Containers</span></div>
+              <div class="label"><strong>Master degree: <br /> Electronic systems</strong><span>Polito</span></div>
             </div>
             <div class="step">
               <div class="node">02</div>
-              <div class="label"><strong>Kubernetes</strong><span>Core / Design / Troubleshooting</span></div>
+              <div class="label"><strong>Working experience in electronics</strong><span>Design, validation and mass production</span></div>
             </div>
             <div class="step">
               <div class="node">03</div>
-              <div class="label"><strong>Network + TLS</strong><span>CNI / cert-manager / mTLS</span></div>
+              <div class="label"><strong>Full stack web development</strong><span>Nuclio digital school - 6 months</span></div>
             </div>
             <div class="step">
               <div class="node">04</div>
-              <div class="label"><strong>Operations</strong><span>Self-healing / HA / Observability</span></div>
+              <div class="label"><strong>Agile methodologies</strong><span>Nuclio</span></div>
             </div>
             <div class="step">
               <div class="node">05</div>
-              <div class="label"><strong>Platform</strong><span>Istio / Cilium / Knative</span></div>
+              <div class="label"><strong>Introduction to DevOps and Cloud Infrastructure Technologies</strong><span>4 courses - TLF</span></div>
             </div>
             <div class="step">
               <div class="node">06</div>
-              <div class="label"><strong>Security</strong><span>Kyverno / DevSecOps / Policies</span></div>
+              <div class="label"><strong> Advanced Cloud Engineer IT Professional Program (LFS002) </strong><span>6 course - TLF</span></div>
             </div>
             <div class="step">
               <div class="node">07</div>
-              <div class="label"><strong>Practice</strong><span>AI APIs / Projects / Portfolio</span></div>
+              <div class="label"><strong>Cyber Security super bundle </strong><span> 6 courses - Ongoing</span></div>
             </div>
           </div>
         </div>
