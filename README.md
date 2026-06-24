@@ -320,19 +320,17 @@ blablabla...
 </tr>
 
 ## PM
-	  <tr>
-      <td>
-        <details>
-          <summary>
-            <strong> 10/25 - 🟢  Designing in Italy for Global Citizenship </strong>
-          </summary>
-         &emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
+<tr>
+  <td>
+    <details>
+      <summary><strong> 10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
+        &emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
         &emsp;&emsp; Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.
         <br>
         from: ProgEU: Progress in European Union
       </details>
-      </td>
-    </tr>
+  </td>
+</tr>
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
