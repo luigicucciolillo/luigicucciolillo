@@ -311,9 +311,7 @@ blablabla...
   </details>
 
 </details>
-
-
-## PM
+<!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
     <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
@@ -456,9 +454,11 @@ blablabla...
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
 -->
+<!--
 <tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">
 	Agile management</a> </td><td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
 </tr>
+-->
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
 	IA sin código + Power BI: Crea, visualiza y decide con datos </a></td><td>05/25</td> <td>Nuclio Digital School</td><td> 3 hours </td><td>🟢🛠️</td>
 </tr>
