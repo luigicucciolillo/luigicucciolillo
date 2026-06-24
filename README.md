@@ -49,11 +49,10 @@
 			</blockquote>
 	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	      <p style="margin:0;">
-            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b> 
-      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | 
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a>
-			  </sub>
+            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b>
+      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a> |
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> |
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a></sub>
 		    </p>
 			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
 Cert-manager is a widely used project for the automation of X.509 TLS certificates. In 2020, it reached 1.0 and landed in the CNCF Sandbox. 
@@ -65,31 +64,18 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 			</blockquote>
 	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	      <p style="margin:0;">
-            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b> 
-      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | 
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a>
-			  </sub>
+            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b>
+      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a> |
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> |
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a></sub>
 		    </p>
 			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
 			In today's complex Kubernetes environments, managing secrets securely is a challenge. Traditional methods often involve complex configurations with secret vaults, secret syncing and secret backups. 
 				Regardless of which fancy technology is used, secrets always come with a risk of being leaked. Most of the secrets used in traditional applications can be replaced by short-lived certificates. 
 				Applications can prove to be the owner of a certificate without sharing any secrets. In Kubernetes, cert-manager can be used to provision these certificates to all applications without sharing any secret information. 
-				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
-				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
+				Table of contents: Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership; how to issue certificates using cert-manager without using secrets; compatibility and other challenges.
 			</blockquote>
-	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	      <p style="margin:0;">
-            <sub>🔗 <b>title</b> 
-      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="link slides" target="_blank">Slides</a> | 
-      🧾 <a href="link text" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-blablabla...
-			</blockquote>
-	  <!-- END TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+  </div>
 		</details>
 <!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -185,89 +171,12 @@ blablabla...
 				  (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
 </details>
 
+<br>
+
 ## Courses
 
-### The Linux Foundation
-<!-- START Cyber Security super bundle-->    
-<tr>
-    <details>
-      <summary>
-        <strong>&emsp;04/26 -> Actual - 🟡 - 
-                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
-            Cyber Security super bundle  </a>
-            </strong>
-      </summary> 
-      &emsp;
-      - 60 hours - 🟡 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Linux System Administration Essentials (LFS207) </a>
-            <br>
-            &emsp;
-      - 35 hours - 🟢 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
-            Kubernetes Fundamentals (LFS258) </a><br>
-            &emsp;
-      - 30 hours - 🛑 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Kubernetes Security Essentials (LFS260) </a><br>
-            &emsp;
-      - 40 hours - 🛑 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Implementing DevSecOps (LFS262) </a><br>
-            &emsp;
-      - 24 hours - 🛑 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Mastering Infrastructure Security: Strategies, Tools, and Practices (SKF200) </a><br>
-            &emsp;
-      - 35 hours - 🛑 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
-            Mastering Kubernetes Security with Kyverno (LFS255) </a><br>
-	  </details>
-</tr>
-<!-- END Cyber Security super bundle--> 
-<!-- START Advanced Cloud Engineer IT Professional Program (LFS002)-->
-<tr>
-  <td colspan="5">
-    <details>
-      <summary>
-        <strong>&emsp;06/25 -> 03/26 - 🟢🎓 - 
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Advanced%20Cloud%20Engineer%20IT%20Professional%20Program%20Logistics%20(LFS002)" target="_blank">
-            Advanced Cloud Engineer IT Professional Program (LFS002) <br>
-          </a>
-        </strong>
-      </summary>
-            &emsp;- 40 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Containers%20Fundamentals%20LFS253" target="_blank">Containers Fundamentals (LFS253)</a><br>
-            &emsp;- 35 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">Kubernetes Fundamentals (LFS258)</a><br>
-            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">Service Mesh Fundamentals (LFS243)</a><br>
-            &emsp;- 25 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Monitoring%20Systems%20and%20Services%20with%20Prometheus%20LFS241" target="_blank">Monitoring Systems and Services with Prometheus (LFS241)</a><br>
-            &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a><br>
-			      &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
-    </details>
-  </td>
-</tr>
-<!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
-<!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
-<tr>
-  <td colspan="5">
-    <details>
-      <summary>
-        <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Cloud%20Infrastructure%20Technologies" target="_blank">
-          Introduction to DevOps and Cloud Infrastructure Technologies</a>
-        </strong>
-      </summary>
-            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">Introduction to Jenkins (LFS167)</a><br>
-            &emsp;- 20 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">Introduction to kubernetes (LFS158)</a><br>
-            &emsp;- 50 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">Introduction to Cloud Infrastructure Technologies (LFS151)</a><br>
-            &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
-    </details>
-  </td>
-</tr>
-<!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
-
-## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
-  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
+  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Length</th>  <th> - </th> </tr> </thead>
   <tbody>
  <!--   <tr>
       <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
@@ -287,12 +196,12 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->
-<!-- Ciber Security super bundle  
+<!-- TABELLA 2-->    
 <tr>
    <td>
     <details>
       <summary>
-        <strong> Ciber Security super bundle </strong>
+        <strong> Cyber Security super bundle </strong>
       </summary> 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
@@ -313,16 +222,25 @@ blablabla...
 	            <td>7 months</td>
 	            <td>🟡 </td>
 </tr>
---> 
 
+<!-- END TABELLA 2--> 
 <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
 	      <td>09/25 - 11/25</td>
 	      <td>Miticoro foundation</td>
-	      <td>3 months</td>
+	      <td>x</td>
 	      <td>🟢🎓</td>
     </tr>
-<tr>  
+<!--
+     <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
+        Service Mesh Fundamentals (LFS243)</a></td>
+	      <td>11/25</td>
+	      <td>The linux foundation</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
+    </tr>
+--> 
 <tr>
    <td>
     <details>
@@ -340,9 +258,7 @@ blablabla...
 	            <td> 6 hours</td>
 	            <td>🟢</td>
 </tr>
-  </td>
-</tr>    
-<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)
+<!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
     <details>
@@ -393,8 +309,7 @@ blablabla...
     </details>
   </td>
 </tr>
--->
-<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies
+<!-- Tabella a scomparsa per Introduction to DevOps and Cloud Infrastructure Technologies-->
 <tr>
   <td colspan="5">
     <details>
@@ -443,7 +358,6 @@ blablabla...
     </details>
   </td>
 </tr>
--->
 	  <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
@@ -460,7 +374,6 @@ blablabla...
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>   
-	  <tr>
   <tr>
    <td>
     <details>
@@ -478,9 +391,6 @@ blablabla...
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>
-  </td>
-</tr>  
-	<tr>
   <tr>
    <td>
     <details>
@@ -490,7 +400,7 @@ blablabla...
 	    Link to official course 
       <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">
         here</a><br>
-		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
+		Explanation and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
 		   - CRASHLOOPBACKOFF<br>
 		   -- OOMKilled<br>
 		   -- CPU throttling<br>
@@ -503,8 +413,19 @@ blablabla...
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>
-  </td>
-</tr>  
+<!--
+  <tr>
+      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
+        Introduction to Jenkins (LFS167)</a></td>
+	      <td>06/25</td>
+	      <td>The Linux Foundation</td>
+	      <td>20 hours</td>
+	      <td>🟢🎓</td>
+    </tr>
+<tr><td> <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Kubernetes%20LFS158" target="_blank">
+	Introduction to Kubernetes (LFS158)</a> </td><td>06/25</td> <td>The Linux Foundation</td> <td> 20 hours </td> <td>🟢🎓</td>
+</tr>
+-->
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
 </tr>
@@ -584,8 +505,6 @@ blablabla...
 	      <td> 3h15m </td>
 	      <td>🟢</td>
     </tr>
-  </td>
-</tr>
 <!-- ------------------------------------------------------------------------------------------- -->
 <tr>
    <td>
@@ -599,7 +518,7 @@ blablabla...
       <th>Course</th>
       <th>Date</th>
       <th>Institution</th>
-      <th>Lenght</th>
+      <th>Length</th>
       <th> - </th>
     </tr>
   </thead>
@@ -628,8 +547,6 @@ blablabla...
 	      <td> 6 hours</td>
 	      <td>🟢⚡</td>
     </tr>
-  </td>
-</tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
     <tr>
       <td>
