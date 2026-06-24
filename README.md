@@ -49,10 +49,11 @@
 			</blockquote>
 	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	      <p style="margin:0;">
-            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b>
-      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a> |
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> |
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a></sub>
+            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b> 
+      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
 		    </p>
 			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
 Cert-manager is a widely used project for the automation of X.509 TLS certificates. In 2020, it reached 1.0 and landed in the CNCF Sandbox. 
@@ -64,18 +65,31 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 			</blockquote>
 	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	      <p style="margin:0;">
-            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b>
-      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a> |
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> |
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a></sub>
+            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b> 
+      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
 		    </p>
 			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
 			In today's complex Kubernetes environments, managing secrets securely is a challenge. Traditional methods often involve complex configurations with secret vaults, secret syncing and secret backups. 
 				Regardless of which fancy technology is used, secrets always come with a risk of being leaked. Most of the secrets used in traditional applications can be replaced by short-lived certificates. 
 				Applications can prove to be the owner of a certificate without sharing any secrets. In Kubernetes, cert-manager can be used to provision these certificates to all applications without sharing any secret information. 
-				Table of contents: Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership; how to issue certificates using cert-manager without using secrets; compatibility and other challenges.
+				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
+				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
 			</blockquote>
-  </div>
+	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>title</b> 
+      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="link slides" target="_blank">Slides</a> | 
+      🧾 <a href="link text" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+blablabla...
+			</blockquote>
+	  <!-- END TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		</details>
 <!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -176,7 +190,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 ## Courses
 
 <table border="1" cellspacing="0" cellpadding="8">
-  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Length</th>  <th> - </th> </tr> </thead>
+  <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
  <!--   <tr>
       <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
@@ -201,7 +215,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
    <td>
     <details>
       <summary>
-        <strong> Cyber Security super bundle </strong>
+        <strong> Ciber Security super bundle </strong>
       </summary> 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Linux System Administration Essentials (LFS207) </a> - 60 hours<br>
@@ -231,6 +245,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td>x</td>
 	      <td>🟢🎓</td>
     </tr>
+<tr>  
 <!--
      <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Service%20Mesh%20fundamentals%20LFS243" target="_blank">  
@@ -258,6 +273,8 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	            <td> 6 hours</td>
 	            <td>🟢</td>
 </tr>
+  </td>
+</tr>    
 <!-- Tabella a scomparsa per Advanced Cloud Engineer IT Professional Program (LFS002)-->
 <tr>
   <td colspan="5">
@@ -374,6 +391,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>   
+	  <tr>
   <tr>
    <td>
     <details>
@@ -391,6 +409,9 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>
+  </td>
+</tr>  
+	<tr>
   <tr>
    <td>
     <details>
@@ -400,7 +421,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	    Link to official course 
       <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">
         here</a><br>
-		Explanation and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
+		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
 		   - CRASHLOOPBACKOFF<br>
 		   -- OOMKilled<br>
 		   -- CPU throttling<br>
@@ -413,6 +434,8 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td>2 hours</td>
 	      <td>🟢</td>
     </tr>
+  </td>
+</tr>  
 <!--
   <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Jenkins%20LFS167" target="_blank">
@@ -505,6 +528,8 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td> 3h15m </td>
 	      <td>🟢</td>
     </tr>
+  </td>
+</tr>
 <!-- ------------------------------------------------------------------------------------------- -->
 <tr>
    <td>
@@ -518,7 +543,7 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
       <th>Course</th>
       <th>Date</th>
       <th>Institution</th>
-      <th>Length</th>
+      <th>Lenght</th>
       <th> - </th>
     </tr>
   </thead>
@@ -547,6 +572,8 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 	      <td> 6 hours</td>
 	      <td>🟢⚡</td>
     </tr>
+  </td>
+</tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
     <tr>
       <td>
