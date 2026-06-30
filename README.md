@@ -327,6 +327,7 @@ blablabla...
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
   <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
+  <sub>
     <details>
       <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
         &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
@@ -356,6 +357,21 @@ blablabla...
         &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
         &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
+  </sub>
+</details>
+
+
+<details>
+  <summary><strong>Courses and workshops on Agile, Project Management and Fundraising</strong></summary>
+
+| Date | Course | Hours | Info |
+|---|---|---:|---|
+| 10/25 | 🟢 Designing in Italy for Global Citizenship | 35h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione) |
+| 05/25 | 🟢 Agile Management | 16h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management) |
+| 04/25 | 🟢🛠️ Generative AI for Data Analysis | 3h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa) |
+| 05/25 | 🟢🛠️ No-code AI + Power BI | 3h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI) |
+| 10/25 | 🟢🛠️ AI Development / Engineering Workshops | 6h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.) |
+
 </details>
 
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
