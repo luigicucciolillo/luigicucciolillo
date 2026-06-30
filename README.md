@@ -202,7 +202,7 @@ blablabla...
 </details>
 </details>
 
-<details open><summary><strong>Cloud Engineering from The Linux Foundation</strong></summary>
+<details open><summary><strong>Cloud Engineering, Web development and DevOps</strong></summary>
 <!-- START Cyber Security super bundle-->    
 <tr>
     <details>
@@ -262,8 +262,6 @@ blablabla...
 </tr>
 <!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
 <!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
-<tr>
-  <td colspan="5">
     <details>
       <summary>
         <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
@@ -276,11 +274,7 @@ blablabla...
             &emsp;- 50 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">Introduction to Cloud Infrastructure Technologies (LFS151)</a><br>
             &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
     </details>
-  </td>
-</tr>
 <!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
-<tr>
-  <td>
   <details>
     <summary>
       <strong> &emsp; 06/25 - 🟢 - Kubernetes troubleshooting: a step-by-step guide </strong>
@@ -294,7 +288,13 @@ blablabla...
       - Database connection issues
       FROM The Linux Foundation
   </details>
-</tr>
+  <details>
+    <summary>
+      <strong> &emsp; 01/25 - 🟢🎓 - Full Stack Web Development Course </strong>
+    </summary>
+      &emsp;-6 months - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Link here</a><br>
+      &emsp;&emsp; FROM Nuclio Digital School
+  </details>
 </details>
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
@@ -598,17 +598,6 @@ blablabla...
       <td>Udemy</td>
       <td>-</td>
       <td>🟠💬¹</td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">
-        Full Stack Web Development Course
-        </a>
-      </td>
-      <td>01/25</td>
-      <td>Nuclio Digital School</td>
-      <td>6 months</td>
-      <td>🟢🎓</td>
     </tr>
   </tbody>
 </table>
