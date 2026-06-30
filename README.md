@@ -323,24 +323,6 @@ blablabla...
       &emsp;&emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
       &emsp;&emsp;&emsp;From: Nuclio Digital School
     </details>
-</details>
-<!--Courses and workshops on Agile management, Project management and foundraising-->
-<!--
-<details>
-  <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
-    <details>
-      <summary><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></summary>
-        35 hours - 🟢 -
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
-        Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
-        from: ProgEU: Progress in European Union
-    </details>
-    <details>
-      <summary><strong>&emsp;05/25 - 🟢  Agile management </strong></summary>
-        &emsp;&emsp;- 16 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;Intensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments<br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
     <details>
       <summary><strong>&emsp;04/25 - 🟢🛠️  Aprende a analizar datos con IA generativa </strong></summary>
         &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">  more info here</a> <br>
@@ -359,7 +341,7 @@ blablabla...
         &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
 </details>
--->
+<!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
   <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
@@ -375,39 +357,13 @@ blablabla...
         &emsp;&emsp;&emsp;from: Nuclio digital school
     </details>
     <details>
-      <summary><strong>&emsp;04/25 - 🟢🛠️  Aprende a analizar datos con IA generativa </strong></summary>
-        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
-    <details>
-      <summary><strong>&emsp;05/25 - 🟢🛠️  IA sin código + Power BI: Crea, visualiza y decide con datos </strong></summary>
-        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
-    <details>
-      <summary><strong>&emsp;10/25 - 🟢🛠️  Open week - AI development/engineering workshop  </strong></summary>
-        &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here </a><br>
-        &emsp;&emsp;&emsp;- 3h - From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop <br>
-        &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
-        &emsp;&emsp;&emsp; from: Nuclio digital school
+      <summary><strong>&emsp;09/25 - 11/25 - 🟢  Clean tech academy </strong></summary>
+        &emsp;&emsp;- 3 months - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp;from: Miticoro foundation
     </details>
 </details>
 
-<!--<details>
-  <summary><strong>Courses and workshops on Agile, Project Management and Fundraising</strong></summary>
 
-| Date | Course | Hours | Info |
-|---|---|---:|---|
-| 10/25 | 🟢 Designing in Italy for Global Citizenship | 35h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione) |
-| 05/25 | 🟢 Agile Management | 16h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management) |
-| 04/25 | 🟢🛠️ Generative AI for Data Analysis | 3h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa) |
-| 05/25 | 🟢🛠️ No-code AI + Power BI | 3h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI) |
-| 10/25 | 🟢🛠️ AI Development / Engineering Workshops | 6h | [more info](https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.) |
-
-</details>
--->
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
@@ -430,18 +386,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 	      <td>5 ECTS</td>
 	      <td>🛑💬²</td>
     </tr>
--->
-<tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  Clean tech academy</a></td>
-	      <td>09/25 - 11/25</td>
-	      <td>Miticoro foundation</td>
-	      <td>3 months</td>
-	      <td>🟢🎓</td>
-    </tr>
-<tr>  
-
-  </td>
-</tr>    
+-->   
 	 <!-- <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
         Designing in Italy for Global Citizenship</a></td>
@@ -461,7 +406,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     </tr>   
 	  <tr>
     -->
-
   <!--AI Cloud Explained: What It Is, Why It Matters, and How It Works
   <tr>
    <td>
