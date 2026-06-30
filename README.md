@@ -364,51 +364,65 @@ blablabla...
 -->
 <details>
   <summary><strong>Courses and workshops on Agile management, Project management and fundraising</strong></summary>
-  <details>
-    <summary><small><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></small></summary>
-    <small>
-      35 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
-      Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
-      from: ProgEU: Progress in European Union
-    </small>
-  </details>
-  <details>
-    <summary><small><strong>05/25 - 🟢 Agile management</strong></small></summary>
-    <small>
-      16 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info here</a><br>
-      Intensive 4-week program on Agile methodologies, digital product management, live sessions and hands-on challenges.<br>
-      from: Nuclio Digital School
-    </small>
-  </details>
-  <details>
-    <summary><small><strong>04/25 - 🟢🛠️ Aprende a analizar datos con IA generativa</strong></small></summary>
-    <small>
-      3 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa">more info here</a><br>
-      from: Nuclio Digital School
-    </small>
-  </details>
-  <details>
-    <summary><small><strong>05/25 - 🟢🛠️ IA sin código + Power BI</strong></small></summary>
-    <small>
-      3 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">more info here</a><br>
-      from: Nuclio Digital School
-    </small>
-  </details>
-  <details>
-    <summary><small><strong>10/25 - 🟢🛠️ Open week - AI development/engineering workshop</strong></small></summary>
-    <small>
-      6 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.">more info here</a><br>
-      3h - From Model to Service: Deploying ML Models as REST APIs<br>
-      3h - Expense Manager Agent with Telegram<br>
-      from: Nuclio Digital School
-    </small>
-  </details>
+<ul>
+  <li>
+    <details>
+      <summary><small><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></small></summary>
+      <small>
+        35 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
+        Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
+        from: ProgEU: Progress in European Union
+      </small>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><small><strong>05/25 - 🟢 Agile management</strong></small></summary>
+      <small>
+        16 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info here</a><br>
+        Intensive 4-week program on Agile methodologies, product management, live sessions and hands-on challenges.<br>
+        from: Nuclio Digital School
+      </small>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><small><strong>04/25 - 🟢🛠️ Aprende a analizar datos con IA generativa</strong></small></summary>
+      <small>
+        3 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa">more info here</a><br>
+        from: Nuclio Digital School
+      </small>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><small><strong>05/25 - 🟢🛠️ IA sin código + Power BI</strong></small></summary>
+      <small>
+        3 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">more info here</a><br>
+        from: Nuclio Digital School
+      </small>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><small><strong>10/25 - 🟢🛠️ Open week - AI development/engineering workshop</strong></small></summary>
+      <small>
+        6 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.">more info here</a><br>
+        3h - From Model to Service: Deploying ML Models as REST APIs<br>
+        3h - Expense Manager Agent with Telegram<br>
+        from: Nuclio Digital School
+      </small>
+    </details>
+  </li>
+</ul>
 </details>
+
+
 <details>
   <summary><strong>Courses and workshops on Agile, Project Management and Fundraising</strong></summary>
 
