@@ -351,10 +351,10 @@ blablabla...
     </details>
     <details>
       <summary><strong>&emsp;10/25 - 🟢🛠️  Open week - AI development/engineering workshop  </strong></summary>
-        &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here</a> <br>
+        &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here </a><br>
         &emsp;&emsp;&emsp;- 3h - From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop <br>
         &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
+        &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
 </details>
 
