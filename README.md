@@ -344,13 +344,13 @@ blablabla...
         &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">  more info here</a> <br>
         &emsp;&emsp;&emsp;from: Nuclio digital school
     </details>
-<!--
+
     <details>
       <summary><strong>&emsp;05/25 - 🟢🛠️  IA sin código + Power BI: Crea, visualiza y decide con datos </strong></summary>
         &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">  more info here</a> <br>
         &emsp;&emsp;&emsp;from: Nuclio digital school
     </details>
-
+<!--
     <details>
       <summary><strong>&emsp;10/25 - 🟢🛠️  Open week - AI development/engineering workshop  </strong></summary>
         &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here</a> <br>
@@ -362,7 +362,8 @@ blablabla...
   -->
 </details>
 
-
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
 
