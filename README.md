@@ -361,6 +361,7 @@ blablabla...
         &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
         &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
+</sub>    
 </details>
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
