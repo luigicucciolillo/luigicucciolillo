@@ -302,7 +302,6 @@ blablabla...
     </tr>
 
 <!-- COURSES AND WORKSHOP ON AI -->
-<sub>
 <details>
   <summary><strong>Courses and workshops on AI</strong></summary>
     <details>
@@ -325,7 +324,6 @@ blablabla...
       &emsp;&emsp;&emsp;From: Nuclio Digital School
     </details>
 </details>
-</sub>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <!--
 <details>
