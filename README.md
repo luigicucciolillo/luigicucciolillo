@@ -465,7 +465,6 @@ blablabla...
 	Agile management</a> </td><td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
 </tr>
 -->
-
 <!-- reformatting ------------------------------------------------>
 <tr>
    <td>
@@ -583,7 +582,6 @@ blablabla...
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">
