@@ -325,6 +325,7 @@ blablabla...
     </details>
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
+<sub>
 <details>
   <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
@@ -357,7 +358,7 @@ blablabla...
         &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
 </details>
-
+</sub>
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
