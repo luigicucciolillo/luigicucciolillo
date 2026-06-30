@@ -329,10 +329,13 @@ blablabla...
   <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
   <sub>
     <details>
-      <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
-        &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
-        &emsp;&emsp;&emsp;from: ProgEU: Progress in European Union
+      <summary><sub><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></sub></summary>
+      <sub>
+        35 hours - 🟢 -
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
+        Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
+        from: ProgEU: Progress in European Union
+      </sub>
     </details>
     <details>
       <summary><strong>&emsp;05/25 - 🟢  Agile management </strong></summary>
