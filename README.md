@@ -327,15 +327,12 @@ blablabla...
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
   <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
-  <sub>
     <details>
-      <summary><sub><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></sub></summary><br><br>
-      <sub>
+      <summary><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></summary>
         35 hours - 🟢 -
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
         Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
         from: ProgEU: Progress in European Union
-      </sub>
     </details>
     <details>
       <summary><strong>&emsp;05/25 - 🟢  Agile management </strong></summary>
@@ -360,7 +357,6 @@ blablabla...
         &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
         &emsp;&emsp;&emsp; from: Nuclio digital school
     </details>
-  </sub>
 </details>
 
 
