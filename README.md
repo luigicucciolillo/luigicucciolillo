@@ -339,7 +339,32 @@ blablabla...
         &emsp;&emsp;&emsp;Intensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments<br>
         &emsp;&emsp;&emsp;from: Nuclio digital school
     </details>
+    <details>
+      <summary><strong>&emsp;04/25 - 🟢🛠️  Aprende a analizar datos con IA generativa </strong></summary>
+        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp;from: Nuclio digital school
+    </details>
+
+    <details>
+      <summary><strong>&emsp;05/25 - 🟢🛠️  IA sin código + Power BI: Crea, visualiza y decide con datos </strong></summary>
+        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp;from: Nuclio digital school
+    </details>
+
+    <details>
+      <summary><strong>&emsp;10/25 - 🟢🛠️  Open week - AI development/engineering workshop  </strong></summary>
+        &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here</a> <br>
+        &emsp;&emsp;&emsp;- 3h - From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop <br>
+        &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
+
+        &emsp;&emsp;&emsp;from: Nuclio digital school
+    </details>
+
 </details>
+
+
+
+
 
 
 ## Other courses
@@ -372,23 +397,7 @@ blablabla...
 	      <td>🟢🎓</td>
     </tr>
 <tr>  
-<tr>
-   <td>
-    <details>
-      <summary>
-        <strong> Open week - AI development/engineering workshop </strong>
-      </summary> 
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">
-        From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop </a> - 3 hours<br><br>
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20development%3A%20An%20expense%20management%20agent%20with%20Telegram" target="_blank">
-        Expense Manager Agent with Telegram (3h) - AI Development Workshop </a> - 3 hours<br>
-	</details>
-          </td>
-	  	      <td>10/25</td>
-	            <td>Professional AI</td>
-	            <td> 6 hours</td>
-	            <td>🟢</td>
-</tr>
+
   </td>
 </tr>    
 	 <!-- <tr>
@@ -470,9 +479,7 @@ blablabla...
 	Agile management</a> </td><td>05/25</td> <td>Nuclio digital school</td> <td> 16 hours </td> <td>🟢🎓</td>
 </tr>
 -->
-<tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">
-	IA sin código + Power BI: Crea, visualiza y decide con datos </a></td><td>05/25</td> <td>Nuclio Digital School</td><td> 3 hours </td><td>🟢🛠️</td>
-</tr>
+
 <!-- reformatting ------------------------------------------------>
 <tr>
    <td>
@@ -590,19 +597,7 @@ blablabla...
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-    <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">
-        Aprende a analizar datos con IA generativa
-        </a>
-      </td>  
-      <td>04/25</td>
-      <td>Nuclio Digital School</td>
-      <td>
-        3 hours
-      </td>
-      <td>🟢🛠️</td>
-    </tr>
+
     <tr>
       <td>
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">
