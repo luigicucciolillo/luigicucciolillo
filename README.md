@@ -1,14 +1,14 @@
 <!-- ![banner](banner_github.png)-->
 ![banner](banner_github.svg)
 
-# Learning ...
-<!--
+<!--# Learning ...
 ![Banner](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=1350&q=80)
 ![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 [![Demo](https://img.shields.io/badge/Demo-Link-green)](https://your-demo-url.com)
--->
+
 ## Masterclasses
+-->
 <details>
       <summary>
         <strong>[ONGOING] masterclass: Kubernetes Self healing, networking, HA large scale, Mesh, TLS ... </strong>
@@ -200,13 +200,9 @@ blablabla...
                 (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
 		  </blockquote>
 </details>
-
-
 </details>
 
-## Courses
-
-### Cloud Engineering from The Linux Foundation
+<details open><summary><strong>Cloud Engineering from The Linux Foundation</strong></summary>
 <!-- START Cyber Security super bundle-->    
 <tr>
     <details>
@@ -283,24 +279,23 @@ blablabla...
   </td>
 </tr>
 <!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
-
-  <tr>
-   <td>
-    <details>
-      <summary>
-        <strong> &emsp; 06/25 - 🟢 - Kubernetes troubleshooting: a step-by-step guide </strong>
-      </summary>
-       &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">Link here</a><br>
-		Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
-		   - CRASHLOOPBACKOFF<br>
-		   -- OOMKilled<br>
-		   -- CPU throttling<br>
-		   - ENV Variables/Secrets Mount Issue<br> 
-		   - Database connection issues
-       FROM The Linux Foundation
-    </details>
-    </tr>
-
+<tr>
+  <td>
+  <details>
+    <summary>
+      <strong> &emsp; 06/25 - 🟢 - Kubernetes troubleshooting: a step-by-step guide </strong>
+    </summary>
+      &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">Link here</a><br>
+  Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
+      - CRASHLOOPBACKOFF<br>
+      -- OOMKilled<br>
+      -- CPU throttling<br>
+      - ENV Variables/Secrets Mount Issue<br> 
+      - Database connection issues
+      FROM The Linux Foundation
+  </details>
+</tr>
+</details>
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
   <summary><strong>Courses and workshops on AI</strong></summary>
