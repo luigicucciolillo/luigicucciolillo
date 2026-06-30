@@ -326,7 +326,7 @@ blablabla...
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
-    <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
+  <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
     <details>
       <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
         &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
