@@ -363,27 +363,25 @@ blablabla...
 <details>
   <summary><strong>Fundraising, Agile methodologies and Project management</strong></summary>
 
-  <details>
-    <summary><sub><strong>09/25–11/25 - 🟢 Clean Tech Academy</strong></sub></summary>
-    &emsp;&emsp;- 3 months -
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">more info here</a><br>
-    &emsp;&emsp;From: Miticoro Foundation
-  </details>
-  <details>
-    <summary><sub><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></sub></summary>
-    &emsp;&emsp;- 35 hours -
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
-    &emsp;&emsp;Covered EU funding programmes and project-management tools.<br>
-    &emsp;&emsp;From: ProgEU
-  </details>
-  <details>
-    <summary><sub><strong>05/25 - 🟢 Agile Management</strong></sub></summary>
-    &emsp;&emsp;- 16 hours -
-    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info here</a><br>
-    &emsp;&emsp;From: Nuclio Digital School
-  </details>
-</details>
+<strong>09/25–11/25 - 🟢 Clean Tech Academy</strong><br>
+<sub>
+3 months —
+<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">more info</a>
+</sub><br>
 
+<strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong><br>
+<sub>
+35 hours —
+<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info</a>
+</sub><br>
+
+<strong>05/25 - 🟢 Agile Management</strong><br>
+<sub>
+16 hours —
+<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info</a>
+</sub>
+
+</details>
 
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
