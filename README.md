@@ -298,6 +298,13 @@ blablabla...
   </details>
   <details>
     <summary>
+      <strong> &emsp; 03/25 - 🟠 - NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) </strong>
+    </summary>
+      &emsp;- - <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">Link here</a><br>
+      &emsp;&emsp; FROM Udemy
+  </details>
+  <details>
+    <summary>
       <strong> &emsp; 01/25 - 🟢🎓 - Full Stack Web Development Course </strong>
     </summary>
       &emsp;-6 months - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Link here</a><br>
@@ -586,17 +593,7 @@ blablabla...
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
 
-    <tr>
-      <td>
-        <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">
-        NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)
-        </a>
-      </td>
-      <td>03/25</td>
-      <td>Udemy</td>
-      <td>-</td>
-      <td>🟠💬¹</td>
-    </tr>
+
   </tbody>
 </table>
 
