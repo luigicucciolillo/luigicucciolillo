@@ -652,3 +652,261 @@ https://www.coursera.org/specializations/cloud-computing
 https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
 https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
+
+<table>
+  <tr>
+    <!-- ====================================================== -->
+    <!-- FIRST COLUMN: AI                                      -->
+    <!-- ====================================================== -->
+    <td valign="top" width="50%">
+
+      <details>
+        <summary><strong>AI</strong></summary>
+
+        <details>
+          <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
+          <sub>
+            2 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM">
+              Link here
+            </a>
+            <br>
+            From: ProfessionAI
+          </sub>
+        </details>
+
+        <details>
+          <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
+          <sub>
+            2 hours - 🟢 -
+            <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works">
+              Link here
+            </a>
+            <br>
+            Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
+          </sub>
+        </details>
+
+        <details>
+          <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
+          <sub>
+            4 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial">
+              Link here
+            </a>
+            <br>
+            Built a web application using AI API endpoints, focusing on practical OpenAI integration.
+            <br>
+            From: Nuclio Digital School
+          </sub>
+        </details>
+
+        <details>
+          <summary><strong>04/25 - 🟢🛠️ - Aprende a analizar datos con IA generativa</strong></summary>
+          <sub>
+            3 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa">
+              More info here
+            </a>
+            <br>
+            From: Nuclio Digital School
+          </sub>
+        </details>
+
+        <details>
+          <summary><strong>05/25 - 🟢🛠️ - IA sin código + Power BI: Crea, visualiza y decide con datos</strong></summary>
+          <sub>
+            3 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">
+              More info here
+            </a>
+            <br>
+            From: Nuclio Digital School
+          </sub>
+        </details>
+
+        <details>
+          <summary><strong>10/25 - 🟢🛠️ - Open Week: AI Development/Engineering Workshop</strong></summary>
+          <sub>
+            6 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.">
+              More info here
+            </a>
+            <br>
+            • 3h - From Model to Service: Deploying ML Models as REST APIs
+            <br>
+            • 3h - Expense Manager Agent with Telegram
+            <br>
+            From: Nuclio Digital School
+          </sub>
+        </details>
+
+      </details>
+
+    </td>
+
+    <!-- ====================================================== -->
+    <!-- SECOND COLUMN: KUBERNETES MASTERCLASSES                -->
+    <!-- ====================================================== -->
+    <td valign="top" width="50%">
+
+      <details>
+        <summary><strong>Masterclasses on Knative</strong></summary>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Date</th>
+              <th>Institution</th>
+              <th>Length</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative">
+                  Masterclasses on Knative
+                </a>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google">
+                    Knative: A Kubernetes Framework to Manage Serverless Workloads
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA">
+                    Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr and KEDA
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must">
+                    Use Knative When You Can, and Kubernetes When You Must
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui">
+                    Corso Knative, a Serverless Environment for Kubernetes
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">
+                    Inside Knative Serving
+                  </a>
+                </sub>
+              </td>
+
+              <td>05/25</td>
+
+              <td>
+                <sub>Barthwal, Google</sub>
+                <br>
+                <sub>Salatino, Diagrid.io</sub>
+                <br>
+                <sub>Hadas &amp; Maximilien, IBM</sub>
+                <br>
+                <sub>Leoni, Sorint Lab</sub>
+                <br>
+                <sub>Tornow &amp; Chen, SAP &amp; Google</sub>
+              </td>
+
+              <td>3h 15m</td>
+              <td>🟢⚡</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+
+      <br>
+
+      <details>
+        <summary><strong>Kubernetes Masterclass from Rancher Labs</strong></summary>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Course</th>
+              <th>Date</th>
+              <th>Institution</th>
+              <th>Length</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr>
+              <td>
+                <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">
+                  Kubernetes Masterclass from Rancher Labs
+                </a>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">
+                    Intro to Kubernetes and Rancher
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes">
+                    Intro to K3s Online Training: Lightweight Kubernetes
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">
+                    Understanding and Implementing Service Mesh
+                  </a>
+                </sub>
+
+                <br>
+
+                <sub>
+                  •
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">
+                    Monitoring and Alerting with Prometheus &amp; Grafana
+                  </a>
+                </sub>
+              </td>
+
+              <td>05/25</td>
+              <td>Rancher Labs</td>
+              <td>6 hours</td>
+              <td>🟢⚡</td>
+            </tr>
+          </tbody>
+        </table>
+      </details>
+
+    </td>
+  </tr>
+</table>
