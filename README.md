@@ -340,32 +340,11 @@ blablabla...
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
-  <summary><strong>Foundraising, Agile methodologies and Project management</strong></summary>
-    <details>
-      <summary><strong>&emsp;09/25 - 11/25 - 🟢  Clean tech academy </strong></summary>
-        &emsp;&emsp;- 3 months - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;from: Miticoro foundation
-    </details>
-    <details>
-      <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
-        &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;Covered EU funding programmes and project management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
-        &emsp;&emsp;&emsp;from: ProgEU: Progress in European Union
-    </details>
-    <details>
-      <summary><strong>&emsp;05/25 - 🟢  Agile management </strong></summary>
-        &emsp;&emsp;- 16 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;Intensive 4-week program designed to provide professionals and students with foundational and practical knowledge of Agile methodologies. Through a combination of recorded content, live sessions, and hands-on challenges, participants will gain tools to manage digital products and teams effectively in dynamic environments<br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
-</details>
-
-<details>
   <summary><strong>Fundraising, Agile methodologies and Project management</strong></summary>
   <ul>
     <li>
       <details>
-        <summary><strong>09/25–11/25 - 🟢 Clean Tech Academy</strong></summary>
+        <summary><strong>09/25 –> 11/25 - 🟢 Clean Tech Academy</strong></summary>
         3 months -
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">more info here</a><br>
         From: Miticoro Foundation
@@ -391,6 +370,7 @@ blablabla...
     </li>
   </ul>
 </details>
+
 
 </details>
 
