@@ -288,7 +288,6 @@ blablabla...
             &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
     </details>
 <!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
-
             - 03/25 -> 04/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">DevOps with Docker</a> - 3 ECTS from University of Helsinki<br>
             - 02/25 -> 03/25 - 🟠   - <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a> - Udemy<br>
             - 06/24 -> 01/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Full Stack Web Development Course</a> - Nuclio Digital School<br>
