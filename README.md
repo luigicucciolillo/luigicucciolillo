@@ -296,7 +296,7 @@ blablabla...
         </strong>
       </summary>
             &emsp;- 03/25 -> 04/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">DevOps with Docker</a> - 3 ECTS from University of Helsinki<br>
-            &emsp; &emsp;<sub><a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">ECTS</a>= European Credit Transfer and Accumulation System (ECTS)</sub>
+            &emsp; &emsp;<sub><a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">ECTS</a>= European Credit Transfer and Accumulation System (ECTS)</sub><br>
             &emsp;- 02/25 -> 03/25 - 🟠   - <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a> - Udemy<br>
             &emsp;- 06/24 -> 01/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Full Stack Web Development Course</a> - Nuclio Digital School<br>
     </details>
@@ -584,13 +584,7 @@ blablabla...
 💬² = DevOps with kubernetes starts in june <br>
 💬¹ = NodeJS ... Stopped to follow others <br>
 -->
-<a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">
-ECTS
-</a>
-= European Credit Transfer and Accumulation System (ECTS)
 </sub>
-<br>
-<br>
 
 **Resume** : 
 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/resume/CV_cucciolillo.pdf" target="_blank">
