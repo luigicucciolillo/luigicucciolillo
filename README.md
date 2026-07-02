@@ -221,7 +221,7 @@ blablabla...
 <li>
     <details>
       <summary>
-        <strong>&emsp;04/26 -> Actual - 🟡 - 
+        <strong>04/26 -> Actual - 🟡 - 
                   <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle" target="_blank">
             Cyber Security super bundle  </a>
             </strong>
@@ -258,7 +258,7 @@ blablabla...
 <li>
     <details>
       <summary>
-        <strong>&emsp;06/25 -> 03/26 - 🟢🎓 - 
+        <strong>06/25 -> 03/26 - 🟢🎓 - 
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Advanced%20Cloud%20Engineer%20IT%20Professional%20Program%20Logistics%20(LFS002)" target="_blank">
             Advanced Cloud Engineer IT Professional Program (LFS002) <br>
           </a>
@@ -277,7 +277,7 @@ blablabla...
 <li>
     <details>
       <summary>
-        <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
+        <strong>05/25 -> 06/25 - 🟢🎓 -
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Cloud%20Infrastructure%20Technologies" target="_blank">
           Introduction to DevOps and Cloud Infrastructure Technologies</a>
         </strong>
@@ -292,7 +292,7 @@ blablabla...
 <li>
     <details>
       <summary>
-        <strong> &emsp;06/24 -> 04/25 - 🟢🎓 -  Full stack web development and DevOps
+        <strong>06/24 -> 04/25 - 🟢🎓 -  Full stack web development and DevOps
         </strong>
       </summary>
             &emsp;&emsp;- 03/25 -> 04/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">DevOps with Docker</a> - 3 ECTS from University of Helsinki<br>
