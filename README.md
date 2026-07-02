@@ -296,51 +296,12 @@ blablabla...
         </strong>
       </summary>
             &emsp;- 03/25 -> 04/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">DevOps with Docker</a> - 3 ECTS from University of Helsinki<br>
+            &emsp; &emsp;<sub><a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">ECTS</a>= European Credit Transfer and Accumulation System (ECTS)</sub>
             &emsp;- 02/25 -> 03/25 - 🟠   - <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a> - Udemy<br>
             &emsp;- 06/24 -> 01/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Full Stack Web Development Course</a> - Nuclio Digital School<br>
     </details>
 </li>
 </ul>
-</details>
-<!-- COURSES AND WORKSHOP ON AI -->
-<details>
-  <summary><strong>AI</strong></summary>
-    <details>
-      <summary><strong>&emsp;06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
-      &emsp;&emsp;- 2 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">Link here</a><br>
-      &emsp;&emsp;&emsp;From: ProfessionAI
-    </details>
-  <details>
-    <summary><strong>&emsp;06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
-    &emsp;&emsp;- 2 hours - 🟢 -
-    <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works" target="_blank">Link here</a><br>
-    &emsp;&emsp;&emsp;Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
-  </details>
-    <details>
-      <summary><strong>&emsp;05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
-      &emsp;&emsp;- 4 hours - 🟢 -
-      <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">Link here</a><br>
-      &emsp;&emsp;&emsp;Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
-      &emsp;&emsp;&emsp;From: Nuclio Digital School
-    </details>
-    <details>
-      <summary><strong>&emsp;04/25 - 🟢🛠️  Aprende a analizar datos con IA generativa </strong></summary>
-        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
-    <details>
-      <summary><strong>&emsp;05/25 - 🟢🛠️  IA sin código + Power BI: Crea, visualiza y decide con datos </strong></summary>
-        &emsp;&emsp;- 3 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI" target="_blank">  more info here</a> <br>
-        &emsp;&emsp;&emsp;from: Nuclio digital school
-    </details>
-    <details>
-      <summary><strong>&emsp;10/25 - 🟢🛠️  Open week - AI development/engineering workshop  </strong></summary>
-        &emsp;&emsp;- 6 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API." target="_blank">  more info here </a><br>
-        &emsp;&emsp;&emsp;- 3h - From Model to Service: Deploying ML Models as REST APIs - AI Engineering Workshop <br>
-        &emsp;&emsp;&emsp;- 3h - Expense Manager Agent with Telegram (3h) - AI Development Workshop <br>
-        &emsp;&emsp;&emsp; from: Nuclio digital school
-    </details>
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
