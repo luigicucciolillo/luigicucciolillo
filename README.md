@@ -576,22 +576,20 @@ blablabla...
 🛠️ = workshop |
 ⚡ = masterclass
 -->
-</sub> 
-<br>
 <!--
 <sub> 
 💬³ = On the bucket list, to start asap <br>
 💬² = DevOps with kubernetes starts in june <br>
 💬¹ = NodeJS ... Stopped to follow others <br>
--->
 </sub>
-
+-->
+<!--
 **Resume** : 
 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/resume/CV_cucciolillo.pdf" target="_blank">
 here
 </a>
 <br>
-
+-->
 **badges** : 
 <a href="https://www.credly.com/users/luigi-cucciolillo/badges#credly" target="_blank">
 here
