@@ -383,7 +383,7 @@ blablabla...
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
   <tbody>
- <!--   <tr>
+   <tr>
       <td><a href="https://www.coursera.org/specializations/cloud-native-development-openshift-kubernetes" target="_blank">
         Cloud-Native Development with OpenShift and Kubernetes</a></td>
 	      <td>?/25</td>
