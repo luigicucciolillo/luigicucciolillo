@@ -401,15 +401,15 @@ blablabla...
 	      <td>🛑💬²</td>
     </tr>
 -->   
-	 <!-- <tr>
-      <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
-        Designing in Italy for Global Citizenship</a></td>
-	      <td>10/25</td>
-	      <td>ProgEU: Progress in European Union</td>
-	      <td>35 hours</td>
-	<td>🟢🎓</td>
-    </tr>
-  -->
+<!-- <tr>
+  <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">
+    Designing in Italy for Global Citizenship</a></td>
+    <td>10/25</td>
+    <td>ProgEU: Progress in European Union</td>
+    <td>35 hours</td>
+<td>🟢🎓</td>
+</tr>
+-->
   <!-- <tr>
       <td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM" target="_blank">
         Fine tuning and deploy of a LLM</a></td>
