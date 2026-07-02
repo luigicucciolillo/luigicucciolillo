@@ -300,7 +300,7 @@ blablabla...
 </details>
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
-  <summary><strong>Courses and workshops on AI</strong></summary>
+  <summary><strong>AI</strong></summary>
     <details>
       <summary><strong>&emsp;06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
       &emsp;&emsp;- 2 hours - 🟢 -
@@ -340,7 +340,7 @@ blablabla...
 </details>
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
-  <summary><strong>Courses and workshops on Agile management, Project management and foundraising</strong></summary>
+  <summary><strong>Foundraising, Agile methodologies and Project management</strong></summary>
     <details>
       <summary><strong> &emsp;10/25 - 🟢  Designing in Italy for Global Citizenship </strong></summary>
         &emsp;&emsp;- 35 hours - 🟢 -<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione" target="_blank">  more info here</a> <br>
@@ -583,7 +583,7 @@ blablabla...
 
   </tbody>
 </table>
-
+<!--
 <sub> 
 🟢 = completed | 
 🟡 = started |
@@ -593,13 +593,15 @@ blablabla...
 🎓 = course |
 🛠️ = workshop |
 ⚡ = masterclass
+-->
 </sub> 
 <br>
-
+<!--
 <sub> 
 💬³ = On the bucket list, to start asap <br>
 💬² = DevOps with kubernetes starts in june <br>
 💬¹ = NodeJS ... Stopped to follow others <br>
+-->
 <a href="https://education.ec.europa.eu/it/education-levels/higher-education/inclusive-and-connected-higher-education/european-credit-transfer-and-accumulation-system" target="_blank">
 ECTS
 </a>
