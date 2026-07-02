@@ -200,6 +200,19 @@ blablabla...
                 (1y ago)       Create resilient multi-cluster, multi-regional and multi-tenant architectures with Istio and K8s   </a></sub><br>
 		  </blockquote>
 </details>
+  <details>
+    <summary>
+      <strong> &emsp; 06/25 - 🟢 - Kubernetes troubleshooting: a step-by-step guide </strong>
+    </summary>
+      &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">Link here</a><br>
+  Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
+      - CRASHLOOPBACKOFF<br>
+      -- OOMKilled<br>
+      -- CPU throttling<br>
+      - ENV Variables/Secrets Mount Issue<br> 
+      - Database connection issues
+      FROM The Linux Foundation
+  </details>
 </details>
 
 <details open><summary><strong>Cloud Engineering, Web development and DevOps</strong></summary>
@@ -275,18 +288,13 @@ blablabla...
             &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
     </details>
 <!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->
+
   <details>
     <summary>
-      <strong> &emsp; 06/25 - 🟢 - Kubernetes troubleshooting: a step-by-step guide </strong>
+      <strong> &emsp; 04/25 - 🟢 - DevOps with Docker </strong>
     </summary>
-      &emsp;- 2 hours - 🟢 - <a href="https://trainingportal.linuxfoundation.org/learn/course/kubernetes-troubleshooting-a-step-by-step-guide/main/kubernetes-troubleshooting-a-step-by-step-guide?page=1" target="_blank">Link here</a><br>
-  Explaination and analysis (with Devtron) of the following common errors, their possible root causes and how to fix them:<br>
-      - CRASHLOOPBACKOFF<br>
-      -- OOMKilled<br>
-      -- CPU throttling<br>
-      - ENV Variables/Secrets Mount Issue<br> 
-      - Database connection issues
-      FROM The Linux Foundation
+      &emsp;- 3 ECTS - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">Link here</a><br>
+      &emsp;&emsp; FROM University of Helsinki
   </details>
   <details>
     <summary>
@@ -577,17 +585,7 @@ blablabla...
   </td>
 </tr> 
 <!-- ------------------------------------------------------------------------------------------- -->
-    <tr>
-      <td>
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/DevOps%20with%20Docker%20-%20Helsinki%20University" target="_blank">
-          DevOps with Docker
-        </a>
-      </td>
-      <td>04/25</td>
-      <td>University of Helsinki</td>
-      <td>3 ECTS</td>
-      <td>🟢🎓</td>
-    </tr>
+
     <tr>
       <td>
         <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">
