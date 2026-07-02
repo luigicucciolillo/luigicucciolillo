@@ -660,6 +660,8 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
     <td valign="top">
       <details>
         <summary><strong>K8s</strong></summary>
+      <ul>
+      <li>
         <details>
           <summary><strong>Masterclasses on Knative</strong></summary>
           <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative">Masterclasses on Knative</a><br>
@@ -675,6 +677,8 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">Inside Knative Serving</a></sub><br>
             <sub>Tornow &amp; Chen, SAP &amp; Google</sub>
         </details>
+      </li>
+      <li>
         <details>
           <summary><strong>Kubernetes Masterclass from Rancher Labs</strong></summary>
           <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Kubernetes Masterclass from Rancher Labs</a><br>
@@ -685,6 +689,8 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
         </details>
       </details>
+      </li>
+    </ul>
     </td>
   </tr>
 </table>
