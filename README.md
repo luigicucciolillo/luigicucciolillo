@@ -217,7 +217,8 @@ blablabla...
 
 <details open><summary><strong>Cloud Engineering, Web development and DevOps</strong></summary>
 <!-- START Cyber Security super bundle-->    
-<tr>
+<ul>
+<li>
     <details>
       <summary>
         <strong>&emsp;04/26 -> Actual - 🟡 - 
@@ -251,11 +252,10 @@ blablabla...
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Mastering Kubernetes Security with Kyverno (LFS255) </a><br>
 	  </details>
-</tr>
+</li>
 <!-- END Cyber Security super bundle--> 
 <!-- START Advanced Cloud Engineer IT Professional Program (LFS002)-->
-<tr>
-  <td colspan="5">
+<li>
     <details>
       <summary>
         <strong>&emsp;06/25 -> 03/26 - 🟢🎓 - 
@@ -271,10 +271,10 @@ blablabla...
             &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Managing%20Kubernetes%20Applications%20with%20Helm%20LFS244" target="_blank">Managing Kubernetes Applications with Helm (LFS244)</a><br>
 			      &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
     </details>
-  </td>
-</tr>
+</li>
 <!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
 <!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
+<li>
     <details>
       <summary>
         <strong> &emsp;05/25 -> 06/25 - 🟢🎓 -
@@ -287,7 +287,9 @@ blablabla...
             &emsp;&emsp;- 50 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20Cloud%20Infrastructure%20Technologies%20LFS151" target="_blank">Introduction to Cloud Infrastructure Technologies (LFS151)</a><br>
             &emsp;&emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
     </details>
+</li>
 <!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->           
+<li>
     <details>
       <summary>
         <strong> &emsp;06/24 -> 04/25 - 🟢🎓 -  Full stack web development and DevOps
@@ -297,6 +299,8 @@ blablabla...
             &emsp;&emsp;- 02/25 -> 03/25 - 🟠   - <a href="https://www.udemy.com/course/nodejs-the-complete-guide/?srsltid=AfmBOopQY5H91x0__bmJZcLIRDGMmQbi0X5WQE4TGY3kSHFZlXlJtYsC&couponCode=LETSLEARNNOW" target="_blank">NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)</a> - Udemy<br>
             &emsp;&emsp;- 06/24 -> 01/25 - 🟢🎓 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Full%20stack%20development%20-%20Nuclio%20digital%20school" target="_blank">Full Stack Web Development Course</a> - Nuclio Digital School<br>
     </details>
+</li>
+</ul>
 </details>
 <!-- COURSES AND WORKSHOP ON AI -->
 <details>
