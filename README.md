@@ -378,6 +378,7 @@ blablabla...
 
 </details>
 
+<!--
 ## Other courses
 <table border="1" cellspacing="0" cellpadding="8">
   <thead> <tr> <th>Course</th>  <th>Date</th>  <th>Institution</th>  <th>Lenght</th>  <th> - </th> </tr> </thead>
@@ -439,10 +440,9 @@ blablabla...
     </tr>
 
   -->
-  </td>
+<!--  </td>
 </tr>  
 	<tr>
-    <!--
   <tr>
    <td>
     <details>
@@ -466,8 +466,9 @@ blablabla...
 	      <td>🟢</td>
     </tr>
   -->
-  </td>
-</tr>  
+<!--  </td>
+</tr> 
+--> 
 <!--
 <tr><td><a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial" target="_blank">
         Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API (OpenAI)</a></td><td>05/25</td><td>Nuclio Digital School</td><td>4 hours</td><td>🟢🛠️</td>
@@ -479,6 +480,8 @@ blablabla...
 </tr>
 -->
 <!-- reformatting ------------------------------------------------>
+
+<!--
 <tr>
    <td>
     <details>
@@ -550,8 +553,9 @@ blablabla...
     </tr>
   </td>
 </tr>
-<!-- ------------------------------------------------------------------------------------------- -->
-<tr>
+ ------------------------------------------------------------------------------------------- -->
+<!--
+ <tr>
    <td>
     <details>
       <summary>
@@ -594,11 +598,12 @@ blablabla...
     </tr>
   </td>
 </tr> 
-<!-- ------------------------------------------------------------------------------------------- -->
+ ------------------------------------------------------------------------------------------- -->
 
 
-  </tbody>
+ <!-- </tbody>
 </table>
+-->
 <!--
 <sub> 
 🟢 = completed | 
