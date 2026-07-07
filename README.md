@@ -28,73 +28,6 @@
 		    </sub>  
 		  </blockquote>
 		</details>
-<!-- 🔐 TLS Section ===================================================================== -->
-<details style="margin:0.5em 0; padding-left:1em;">
-  <summary style="cursor:pointer; font-weight:600; color:#0366d6;">
-    ✅ <sub>About TLS and cert-manager</sub>
-  </summary>
-  <div style="margin-top:0.5em; padding-left:1em; line-height:1;">
-	  <!-- TLS - TALK 1 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-    <p style="margin:0;">
-      <sub>🔗 <b>cert-manager – Past, Present and Future</b> — 
-      <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>:
-		      <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank">🎥 Watch here</a> | 
-			  📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | 
-		      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-			  cert-manager is the Cloud Native way to manage X.509 certificates inside Kubernetes.  
-			  It's often one of the first tools administrators install on a new cluster, reaching over
-			  <b>15 million image pulls per day</b>!  
-			  The project recently entered the CNCF incubation phase after two years in the sandbox.  
-			  In this talk, two maintainers discuss why cert-manager matters, its evolution, and what’s next.
-			</blockquote>
-	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	      <p style="margin:0;">
-            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b> 
-      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | 
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-Cert-manager is a widely used project for the automation of X.509 TLS certificates. In 2020, it reached 1.0 and landed in the CNCF Sandbox. 
-		cert-manager has been popularised by its support of ACME and Ingress, enabling many millions of certificates to be issued and renewed, 
-		and to help secure the cloud native web with Kubernetes and all the various ingress controllers. But cert-manager, 
-		with its custom resources and controllers, extensible with issuers including those out-of-tree, can also be used for a myriad of other 
-		use cases in which certificates are required. This talk will walk through the various use cases for cert-manager, including ingress, control 
-		plane and nodes (kubeadm, CAPI), webhooks, intra-service mTLS (cert-manager-csi) and service mesh (OpenServiceMesh, Istio).
-			</blockquote>
-	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	      <p style="margin:0;">
-            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b> 
-      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | 
-      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-			In today's complex Kubernetes environments, managing secrets securely is a challenge. Traditional methods often involve complex configurations with secret vaults, secret syncing and secret backups. 
-				Regardless of which fancy technology is used, secrets always come with a risk of being leaked. Most of the secrets used in traditional applications can be replaced by short-lived certificates. 
-				Applications can prove to be the owner of a certificate without sharing any secrets. In Kubernetes, cert-manager can be used to provision these certificates to all applications without sharing any secret information. 
-				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
-				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
-			</blockquote>
-	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	      <p style="margin:0;">
-            <sub>🔗 <b>title</b> 
-      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="link slides" target="_blank">Slides</a> | 
-      🧾 <a href="link text" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-blablabla...
-			</blockquote>
-	  <!-- END TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-		</details>
-<!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 			<!-- 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 	<details style="margin:0; padding-left:1em;">
 		  <summary style="margin: 0; padding: 0;"><sub>✅ - 35 mins -  Certifik8s: All You Need to Know About Certificates in Kubernetes [I] - Alexander Brand, Apprenda </sub></summary>
@@ -688,6 +621,96 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">Understanding and Implementing Service Mesh</a></sub><br>
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
         </details>
+      </details>
+      </li>
+      <li>
+        <details>
+          <summary><strong>Container Security </strong></summary><br>
+            <sub>• 🟢⚡ -23/0626 - 2 hours - <a href="https://www.youtube.com/watch?v=xXEf49bozHg"> JRush Ep 7 - Container Supply Chain Security </a></sub><br>
+
+
+
+
+
+
+
+
+<!-- 🔐 TLS Section ===================================================================== -->
+<details style="margin:0.5em 0; padding-left:1em;">
+  <summary style="cursor:pointer; font-weight:600; color:#0366d6;">
+    ✅ <sub>About TLS and cert-manager</sub>
+  </summary>
+  <div style="margin-top:0.5em; padding-left:1em; line-height:1;">
+	  <!-- TLS - TALK 1 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+    <p style="margin:0;">
+      <sub>🔗 <b>cert-manager – Past, Present and Future</b> — 
+      <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>:
+		      <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank">🎥 Watch here</a> | 
+			  📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | 
+		      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+			  cert-manager is the Cloud Native way to manage X.509 certificates inside Kubernetes.  
+			  It's often one of the first tools administrators install on a new cluster, reaching over
+			  <b>15 million image pulls per day</b>!  
+			  The project recently entered the CNCF incubation phase after two years in the sandbox.  
+			  In this talk, two maintainers discuss why cert-manager matters, its evolution, and what’s next.
+			</blockquote>
+	  <!-- TLS - TALK 2 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack</b> 
+      <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+Cert-manager is a widely used project for the automation of X.509 TLS certificates. In 2020, it reached 1.0 and landed in the CNCF Sandbox. 
+		cert-manager has been popularised by its support of ACME and Ingress, enabling many millions of certificates to be issued and renewed, 
+		and to help secure the cloud native web with Kubernetes and all the various ingress controllers. But cert-manager, 
+		with its custom resources and controllers, extensible with issuers including those out-of-tree, can also be used for a myriad of other 
+		use cases in which certificates are required. This talk will walk through the various use cases for cert-manager, including ingress, control 
+		plane and nodes (kubeadm, CAPI), webhooks, intra-service mTLS (cert-manager-csi) and service mesh (OpenServiceMesh, Istio).
+			</blockquote>
+	  <!-- TLS - TALK 3 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi</b> 
+      <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | 
+      🧾 <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+			In today's complex Kubernetes environments, managing secrets securely is a challenge. Traditional methods often involve complex configurations with secret vaults, secret syncing and secret backups. 
+				Regardless of which fancy technology is used, secrets always come with a risk of being leaked. Most of the secrets used in traditional applications can be replaced by short-lived certificates. 
+				Applications can prove to be the owner of a certificate without sharing any secrets. In Kubernetes, cert-manager can be used to provision these certificates to all applications without sharing any secret information. 
+				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
+				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
+			</blockquote>
+	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+	      <p style="margin:0;">
+            <sub>🔗 <b>title</b> 
+      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
+      📄 <a href="link slides" target="_blank">Slides</a> | 
+      🧾 <a href="link text" target="_blank">Summary</a>
+			  </sub>
+		    </p>
+			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
+blablabla...
+			</blockquote>
+	  <!-- END TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+		</details>
+<!-- END TLS +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
+
+
+
+
+
+
+
+
+          </details>
       </details>
       </li>
     </ul>
