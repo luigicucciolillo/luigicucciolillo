@@ -749,16 +749,5 @@ Cert-manager is a widely used project for the automation of X.509 TLS certificat
 				Table of contents: - Do we actually need secrets? Comparing authentication methods: static secrets vs short-lived secrets and proof of ownership - H
 				ow to issue certificates using cert-manager without using [S|s]ecrets - Compatibility and other challenges			
 			</blockquote>
-	  <!-- TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-	      <p style="margin:0;">
-            <sub>🔗 <b>title</b> 
-      <a href="linkYT" target="_blank">🎥 Watch here</a></sub> | 
-      📄 <a href="link slides" target="_blank">Slides</a> | 
-      🧾 <a href="link text" target="_blank">Summary</a>
-			  </sub>
-		    </p>
-			<blockquote style="margin:0.2em 0; padding-left:0.6em; border-left:2px solid #bbb; color:#666; font-size:0.85em; line-height:1.3;">
-blablabla...
-			</blockquote>
 	  <!-- END TLS - TALK X +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
 		</details>
