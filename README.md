@@ -691,13 +691,6 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
       </details>
       </li>
      <!--------------------------------->
-      <li>
-        <details>
-          <summary><strong>Container Security </strong></summary><br>
-            <sub>• 🟢⚡ -23/0626 - 2 hours - <a href="https://www.youtube.com/watch?v=xXEf49bozHg"> JRush Ep 7 - Container Supply Chain Security </a></sub><br>
-        </details>
-      </details>
-      </li>
      <!--------------------------------->
       <li>
         <details>
@@ -712,7 +705,6 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
                 </sub>
             </p>
         </details>
-      </details>
       </li>
      <!--------------------------------->
     </ul>
