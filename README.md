@@ -665,25 +665,19 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
         <details>
           <summary><strong>Masterclasses on Knative</strong></summary>
           <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative">Masterclasses on Knative</a><br>
-            <sub>05/25 · 3h 15m · 🟢⚡</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google">Knative: A Kubernetes Framework to Manage Serverless Workloads</a></sub><br>
-            <sub>Barthwal, Google</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA">Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr and KEDA</a></sub><br>
-            <sub>Salatino, Diagrid.io</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must">Use Knative When You Can, and Kubernetes When You Must</a></sub><br>
-            <sub>Hadas &amp; Maximilien, IBM</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui">Corso Knative, a Serverless Environment for Kubernetes</a></sub><br>
-            <sub>Leoni, Sorint Lab</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">Inside Knative Serving</a></sub><br>
-            <sub>Tornow &amp; Chen, SAP &amp; Google</sub>
+            <sub>05/25 · 3h 15m · 🟢⚡ • <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google">Knative: A Kubernetes Framework to Manage Serverless Workloads</a> - Barthwal, Google</sub><br>
+            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA">Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr and KEDA</a> - Salatino, Diagrid.io</sub><br>
+            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must">Use Knative When You Can, and Kubernetes When You Must</a> - Hadas &amp; Maximilien, IBM</sub><br>
+            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui">Corso Knative, a Serverless Environment for Kubernetes</a> - Leoni, Sorint Lab</sub><br>
+            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">Inside Knative Serving</a> - Tornow &amp; Chen, SAP &amp; Google</sub>
         </details>
       </li>
       <li>
         <details>
           <summary><strong>Kubernetes Masterclass from Rancher Labs</strong></summary>
-          <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Kubernetes Masterclass from Rancher Labs</a><br>
-            <sub>05/25 · Rancher Labs · 6 hours · 🟢⚡</sub><br><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Intro to Kubernetes and Rancher</a></sub><br>
+          <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Kubernetes Masterclass from Rancher Labs</a>
+            <sub>05/25 · Rancher Labs · 6 hours · 🟢⚡</sub><br>
+            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Intro to Kubernetes and Rancher</a></sub>
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes">Intro to K3s Online Training: Lightweight Kubernetes</a></sub><br>
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">Understanding and Implementing Service Mesh</a></sub><br>
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
