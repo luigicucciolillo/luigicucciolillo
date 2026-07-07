@@ -306,37 +306,10 @@ blablabla...
 <!--Courses and workshops on Agile management, Project management and foundraising-->
 <details>
   <summary><strong>Fundraising, Agile methodologies and Project management</strong></summary>
-  <ul>
-    <li>
-      <details>
-        <summary><strong>09/25 –> 11/25 - 🟢 Clean Tech Academy</strong></summary>
-        3 months -
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">more info here</a><br>
-        From: Miticoro Foundation
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>10/25 - 🟢 Designing in Italy for Global Citizenship</strong></summary>
-        35 hours -
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a><br>
-        Covered EU funding programmes and project-management tools, including Next Generation EU, Cohesion Policy, Horizon Europe, PM², LFA, RACI, SWOT, stakeholder mapping and SMART indicators.<br>
-        From: ProgEU — Progress in European Union
-      </details>
-    </li>
-    <li>
-      <details>
-        <summary><strong>05/25 - 🟢 Agile Management</strong></summary>
-        16 hours -
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info here</a><br>
-        Intensive four-week programme covering Agile methodologies, digital product management and team management.<br>
-        From: Nuclio Digital School
-      </details>
-    </li>
-  </ul>
+            &emsp;- 09/25 –> 11/25 - 🟢 Clean Tech Academy <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">more info here</a> - Miticoro Foundation<br>
+            &emsp;- 10/25 - 35 hours - 🟢 Designing in Italy for Global Citizenship <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">more info here</a> - ProgEU — Progress in European Union<br>
+            &emsp;- 05/25 - 16 hours - 🟢 Agile Management<a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">more info here</a> - Nuclio Digital School<br>
 </details>
-
-
 </details>
 
 <!--
