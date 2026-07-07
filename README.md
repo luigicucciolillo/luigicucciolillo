@@ -688,7 +688,7 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">Understanding and Implementing Service Mesh</a></sub><br>
             <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
         </details>
-      </details>
+      
       </li>
       <li>
         <details>
@@ -698,6 +698,7 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
       </details>
       </li>
     </ul>
+    </details>
     </td>
   </tr>
 </table>
