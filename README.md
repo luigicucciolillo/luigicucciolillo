@@ -589,36 +589,61 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
     <td valign="top">
       <details>
         <summary><strong>AI</strong></summary>
+<!--  Fine-tuning and Deploy of a LLM ------------------------------------------------------->
           <details>
-          <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
-          2 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM">Link here</a><br>
-          From: ProfessionAI
+            <summary><strong>06/25 - 🟢 - Fine-tuning and Deploy of a LLM</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                  2 hours - 🟢 -
+                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Fine-tuning%20%26%20Deploy%20di%20un%20LLM">Link here</a><br>
+                  From: ProfessionAI
+                </sub>  
+              </blockquote>
           </details>
+<!--  AI Cloud Explained ------------------------------------------------------->
           <details>
-          <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
-          2 hours - 🟢 -
-          <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works">Link here</a><br>
-          Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
+            <summary><strong>06/25 - 🟢 - AI Cloud Explained: What It Is, Why It Matters, and How It Works</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                  2 hours - 🟢 -
+                  <a href="https://trainingportal.linuxfoundation.org/learn/course/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works/main/ai-cloud-explained-what-it-is-why-it-matters-and-how-it-works">Link here</a><br>
+                  Explored scalable AI workloads, model training, deployment, and real-time processing in cloud environments.
+                </sub>  
+              </blockquote>
           </details>
+<!-- DEsarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI ------------------------------------------------------->
           <details>
-          <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
-          4 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial">Link here</a><br>
-          Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
-          From: Nuclio Digital School
+            <summary><strong>05/25 - 🟢 - Desarrolla una Aplicación Web con Inteligencia Artificial Usando Endpoints de API OpenAI</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                  4 hours - 🟢 -
+                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20crea%20tu%20applicacion%20que%20usa%20inteligencia%20artificial">Link here</a><br>
+                  Built a web application using AI API endpoints, focusing on practical OpenAI integration.<br>
+                  From: Nuclio Digital School
+                </sub>  
+              </blockquote>
           </details>
+<!-- Aprende a analizar datos con IA generativa ------------------------------------------------------->
           <details>
-          <summary><strong>04/25 - 🟢🛠️ - Aprende a analizar datos con IA generativa</strong></summary>
-          3 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa">More info here</a><br>
-          From: Nuclio Digital School
+            <summary><strong>04/25 - 🟢🛠️ - Aprende a analizar datos con IA generativa</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                  <sub>
+                    3 hours - 🟢 -
+                    <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20Aprende%20a%20analizar%20datos%20con%20IA%20generativa">More info here</a><br>
+                    From: Nuclio Digital School
+                </sub>  
+              </blockquote>
           </details>
+<!--IA sin código + Power BI ------------------------------------------------------->
           <details>
-          <summary><strong>05/25 - 🟢🛠️ - IA sin código + Power BI: Crea, visualiza y decide con datos</strong></summary>
-          3 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">More info here</a><br>
-          From: Nuclio Digital School
+            <summary><strong>05/25 - 🟢🛠️ - IA sin código + Power BI: Crea, visualiza y decide con datos</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                  3 hours - 🟢 -
+                  <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">More info here</a><br>
+                  From: Nuclio Digital School
+                </sub>  
+            </blockquote>
           </details>
 <!--Open Week: ------------------------------------------------------->
           <details>
@@ -666,41 +691,60 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
       <details>
         <summary><strong>K8s</strong></summary>
       <ul>
+     <!--------------------------------->
       <li>
         <details>
           <summary><strong>Masterclasses on Knative</strong></summary>
-          <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative">Masterclasses on Knative</a><br>
-            <sub>05/25 · 3h 15m · 🟢⚡ • <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google">Knative: A Kubernetes Framework to Manage Serverless Workloads</a> - Barthwal, Google</sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA">Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr and KEDA</a> - Salatino, Diagrid.io</sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must">Use Knative When You Can, and Kubernetes When You Must</a> - Hadas &amp; Maximilien, IBM</sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui">Corso Knative, a Serverless Environment for Kubernetes</a> - Leoni, Sorint Lab</sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">Inside Knative Serving</a> - Tornow &amp; Chen, SAP &amp; Google</sub>
+            <blockquote style="margin:0; padding-left:1em;">
+              <sub>
+                <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative">Masterclasses on Knative</a><br>
+                  <sub>05/25 · 3h 15m · 🟢⚡ • <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Knative%20A%20Kubernetes%20Framework%20to%20Manage%20Serverless%20Workloads%20by%20Nikhil%20Barthwal%2C%20Google">Knative: A Kubernetes Framework to Manage Serverless Workloads</a> - Barthwal, Google</sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Unleashing%20the%20Power%20of%20Serverless%20on%20Kubernetes%20with%20Knative%2C%20Crossplane%2C%20Dapr%20%26%20KEDA">Unleashing the Power of Serverless on Kubernetes with Knative, Crossplane, Dapr and KEDA</a> - Salatino, Diagrid.io</sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Use%20Knative%20When%20You%20Can%2C%20and%20Kubernetes%20When%20You%20Must">Use Knative When You Can, and Kubernetes When You Must</a> - Hadas &amp; Maximilien, IBM</sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Corso%20Knative%2C%20a%20serverless%20environment%20for%20Kubernetes%20Lui">Corso Knative, a Serverless Environment for Kubernetes</a> - Leoni, Sorint Lab</sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Knative/Inside%20Knative%20Serving%20-%20Dominik%20Tornow%2C%20SAP%20%26%20Andrew%20Chen%2C%20Google">Inside Knative Serving</a> - Tornow &amp; Chen, SAP &amp; Google</sub>
+              </sub>  
+            </blockquote>
         </details>
       </li>
+     <!--------------------------------->
       <li>
         <details>
           <summary><strong>Kubernetes Masterclass from Rancher Labs</strong></summary>
-          <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Kubernetes Masterclass from Rancher Labs</a>
-            <sub>05/25 · Rancher Labs · 6 hours · 🟢⚡</sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Intro to Kubernetes and Rancher</a></sub>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes">Intro to K3s Online Training: Lightweight Kubernetes</a></sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">Understanding and Implementing Service Mesh</a></sub><br>
-            <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
-        </details>
+            <blockquote style="margin:0; padding-left:1em;">
+              <sub>
+                <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Kubernetes Masterclass from Rancher Labs</a>
+                  <sub>05/25 · Rancher Labs · 6 hours · 🟢⚡</sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher">Intro to Kubernetes and Rancher</a></sub>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/1%20-%20Intro%20to%20K3s%20Online%20Training%20Lightweight%20Kubernetes">Intro to K3s Online Training: Lightweight Kubernetes</a></sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/2%20-%20Kubernetes%20Master%20Class%20Understanding%20and%20Implementing%20Service%20Mesh">Understanding and Implementing Service Mesh</a></sub><br>
+                  <sub>• <a href="https://github.com/luigicucciolillo/StudyMaterial/tree/main/Masterclasses/Kubernetes%20masterclass%20from%20Rancher/3%20-%20Kubernetes%20Master%20Class%20Monitoring%20and%20Alerting%20with%20Prometheus%20%26%20Grafana">Monitoring and Alerting with Prometheus &amp; Grafana</a></sub>
+              </sub>  
+            </blockquote>
+          </details>
       </li>
+     <!--------------------------------->
       <li>
         <details>
           <summary><strong>Container Security </strong></summary>
-            <sub>• 🟢⚡ -23/0626 - 2 hours - <a href="https://www.youtube.com/watch?v=xXEf49bozHg"> JRush Ep 7 - Container Supply Chain Security </a></sub><br>
+            <blockquote style="margin:0; padding-left:1em;">
+              <sub>
+                  <sub>• 🟢⚡ -23/0626 - 2 hours - <a href="https://www.youtube.com/watch?v=xXEf49bozHg"> JRush Ep 7 - Container Supply Chain Security </a></sub><br>
+              </sub>  
+            </blockquote>
         </details>
       </li>
      <!--------------------------------->
       <li>
         <details>
           <summary><strong>About TLS and cert-manager </strong></summary>
-              <sub>• 🟢⚡ - <b>cert-manager – Past, Present and Future</b> — <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>: <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank"> Watch here</a> |  <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a></sub><br>
-      	      <sub>• 🟢⚡ - <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack: <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank"> Watch here</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a></sub><br>
-    	        <sub>• 🟢⚡ - <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank"> Watch here</a> |  <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a></sub><br>
+            <blockquote style="margin:0; padding-left:1em;">
+              <sub>
+                <sub>• 🟢⚡ - <b>cert-manager – Past, Present and Future</b> — <i>Jake Sanders (cert-manager Maintainer) & Ashley Davis (Jetstack)</i>: <a href="https://www.youtube.com/watch?v=yINv8RUkW-E" target="_blank"> Watch here</a> |  <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/cert-manager%20-%20Past%2C%20Present%20and%20Future%20-%20Jake%20Sanders%2C%20cert-manager%20Maintainer%20%26%20Ashley%20Davis%20/text.pdf" target="_blank">Summary</a></sub><br>
+                <sub>• 🟢⚡ - <b>Cert-Manager Beyond Ingress – Exploring the Variety of Use Cases - Matthew Bates, Jetstack: <a href="https://www.youtube.com/watch?v=wEW2kVKxgss" target="_blank"> Watch here</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Cert-Manager%20Beyond%20Ingress%20%E2%80%93%20Exploring%20the%20Variety%20of%20Use%20Cases%20-%20Matthew%20Bates%2C%20Jetstack%20/text.pdf" target="_blank">Summary</a></sub><br>
+                <sub>• 🟢⚡ - <b>Best Friends Keep No Secrets: Going Secretless with cert-manager - Ashley Davis & Tim Ramlot, Venafi <a href="https://www.youtube.com/watch?v=VbCtDF8qlWA" target="_blank"> Watch here</a> |  <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/slides.pdf" target="_blank">Slides</a> | <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TLS/Best%20Friends%20Keep%20No%20Secrets%3A%20Going%20Secretless%20with%20cert-manager%20-%20Ashley%20Davis%20%26%20Tim%20Ramlot%2C%20Venafi%20/text.pdf" target="_blank">Summary</a></sub><br>
+              </sub>  
+            </blockquote>
         </details>
       </li>
      <!--------------------------------->
