@@ -628,14 +628,30 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
           3h - Expense Manager Agent with Telegram<br>
           From: Nuclio Digital School
           </details>
+            <details>
+            <summary><strong>12/2025 - 01/2026 - 🟢🛠️ - Data and AI Winter bootcamp</strong></summary>
+              14 hours - 🟢 -
+              <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">More info here</a><br>
+              1st part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">Python programming</a><br>
+              2nd part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/AI%20fundamentals">AI fundamentals</a><br>
+            </details>
           <details>
           <summary><strong>07/26 - 🟢🛠️ - AI Agent Nights: n8n, langGraph, Multi-Agent systems</strong></summary>
           8 hours - 🟢 -
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
           1st day - Your First AI Agent with No-Code<br>
           2nd day - Stateful AI Agents with LangGraph<br>
-          3rd day - Multi-Agent Systems from Scratch
-          </details>
+          3rd day - Multi-Agent Systems from Scratch<br>
+        <blockquote style="margin:0; padding-left:1em;">
+          <sub>
+            8 hours - 🟢 -
+            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
+            1st day - Your First AI Agent with No-Code<br>
+            2nd day - Stateful AI Agents with LangGraph<br>
+            3rd day - Multi-Agent Systems from Scratch<br>
+          </sub>  
+		    </blockquote>
+        </details>
       </details>
     </td>
     <td valign="top">
