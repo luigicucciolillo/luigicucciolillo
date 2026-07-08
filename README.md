@@ -628,6 +628,14 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
           3h - Expense Manager Agent with Telegram<br>
           From: Nuclio Digital School
           </details>
+          <details>
+          <summary><strong>07/26 - 🟢🛠️ - AI Agent Nights: n8n, langGraph, Multi-Agent systems</strong></summary>
+          8 hours - 🟢 -
+          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
+          1st day - Your First AI Agent with No-Code<br>
+          2nd day - Stateful AI Agents with LangGraph<br>
+          3rd day - Multi-Agent Systems from Scratch
+          </details>
       </details>
     </td>
     <td valign="top">
