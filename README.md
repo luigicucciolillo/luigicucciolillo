@@ -620,37 +620,45 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
           <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/workshop%20-%20IA%20sin%20codigo%20%2B%20power%20BI">More info here</a><br>
           From: Nuclio Digital School
           </details>
+<!--Open Week: ------------------------------------------------------->
           <details>
           <summary><strong>10/25 - 🟢🛠️ - Open Week: AI Development/Engineering Workshop</strong></summary>
-          6 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.">More info here</a><br>
-          3h - From Model to Service: Deploying ML Models as REST APIs<br>
-          3h - Expense Manager Agent with Telegram<br>
-          From: Nuclio Digital School
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                6 hours - 🟢 -
+                <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20engineering%3A%20From%20model%20to%20service%2C%20how%20to%20serve%20a%20model%20through%20a%20REST%20API.">More info here</a><br>
+                3h - From Model to Service: Deploying ML Models as REST APIs<br>
+                3h - Expense Manager Agent with Telegram<br>
+                From: Nuclio Digital School
+                </sub>  
+              </blockquote>
           </details>
-            <details>
-            <summary><strong>12/2025 - 01/2026 - 🟢🛠️ - Data and AI Winter bootcamp</strong></summary>
-              14 hours - 🟢 -
-              <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">More info here</a><br>
-              1st part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">Python programming</a><br>
-              2nd part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/AI%20fundamentals">AI fundamentals</a><br>
-            </details>
+<!--Data and AI Winter bootcamp------------------------------------------------------->
           <details>
+            <summary><strong>12/2025 - 01/2026 - 🟢🛠️ - Data and AI Winter bootcamp</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub>
+                14 hours - 🟢 -
+                <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">More info here</a><br>
+                1st part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/Python%20Programming%20(Winter%20Camp%202025)">Python programming</a><br>
+                2nd part - 7 hours - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/Winter%20BOOTCAMP%20AI%20and%20DATA/AI%20fundamentals">AI fundamentals</a><br>
+                From: ProfessionAI<br>
+              </sub>  
+              </blockquote>
+            </details>
+<!--AI Agent Nights------------------------------------------------------->
+        <details>
           <summary><strong>07/26 - 🟢🛠️ - AI Agent Nights: n8n, langGraph, Multi-Agent systems</strong></summary>
-          8 hours - 🟢 -
-          <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
-          1st day - Your First AI Agent with No-Code<br>
-          2nd day - Stateful AI Agents with LangGraph<br>
-          3rd day - Multi-Agent Systems from Scratch<br>
-        <blockquote style="margin:0; padding-left:1em;">
-          <sub>
-            8 hours - 🟢 -
-            <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
-            1st day - Your First AI Agent with No-Code<br>
-            2nd day - Stateful AI Agents with LangGraph<br>
-            3rd day - Multi-Agent Systems from Scratch<br>
-          </sub>  
-		    </blockquote>
+            <blockquote style="margin:0; padding-left:1em;">
+              <sub>
+                8 hours - 🟢 -
+                <a href="https://github.com/luigicucciolillo/Certifications/tree/main/ProfessionAI/AI%20agent%20nights">More info here</a><br>
+                1st day - Your First AI Agent with No-Code<br>
+                2nd day - Stateful AI Agents with LangGraph<br>
+                3rd day - Multi-Agent Systems from Scratch<br>
+                From: ProfessionAI<br>
+              </sub>  
+            </blockquote>
         </details>
       </details>
     </td>
