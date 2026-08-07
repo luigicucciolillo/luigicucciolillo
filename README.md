@@ -227,8 +227,8 @@ blablabla...
             </strong>
       </summary> 
       &emsp;
-      - 60 hours - 🟡 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+      - 60 hours - 🟢 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle/Linux%20System%20Administration%20Essentials%20(LFS207)" target="_blank">
             Linux System Administration Essentials (LFS207) </a>
             <br>
             &emsp;
@@ -236,7 +236,7 @@ blablabla...
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
             Kubernetes Fundamentals (LFS258) </a><br>
             &emsp;
-      - 30 hours - 🛑 - 
+      - 30 hours - 🟡 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Kubernetes Security Essentials (LFS260) </a><br>
             &emsp;
