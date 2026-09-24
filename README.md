@@ -307,11 +307,13 @@ blablabla...
 <details>
   <summary><strong>Fundraising, Agile and businness development</strong></summary>
             <br>
+            <ul>
             &emsp;- Pitch development, goto market strategy, businness plan for yesBAT (Deep tech startup)<br>
-            &emsp;&emsp;- 09/26 –> 11/26 - 🟠 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">28DIGITAL · Mentor Me</a><br>
-            &emsp;&emsp;- 08/26 –> 10/26 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">EIT Jumpstarter 2026</a><br>
-            &emsp;&emsp;- 05/26 –> 08/26 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">BGI · EIT Urban Mobility</a><br>
-            &emsp;&emsp;- 09/25 –> 11/25 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">Clean Tech Academy</a> - Miticoro Foundation<br>
+            <li>&emsp;&emsp;- 09/26 –> 11/26 - 🟠 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">28DIGITAL · Mentor Me</a><br>
+            </li><li>&emsp;&emsp;- 08/26 –> 10/26 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">EIT Jumpstarter 2026</a><br>
+            </li><li>&emsp;&emsp;- 05/26 –> 08/26 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/blob/main/Businness%20development%20-%20European%20institute%20of%20technology/readme.md">BGI · EIT Urban Mobility</a><br>
+            </li><li>&emsp;&emsp;- 09/25 –> 11/25 - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Clean%20Tech%20Academy">Clean Tech Academy</a> - Miticoro Foundation<br>
+            </li></ul>
             <br>
             &emsp;- Fundraising and Agile management<br>
             &emsp;&emsp;- 10/25 - 35 hours - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">Designing in Italy for Global Citizenship</a> - ProgEU — Progress in European Union<br>
