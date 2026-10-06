@@ -338,9 +338,9 @@ https://www.coursera.org/projects/pod-management-with-kubernetes-run-containeriz
 https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
 
-<table>
+<table id="footer_table">
   <tr>
-    <td valign="top">
+    <td valign="top" id="Security_section_of_footer_table">
       <details>
         <summary><strong>Security</strong></summary>
 <!--  Fine-tuning and Deploy of a LLM ------------------------------------------------------->
@@ -355,9 +355,21 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
                 </sub>  
               </blockquote>
           </details>
+<!--  Tutorial: Getting Started with eBPF - Liz Rice, Isovalent ------------------------------------------------------->
+          <details>
+            <summary><strong> Tutorial: Getting Started with eBPF - Liz Rice, Isovalent</strong></summary>
+              <blockquote style="margin:0; padding-left:1em;">
+                <sub> 1h 30min video -
+                    eBPF is the enabling platform for a new generation of networking, observability and security tools. This workshop tutorial will use hands-on labs to give attendees an introduction to how eBPF works, and how to manage and observe eBPF programs and maps. Topics will include: - An overview of eBPF concepts: programs, maps and verification - Using the bpftool utility to manage eBPF programs and maps - An introduction to different types of eBPF programs attached to different events in the kernel such as kprobes, xdp and LSM. This tutorial will give attendees hands-on experience with this exciting and powerful technology, and basic skills for observing and managing eBPF programs.
+                  <a href="https://github.com/luigicucciolillo/StudyMaterial/blob/main/Masterclasses/TheLinuxFooundation/%20Tutorial%3A%20Getting%20Started%20with%20eBPF%20-%20Liz%20Rice%2C%20Isovalent%20/readme.md">slide and notes</a> 
+                  - <a href="https://www.youtube.com/watch?v=TJgxjVTZtfw">video</a><br>
+                  From: Liz Rice, Isovalent
+                </sub>  
+              </blockquote>
+          </details>
       </details>
     </td>
-    <td valign="top">
+    <td valign="top" id="AI_section_of_footer_table">
       <details>
         <summary><strong>AI</strong></summary>
 <!--  Fine-tuning and Deploy of a LLM ------------------------------------------------------->
@@ -458,7 +470,7 @@ https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-
         </details>
       </details>
     </td>
-    <td valign="top">
+    <td valign="top" id="k8s_section_of_footer_table">
       <details>
         <summary><strong>K8s</strong></summary>
       <ul>
