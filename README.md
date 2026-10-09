@@ -216,9 +216,8 @@ blablabla...
 </details>
 
 <details open><summary><strong>Cloud Engineering, Web development and DevOps</strong></summary>
-<!-- START Cyber Security super bundle-->    
 <ul>
-<li>
+<li id="Cyber Security super bundle">
     <details>
       <summary>
         <strong>04/26 -> Actual - 🟡 - 
@@ -236,11 +235,11 @@ blablabla...
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Kubernetes%20fundamentals%20LFS258" target="_blank">
             Kubernetes Fundamentals (LFS258) </a><br>
             &emsp;
-      - 30 hours - 🟡 - 
-        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
+      - 30 hours - 🟢 - 
+        <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cybersecurity%20Super%20Bundle/Kubernetes%20Security%20Essentials%20LFS260" target="_blank">
             Kubernetes Security Essentials (LFS260) </a><br>
             &emsp;
-      - 40 hours - 🛑 - 
+      - 40 hours - 🟡 - 
         <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation" target="_blank">
             Implementing DevSecOps (LFS262) </a><br>
             &emsp;
@@ -253,9 +252,7 @@ blablabla...
             Mastering Kubernetes Security with Kyverno (LFS255) </a><br>
 	  </details>
 </li>
-<!-- END Cyber Security super bundle--> 
-<!-- START Advanced Cloud Engineer IT Professional Program (LFS002)-->
-<li>
+<li id="Advanced Cloud Engineer IT Professional Program (LFS002)">
     <details>
       <summary>
         <strong>06/25 -> 03/26 - 🟢🎓 - 
@@ -272,9 +269,7 @@ blablabla...
 			      &emsp;- 30 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Cloud%20Native%20Logging%20with%20Fluentd%20and%20Fluent%20Bit%20LFS242" target="_blank">Cloud Native Logging with Fluentd and Fluent Bit (LFS242)</a><br>
     </details>
 </li>
-<!-- END Advanced Cloud Engineer IT Professional Program (LFS002) -->    
-<!-- START Introduction to DevOps and Cloud Infrastructure Technologies-->
-<li>
+<li id="Introduction to DevOps and Cloud Infrastructure Technologies">
     <details>
       <summary>
         <strong>05/25 -> 06/25 - 🟢🎓 -
@@ -288,8 +283,7 @@ blablabla...
             &emsp;- 12 hours - 🟢 - <a href="https://github.com/luigicucciolillo/Certifications/tree/main/The%20linux%20foundation/Introduction%20to%20DevOps%20and%20Site%20Reliability%20Engineering%20LFS162" target="_blank">Introduction to DevOps and Site Reliability Engineering (LFS162)</a><br>
     </details>
 </li>
-<!-- END Introduction to DevOps and Cloud Infrastructure Technologies-->           
-<li>
+<li id="Full stack web development and DevOps">
     <details>
       <summary>
         <strong>06/24 -> 04/25 - 🟢🎓 -  Full stack web development and DevOps
@@ -302,8 +296,7 @@ blablabla...
 </li>
 </ul>
 </details>
-<!--Courses and workshops on Agile management, Project management and foundraising-->
-<details>
+<details id="Fundraising, Agile and businness development">
   <summary><strong>Fundraising, Agile and businness development</strong></summary>
             <ul>
             <li><strong>- Pitch development, goto market strategy, businness plan for yesBAT (Deep tech startup)</strong></li>
@@ -314,7 +307,8 @@ blablabla...
             <li><strong>Fundraising and Agile management</strong></li>
             &emsp;&emsp;- 10/25 - 35 hours - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Progeu/EuroProgettazione">Designing in Italy for Global Citizenship</a> - ProgEU<br>
             &emsp;&emsp;- 05/25 - 16 hours - 🟢 <a href="https://github.com/luigicucciolillo/Certifications/tree/main/Nuclio%20digital%20school/Agile%20management">Agile Management</a> - Nuclio Digital School<br>
-</ul></details>
+            </ul>
+</details>
 </details>
 
 **badges** : 
@@ -328,14 +322,7 @@ here
 - 🔭 🌱 👯 🤔 💬 📫 😄 ⚡ 
 
 Wishlist:
-https://www.coursera.org/learn/npp-linux-networking
 
-https://www.coursera.org/learn/applications-development-microservices-serverless-openshift
-https://www.coursera.org/learn/advanced-kubernetes-third-course-3
-https://www.coursera.org/specializations/cloud-computing
-
-https://www.coursera.org/projects/pod-management-with-kubernetes-run-containerized-workloads
-https://www.coursera.org/projects/scaling-e-commerce-with-kubernetes-deploy-web-apps
 -->
 
 <table id="footer_table">
