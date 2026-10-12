@@ -528,7 +528,7 @@ Wishlist:
       <ul>
           <li id="1. [OverTheWire — Wargames](https://overthewire.org/wargames/)">
             <details>
-              <summary><strong>1. [OverTheWire — Wargames](https://overthewire.org/wargames/) </strong></summary>
+              <summary><strong>1. OverTheWire — Wargames </strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
                   <sub>
                     <sub> Interactive security challenges designed to teach Linux and cybersecurity through hands-on exercises. Topics include Linux commands, file permissions, SSH, networking, web security, cryptography, reverse engineering, and binary exploitation.<br> link <a href="https://overthewire.org/wargames/" target="_blank"> link here</a></sub><br>
@@ -536,7 +536,7 @@ Wishlist:
                 </blockquote>
             </details>
           </li>
-          <li id="2. [Linux Upskill Challenge](https://linuxupskillchallenge.org/)">
+          <li id="2. Linux Upskill Challenge">
             <details>
               <summary><strong>2. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) </strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
@@ -546,7 +546,7 @@ Wishlist:
                 </blockquote>
             </details>
           </li>
-          <li id="3. [Linux Voyage — Linux Journey](https://linuxvoyage.github.io/)">
+          <li id="3. Linux Voyage — Linux Journey">
             <details>
               <summary><strong>3. [Linux Voyage — Linux Journey](https://linuxvoyage.github.io/) </strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
