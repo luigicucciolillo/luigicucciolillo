@@ -538,7 +538,7 @@ Wishlist:
           </li>
           <li id="2. Linux Upskill Challenge">
             <details>
-              <summary><strong>2. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) </strong></summary>
+              <summary><strong>2. Linux Upskill Challenge</strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
                   <sub>
                     <sub> A free, hands-on 20-day Linux system administration course focused on managing real servers. Covers command-line operations, SSH, user management, file permissions, package management, networking, firewalls, system services, logging, troubleshooting, and Bash scripting.<br> link <a href="https://linuxupskillchallenge.org/" target="_blank"> link here</a></sub><br>
@@ -548,7 +548,7 @@ Wishlist:
           </li>
           <li id="3. Linux Voyage — Linux Journey">
             <details>
-              <summary><strong>3. [Linux Voyage — Linux Journey](https://linuxvoyage.github.io/) </strong></summary>
+              <summary><strong>3. Linux Voyage — Linux Journey</strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
                   <sub>
                     <sub>A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> link here</a></sub><br>
