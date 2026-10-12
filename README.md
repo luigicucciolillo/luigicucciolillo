@@ -550,8 +550,7 @@ Wishlist:
             <details>
               <summary><strong>3. Linux Voyage — Linux Journey</strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
-                  <sub>
-                    <sub>A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> link here</a></sub><br>
+                  <sub> A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> link here</a><br>
                   </sub>  
                 </blockquote>
             </details>
