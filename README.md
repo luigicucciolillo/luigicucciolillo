@@ -521,5 +521,43 @@ Wishlist:
     </ul>
     </details>
     </td>
+    <!--------------------------------->
+    <td valign="top" id="Linux as a game">
+    <details>
+        <summary><strong>Linux as a game</strong></summary>
+      <ul>
+          <li id="1. [OverTheWire — Wargames](https://overthewire.org/wargames/)">
+            <details>
+              <summary><strong>1. [OverTheWire — Wargames](https://overthewire.org/wargames/) </strong></summary>
+                <blockquote style="margin:0; padding-left:1em;">
+                  <sub>
+                    <sub> Interactive security challenges designed to teach Linux and cybersecurity through hands-on exercises. Topics include Linux commands, file permissions, SSH, networking, web security, cryptography, reverse engineering, and binary exploitation.<br> link <a href="https://overthewire.org/wargames/" target="_blank"> link here</a></sub><br>
+                  </sub>  
+                </blockquote>
+            </details>
+          </li>
+          <li id="2. [Linux Upskill Challenge](https://linuxupskillchallenge.org/)">
+            <details>
+              <summary><strong>2. [Linux Upskill Challenge](https://linuxupskillchallenge.org/) </strong></summary>
+                <blockquote style="margin:0; padding-left:1em;">
+                  <sub>
+                    <sub> A free, hands-on 20-day Linux system administration course focused on managing real servers. Covers command-line operations, SSH, user management, file permissions, package management, networking, firewalls, system services, logging, troubleshooting, and Bash scripting.<br> link <a href="https://linuxupskillchallenge.org/" target="_blank"> link here</a></sub><br>
+                  </sub>  
+                </blockquote>
+            </details>
+          </li>
+          <li id="3. [Linux Voyage — Linux Journey](https://linuxvoyage.github.io/)">
+            <details>
+              <summary><strong>3. [Linux Voyage — Linux Journey](https://linuxvoyage.github.io/) </strong></summary>
+                <blockquote style="margin:0; padding-left:1em;">
+                  <sub>
+                    <sub>A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> link here</a></sub><br>
+                  </sub>  
+                </blockquote>
+            </details>
+          </li>
+      </ul>
+    </details>
+    </td>
   </tr>
 </table>
