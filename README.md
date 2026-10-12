@@ -531,7 +531,7 @@ Wishlist:
               <summary><strong>1. OverTheWire — Wargames </strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
                   <sub>
-                    <sub> Interactive security challenges designed to teach Linux and cybersecurity through hands-on exercises. Topics include Linux commands, file permissions, SSH, networking, web security, cryptography, reverse engineering, and binary exploitation.<br> link <a href="https://overthewire.org/wargames/" target="_blank"> link here</a></sub><br>
+                    Interactive security challenges designed to teach Linux and cybersecurity through hands-on exercises. Topics include Linux commands, file permissions, SSH, networking, web security, cryptography, reverse engineering, and binary exploitation.<br> link <a href="https://overthewire.org/wargames/" target="_blank"> here</a><br>
                   </sub>  
                 </blockquote>
             </details>
@@ -541,7 +541,7 @@ Wishlist:
               <summary><strong>2. Linux Upskill Challenge</strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
                   <sub>
-                    <sub> A free, hands-on 20-day Linux system administration course focused on managing real servers. Covers command-line operations, SSH, user management, file permissions, package management, networking, firewalls, system services, logging, troubleshooting, and Bash scripting.<br> link <a href="https://linuxupskillchallenge.org/" target="_blank"> link here</a></sub><br>
+                    A free, hands-on 20-day Linux system administration course focused on managing real servers. Covers command-line operations, SSH, user management, file permissions, package management, networking, firewalls, system services, logging, troubleshooting, and Bash scripting.<br> link <a href="https://linuxupskillchallenge.org/" target="_blank"> here</a><br>
                   </sub>  
                 </blockquote>
             </details>
@@ -550,7 +550,7 @@ Wishlist:
             <details>
               <summary><strong>3. Linux Voyage — Linux Journey</strong></summary>
                 <blockquote style="margin:0; padding-left:1em;">
-                  <sub> A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> link here</a><br>
+                  <sub> A structured Linux learning platform covering fundamental and intermediate concepts. Topics include shell commands, text processing, users and permissions, processes, filesystems, kernel architecture, boot processes, systemd, package management, networking, routing, DNS, and troubleshooting.<br> link <a href="https://linuxvoyage.github.io/" target="_blank"> here</a><br>
                   </sub>  
                 </blockquote>
             </details>
